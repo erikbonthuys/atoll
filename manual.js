@@ -1,0 +1,8993 @@
+export const manual = {
+  "sections": [
+    {
+      "title": "ATP",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "RADIO AIDS",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": "     "
+        }
+      ]
+    },
+    {
+      "title": "INDEX",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS",
+      "content": "  1. Basic Radio Theory          01 2. VDF Direction Finding        19 ",
+      "subsections": []
+    },
+    {
+      "title": "3. NDB                21",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "4. VOR                37",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "5. ILS                51",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "6. MLS                61",
+      "content": "7. Radio Altimeters          67 ",
+      "subsections": []
+    },
+    {
+      "title": "8. GPWS               71",
+      "content": "9. Radar Theory            75 ",
+      "subsections": []
+    },
+    {
+      "title": "10.  DME               81",
+      "content": "11.  Weather Radar          89 ",
+      "subsections": []
+    },
+    {
+      "title": "12.  SSR               97",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "13.  TCAS              101",
+      "content": "14.  Doppler              105 ",
+      "subsections": []
+    },
+    {
+      "title": "15.  RNAV              113",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "16.  GPS               119",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Annex A Sample Exams        125",
+          "content": ""
+        },
+        {
+          "title": "Annex B Answers to Questions      145",
+          "content": "   "
+        },
+        {
+          "title": "Copyright \u00a9 2001 Flight Training College of Africa",
+          "content": ""
+        },
+        {
+          "title": "All Rights Reserved. No part of this manual may be reproduced in any manner",
+          "content": "whatsoever including electronic, photographic, photocopying, facsimile, or stored in a retrieval system, without the prior permission of Flight Training College of Africa.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 1",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "BASIC RADIO THEORY",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "PROPAGATION OF RADIO WAVES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "If an alternating current is fed to an aerial some of the power will be radiated outwards from",
+          "content": "the aerial in the form of ELECTROMAGNETIC RADIO WAVES. A similar aerial, parallel to, but at some distance from the first will intercept the electromagnetic radio wave and an alternating current will be induced in the aerial which is identical to the alternating current fed to the transmitting aerial. This is the basis of all radio systems.   "
+        }
+      ]
+    },
+    {
+      "title": "SPEED OF PROPAGATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Radio waves travel approximately at the speed of light:-",
+          "content": " 162 000 Nautical Miles per Second  300 000 000 Metres per Second 186 000 Statute Miles per Second  300 000 Kilometres per Second  "
+        }
+      ]
+    },
+    {
+      "title": "TERMINOLOGY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "CYCLE  A cycle is one complete series of values",
+          "content": " "
+        },
+        {
+          "title": "HERTZ  One hertz is one cycle per second",
+          "content": " "
+        },
+        {
+          "title": "FREQUENCY (f)  The number of cycles per second expressed in Hertz",
+          "content": "1 Cycle per Second  =  1 Hz 1000 Hz         =  1 Khz  (Kilohertz) 1000 Khz         =  1 Mhz (Megahertz) 1000 Mhz       =  1 Ghz (Gigahertz)  "
+        },
+        {
+          "title": "AMPLITUDE  The maximum displacement from the mean value",
+          "content": " "
+        },
+        {
+          "title": "WAVELENGTH (h)  The distance travelled by a radio wave in one cycle",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 1",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "FREQUENCY WAVELENGTH RELATIONSHIP",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A radio wave travels at 300 000 000 metres per second.",
+          "content": ""
+        },
+        {
+          "title": "If the transmission frequency is 1 Hertz, then the physical space covered by 1 cycle is",
+          "content": "300 000 000 metres.  "
+        },
+        {
+          "title": "If the transmission frequency is 2 Hertz, then the physical space covered by 2 cycles is",
+          "content": "300 000 000 metres or the space covered by 1 cycle is 150 000 000 metres.   "
+        },
+        {
+          "title": "FREQUENCY  =  300 000 000 Metres /Sec  Or  162 000 Nautical Miles/ Sec",
+          "content": "in HERTZ    WAVELENGTH in Metres    WAVELENGTH in Nautical Miles  "
+        },
+        {
+          "title": "WAVELENGTH  =  300 000 000 Metres / Sec  Or  162 000 Nautical Miles /Sec",
+          "content": ""
+        },
+        {
+          "title": "FREQUENCY in HERTZ    FREQUENCY in HERTZ",
+          "content": " "
+        },
+        {
+          "title": "Example 1    A VOR transmits on a frequency of 116.1 Mhz, the wavelength in",
+          "content": "metres is :-  "
+        },
+        {
+          "title": "Wavelength  =  300 000 000 Metres / Sec  =  2.584 metres",
+          "content": "116.1 Mhz x 1000 x 1000  "
+        },
+        {
+          "title": "Example 2    A transmission frequency is 13.6 Khz, the wavelength in nautical",
+          "content": "miles is :-  "
+        },
+        {
+          "title": "Wavelength    162 000 nm per second  =  11.9118nm",
+          "content": "13.6 Khz x 1000    "
+        },
+        {
+          "title": "Example 3    A  Weather  Radar  has  a  wavelength  of  3.2  centimetres,  the",
+          "content": "transmission frequency is :-  "
+        },
+        {
+          "title": "Frequency  =  300 000 000 metres per second x 100  =  9 375 000 000   Hz",
+          "content": "3.2 cms    9 375 000 Khz 9 375 Mhz 9.375 Ghz (1GHZ = 1 000 000 000Hz)  "
+        }
+      ]
+    },
+    {
+      "title": "PHASE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Phase refers to a particular point in one cycle.  The start of the cycle is referred to as phase",
+          "content": "0\u00b0, the mid point of the cycle as phase 180\u00b0 and the end of the cycle as phase 360\u00b0 which is the start of the second cycle.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 2",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "PHASE DIFFERENCE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "If two signals are transmitted on the same frequency the two wave forms would superimpose",
+          "content": "each other and their phase can be compared.  If they reach the same value at the same time they are in phase, otherwise they will be out of phase and the phase difference can be measured.  Phase comparison is used by VOR.  The amplitude of the two transmissions need not be the same.  "
+        }
+      ]
+    },
+    {
+      "title": "POLARISATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "When a alternating current is fed to an aerial ELECTROMAGNETIC RADIO WAVES are",
+          "content": "radiated from the aerial.  These waves alternate at the same frequency as the AC fed to the aerial and have two components. An ELECTRICAL (E) FIELD and a MAGNETIC (H or M) "
+        },
+        {
+          "title": "FIELD.  They are at right angles to each other and to the direction of propagation.",
+          "content": "  "
+        },
+        {
+          "title": "If the transmission is from a VERTICAL AERIAL the transmission is said to be VERTICALLY",
+          "content": ""
+        },
+        {
+          "title": "POLARISED.  The ELECTRICAL FIELD will be in the VERTICAL and the MAGNETIC FIELD",
+          "content": "in the HORIZONTAL. For optimum reception the receiving aerial should be vertical.  "
+        },
+        {
+          "title": "If  the  transmission  is  from  a  HORIZONTAL  AERIAL  the  transmission  is  said  to  be",
+          "content": ""
+        },
+        {
+          "title": "HORIZONTALLY POLARISED and the ELECTRICAL FIELD is in the HORIZONTAL and the",
+          "content": ""
+        },
+        {
+          "title": "MAGNETIC FIELD will be in the VERTICAL.",
+          "content": " "
+        },
+        {
+          "title": "NDB transmissions are Vertically polarised while VOR transmissions are Horizontally",
+          "content": "polarised.  "
+        }
+      ]
+    },
+    {
+      "title": "POLAR DIAGRAM",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A polar diagram represents the field strength or the power radiated from an aerial. The polar",
+          "content": "diagram of an NDB (Non Directional Beacon) is a circle, while the polar diagram of an ILS is a lobe, it transmits along the approach path to a runway. All points on the polar diagram are equal signal strength.            "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 3",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "AUDIO FREQUENCIES AF",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The human hearing range is in the order of 50 Hz to 15 Khz, frequencies outside this range",
+          "content": "cannot be heard.  The human voice has a frequency range of 100 Hz to 5 Khz. To transmit and receive such low frequencies demands very large aerials and high transmission power.  "
+        }
+      ]
+    },
+    {
+      "title": "RADIO FREQUENCIES RF",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Radio Frequencies are outside the human hearing range.  To transmit a frequency of 400",
+          "content": ""
+        },
+        {
+          "title": "Khz is relatively simple but cannot be heard by the human ear.  To make the signal audible a",
+          "content": ""
+        },
+        {
+          "title": "Beat Frequency Oscillator is used.  The BFO in the receiver produces internally a frequency",
+          "content": "(398 Khz) similar to that being received (400 Khz).  It then takes the difference between the two frequencies (2 Khz) which is an Audio Frequency and is fed to the headphones, thus a steady tone is heard.  This is the principle of ADF/NDB reception.  "
+        }
+      ]
+    },
+    {
+      "title": "FREQUENCY BAND RANGE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Listed is a table of frequency bands that concern us:",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "BAND  FREQUENCY RANGE",
+      "content": "",
+      "subsections": [
+        {
+          "title": "VLF  3-30KHz",
+          "content": ""
+        },
+        {
+          "title": "Very Low Frequency",
+          "content": ""
+        },
+        {
+          "title": "LF  30-300KHz",
+          "content": ""
+        },
+        {
+          "title": "Low Frequency",
+          "content": ""
+        },
+        {
+          "title": "MF  300KHz-3MHz",
+          "content": ""
+        },
+        {
+          "title": "Medium Frequency",
+          "content": ""
+        },
+        {
+          "title": "HF  3-30MHz",
+          "content": ""
+        },
+        {
+          "title": "High Frequency",
+          "content": ""
+        },
+        {
+          "title": "VHF  30-300MHz",
+          "content": ""
+        },
+        {
+          "title": "Very High Frequency",
+          "content": ""
+        },
+        {
+          "title": "UHF  300MHz-3GHz",
+          "content": ""
+        },
+        {
+          "title": "Ultra High Frequency",
+          "content": ""
+        },
+        {
+          "title": "SHF  3-30GHz",
+          "content": ""
+        },
+        {
+          "title": "Super High Frequency",
+          "content": ""
+        },
+        {
+          "title": "EHF  30-300GHz",
+          "content": ""
+        },
+        {
+          "title": "Extremely High Frequency",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "MODULATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The process of impressing intelligence or information onto a radio wave is termed modulation.",
+          "content": ""
+        },
+        {
+          "title": "As mentioned above the transmission from an NDB can be heard by the use of a BFO, but",
+          "content": "the NDB has to be identified before any bearings can be used.  The 400 Khz transmission is called the Carrier Wave and the IDENT can be transmitted by starting and stopping the CW so as to form the dots and dashes of the Morse code.  This is called KEYED CW.  "
+        }
+      ]
+    },
+    {
+      "title": "MODULATION INDEX",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Difference in frequency",
+          "content": ""
+        },
+        {
+          "title": "Carrier Wave",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 4",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "AMPLITUDE MODULATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "This  method  may  be  used  in  one  or  two  ways  to  transmit  coded  messages  at  audio",
+          "content": "frequencies (AF) or to radiate speech, music etc.  "
+        },
+        {
+          "title": "As the name suggests in this method the amplitude of the carrier is varied in conformation",
+          "content": "with the amplitude of the audio modulating signal, keeping the carriers frequency constant.  "
+        },
+        {
+          "title": "With amplitude modulation, the audio frequency (AF) is impressed on the carrier frequency,",
+          "content": "the amplitude of the carrier wave (RF) is varied by the amplitude of the audio frequency (AF) keeping the carrier frequency constant.  When transmitting complex information such as speech, we have the problem of transmitting an extremely large number of sine waves. Since the effect of each modulating sine wave on the radio frequency (RF) carrier is similar, only a single sine wave modulating frequency (AF) is shown below. "
+        },
+        {
+          "title": "Simple",
+          "content": ""
+        },
+        {
+          "title": "Modulating",
+          "content": ""
+        },
+        {
+          "title": "Waveform",
+          "content": ""
+        },
+        {
+          "title": "Unmodulated",
+          "content": ""
+        },
+        {
+          "title": "Carrier Wave",
+          "content": ""
+        },
+        {
+          "title": "Modulated",
+          "content": ""
+        },
+        {
+          "title": "Carrier Wave",
+          "content": "for "
+        },
+        {
+          "title": "Transmission",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "DEPTH OF MODULATION",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Depth of modulation is expressed as a percentage. It is the ratio of",
+          "content": ""
+        },
+        {
+          "title": "Amplitude of the Audio Frequency           x 100",
+          "content": ""
+        },
+        {
+          "title": "Amplitude of the Radio Frequency",
+          "content": " "
+        },
+        {
+          "title": "Over modulation causes distortion of the Audio Frequency. The ideal depth of modulation is",
+          "content": "slightly less than 100 %. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 5",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "FREQUENCY MODULATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "This technique of conveying information was developed in the USA after the shortcomings of",
+          "content": ""
+        },
+        {
+          "title": "AM transmission due to external unwanted noise became apparent during the 1st World War.",
+          "content": ""
+        },
+        {
+          "title": "It is achieved by varying the frequency of the carrier in accordance with the change in",
+          "content": "amplitude of the carrier of the audio, keeping the amplitude of the carrier constant.     "
+        },
+        {
+          "title": "The amplitude of the Radio Frequency is kept constant but the frequency varies as the",
+          "content": "amplitude of the Audio Frequency varies. When the amplitude of the AF is positive the RF frequency  increases  and  when  the  amplitude  of  the  AF  is  negative  the  RF  frequency decreases. In the receiver a frequency discriminator unit detects the frequency deviations and converts them to useful information.   "
+        }
+      ]
+    },
+    {
+      "title": "SIDEBANDS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Sidebands are additional frequencies which occur when a carrier frequency is amplitude",
+          "content": "modulated by a lower audio frequency. The three frequencies are :-  "
+        },
+        {
+          "title": "Carrier frequency",
+          "content": ""
+        },
+        {
+          "title": "Carrier frequency + Audio frequency",
+          "content": ""
+        },
+        {
+          "title": "Carrier frequency - Audio frequency",
+          "content": "   "
+        },
+        {
+          "title": "Bandwidth",
+          "content": "  398 Khz                400 Khz                    402 Khz "
+        },
+        {
+          "title": "Lower Sideband       Carrier frequency        Upper Sideband",
+          "content": "  "
+        },
+        {
+          "title": "A carrier wave of 400 Khz is amplitude modulated by an audio frequency of 2 Khz resulting in",
+          "content": "a lower sideband of 398 Khz and an upper sideband of 402 Khz and a bandwidth of 4 Khz. "
+        },
+        {
+          "title": "Each sideband is a mirror image of the other and carries the same information. If one",
+          "content": "sideband is transmitted there is a saving of transmission power and a narrower bandwidth. "
+        },
+        {
+          "title": "With SSB transmissions the carrier frequency has to be reinserted by a BFO at the receiver",
+          "content": "to resolve the incoming signals.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 6",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "DESIGNATION OF EMISSIONS",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "BANDWIDTH",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The bandwidth is expressed by three numerals and one letter.  The letter occupies the",
+          "content": "position of the decimal place and represents the unit of bandwidth.   300H = 300Hz      2K70 = 2.7Khz      1K15 = 1.15Khz      3M00 = 3Mhz  "
+        }
+      ]
+    },
+    {
+      "title": "CLASS OF EMISSION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The three basic characteristics are indicated by three symbols",
+          "content": "  FIRST SYMBOL = TYPE OF MODULATION OF THE MAIN CARRIER  "
+        },
+        {
+          "title": "A  Double Sideband",
+          "content": ""
+        },
+        {
+          "title": "H  Single Sideband  full carrier",
+          "content": ""
+        },
+        {
+          "title": "J  Single Sideband  suppressed carrier",
+          "content": ""
+        },
+        {
+          "title": "P  Unmodulated pulse transmission",
+          "content": " SECOND SYMBOL = NATURE OF SIGNALS MODULATING THE MAIN CARRIER  1.  Single channel containing information without the use of a modulating subcarrier 2.  Single channel containing information with the use of a modulating subcarrier 3.  Single channel containing analogue information (voice) 7.  Two or more channels containing quantised or digital information. 8.  Two or more channels containing analogue information. 9.  Composite system comprising 1, 2 or 7 above, with 3 or 8 above. "
+        },
+        {
+          "title": "X.  Cases not otherwise covered.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "THIRD SYMBOL = TYPE OF INFORMATION TRANSMITTED",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A  Telegraphy for aural reception (IDENT)",
+          "content": ""
+        },
+        {
+          "title": "B  Telegraphy for automatic reception",
+          "content": ""
+        },
+        {
+          "title": "E  Telephony including sound broadcasting",
+          "content": ""
+        },
+        {
+          "title": "D  Data transmission",
+          "content": ""
+        },
+        {
+          "title": "W  Combination of above",
+          "content": ""
+        },
+        {
+          "title": "Examples  A1A NDB    A2A NDB    A9W VOR    A3E VHFR/T     J3E SSBHFR/T",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 7",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "PROPERTIES OF RADIO WAVES",
+      "content": " 1.  In a given medium radio waves travel at a constant speed 2.  When passing from one medium to another the velocity and direction changes 3.  When uninterrupted, radio waves travel in a straight line 4.  Radio waves are reflected by objects proportional to their wavelength   ",
+      "subsections": []
+    },
+    {
+      "title": "FREQUENCY BAND  FREQUENCY  WAVELENGTH  USES",
+      "content": "",
+      "subsections": [
+        {
+          "title": "VLF VERY LOW  3 to 30 Khz  100 to 10 KM  Loran",
+          "content": ""
+        },
+        {
+          "title": "LF LOW  30 to 300 Khz  10 to 1 KM  NDB",
+          "content": ""
+        },
+        {
+          "title": "MF MEDIUM  300 to 3000 KHz  1000 to 100 Metres  NDB",
+          "content": ""
+        },
+        {
+          "title": "HF HIGH  3 to 30 Mhz  100 to 10 Metres  HF R/T",
+          "content": ""
+        },
+        {
+          "title": "VHF VERY HIGH  30 to 300 Mhz  10 to 1 Metres  VOR ILS LOC",
+          "content": ""
+        },
+        {
+          "title": "UHF ULTRA HIGH  300 to 3000 Mhz  100 to 10 CMS  DME ILS GP, GPS",
+          "content": ""
+        },
+        {
+          "title": "SHF SUPER HIGH  3 to 30 Ghz  10 to 1 CM  ASR DOPPLER",
+          "content": ""
+        },
+        {
+          "title": "EHF EXTREMELY HIGH  30 to 300 Ghz  10 to 1 MM  SURFACE RADAR",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "PROPAGATION OF RADIO WAVES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Radio waves fall into one or two of the following three categories.  Direct waves, Ground",
+          "content": "waves and Sky waves.   "
+        }
+      ]
+    },
+    {
+      "title": "DIRECT WAVES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Direct waves follow a straight line path, they do not follow the Earth's curvature or are",
+          "content": "reflected by the ionosphere     "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 8",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "DIRECT WAVES   (VHF UHF SHF EHF)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Frequencies in the VHF, UHF, SHF and EHF bands are DIRECT WAVES.  Due to their high",
+          "content": "frequencies they pass through the ionosphere and escape into space. They do not bend with the surface of the earth thus their range is limited to 'line of sight'.  The distance of the horizon is calculated by 1.25 \u221a H where H is the height of the observer in feet.  There is a slight improvement in range due to atmospheric refraction and the range of VHF in nautical miles is calculated by :-  "
+        },
+        {
+          "title": "Range in nms     =  1.25 \u221a Transmitter height in feet    +   1.25 \u221a Receiver height in feet",
+          "content": "  GROUND OR SURFACE WAVES (VLF LF MF HF)  "
+        },
+        {
+          "title": "Electromagnetic radio waves radiating from an Omni-directional aerial travel in a straight line.",
+          "content": ""
+        },
+        {
+          "title": "Under certain conditions these waves will bend and follow the surface of the Earth giving",
+          "content": "increased ranges.  The two primary factors that cause radio waves to bend are diffraction and attenuation.  "
+        },
+        {
+          "title": "Ground waves follow the curvature of the Earth's surface (diffraction).",
+          "content": "    "
+        }
+      ]
+    },
+    {
+      "title": "DIFFRACTION AND ATTENUATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Diffraction causes the radio waves to bend and go over obstacles in their path.  The extent of",
+          "content": "diffraction depends on the frequency, being maximum at very Low frequencies, reducing as frequency is increased.  This downward bending is assisted by surface attenuation.  The lower part of the radio wave comes into contact with the surface and induces currents in it, losing some of its energy and slowing down.  This slowing down of the bottom gives the radio wave a forward and downward tilt encouraging it to follow the curvature of the Earth.  Surface attenuation varies on two factors - Frequency and the type of surface.  The higher the frequency the greater the attenuation.  Surface attenuation is least over water and greatest over the Polar icecaps and deserts.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 9",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "SKY WAVES (VLF LF MF HF)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Sky waves are radio transmissions that are reflected by the ionosphere and returned to earth.",
+          "content": ""
+        },
+        {
+          "title": "They are the principle method of long range communication.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "IONOSPHERE",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "The ionosphere completely surrounds the earth.  Ultra-violet radiation from the sun striking",
+          "content": "the  gas  molecules  of  the  ionosphere  causes  electrons  to  be  discharged.    These  free electrons form a reflective layer which will reflect certain frequencies and they will return to earth.  Absorption of solar radiation is uneven at various levels of the atmosphere and three separate layers (D, E and Fl may be formed).   "
+        },
+        {
+          "title": "D Layer  Average altitude 75 Kms  Reflects frequencies up to 500 Khz",
+          "content": ""
+        },
+        {
+          "title": "Disappears at night",
+          "content": " "
+        },
+        {
+          "title": "E layer  Average altitude 125 Kms  Reflects frequencies up to 2 Mhz",
+          "content": ""
+        },
+        {
+          "title": "Electron density higher than the d layer",
+          "content": ""
+        },
+        {
+          "title": "Known as the Kennelly-Heaviside layer",
+          "content": " "
+        },
+        {
+          "title": "F layer   Average altitude 225 Kms  Reflects frequencies up to 30 Khz",
+          "content": ""
+        },
+        {
+          "title": "Electron density higher than the E layer",
+          "content": ""
+        },
+        {
+          "title": "Known as the Appleton layer",
+          "content": ""
+        },
+        {
+          "title": "May split into Fl and F2 layers during day",
+          "content": " "
+        },
+        {
+          "title": "As solar radiation is the cause, the maximum electron density of the ionosphere occurs at",
+          "content": "midday in the summer.  As the D layer disappears at night the apparent altitude of the ionosphere increases at night.  "
+        }
+      ]
+    },
+    {
+      "title": "ELECTRON DENSITY   ALTITUDE",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "DAY    HIGH         LOW",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "NIGHT   LOW         HIGH",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 10",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "IONOSPHERE ATTENUATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Radio energy is absorbed by the ionosphere.  The amount of attenuation depends on :-",
+          "content": " 1.  The electron density of the layer.  The greater the electron density the greater the attenuation. 2.  Penetration depth - The deeper the signal penetrates into the layer the greater the attenuation. 3.  Frequency - The higher the frequency, the greater the penetration and attenuation and the less the diffraction, therefore lower frequencies are used at night.  "
+        }
+      ]
+    },
+    {
+      "title": "CONDITIONS FOR REFRACTION - CRITICAL ANGLE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The  angle  at  which  the  radio  wave  enters  the  ionosphere  is  one  of  the  factors  which",
+          "content": "determines whether the radio wave will pass through the ionosphere or be refracted and return to earth.  If it strikes the layer at a small angle to the vertical it may bend, but not enough to be returned to earth.  As the angle is increased bending increases until an angle is reached where the radio wave will return to earth - this is the first sky wave return and the angle is called the critical angle.  At greater angles there will be an uninterrupted flow of sky waves.  "
+        }
+      ]
+    },
+    {
+      "title": "CRITICAL ANGLE INCREASES WITH FREQUENCY",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 11",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "DEAD SPACE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Dead space occurs mainly in the HF frequency band where the ground wave is very limited",
+          "content": "(in the order of 80 to 100 nm) and the first sky wave return occurs at some distance from the transmitter being refracted from the upper layers of the ionosphere.  With VLF, LF and MF the ground wave increases and the sky wave returns from the lower layers of the ionosphere. "
+        },
+        {
+          "title": "Usually there is no dead space at these low frequencies.",
+          "content": " 9 Mhz                         18 Mhz  "
+        },
+        {
+          "title": "At night the ionosphere is higher and weaker than during the day, thus at night, the 18 MHz",
+          "content": "frequency penetrates further into the ionosphere before refraction and returns from a higher layer, the dead space increases and the first sky wave returns at a much greater distance from the transmitter.  To restore communications the day frequency (18 Mhz) is halved (9 "
+        },
+        {
+          "title": "MHz), the critical angle reduces and the distance to the first sky wave return also reduces",
+          "content": "restoring communications.   NIGHT FREQUENCIES ARE USUALLY HALF THE DAY FREQUENCIES   "
+        }
+      ]
+    },
+    {
+      "title": "FADING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Due to fluctuations of the ionosphere, relative phases of skywaves arriving at the receiver",
+          "content": "vary in random fashion affecting the amplitude of the receiver output. It is also possible to receive two sky waves from different heights in the ionosphere. Since the distance travelled is different, the two signals could be out of phase thus their amplitudes will cancel giving a weak signal. If they are in phase the signal is stronger. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 12",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "WAVE SUMMARY TABLES",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "GROUND WAVES",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "FREQUENCY  RANGE  ATTENUATION  BENDING  STATIC",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "VLF  4000 NM +  LEAST  MAXIMUM  SEVERE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "LF  1500 NM  SLIGHT  HIGH  REDUCING",
+      "content": "MF  500 \u2013 100 NM  INCREASING  MEDIUM  REDUCING HF  80 \u2013 100 NM  SEVERE  SLIGHT  REDUCING ",
+      "subsections": []
+    },
+    {
+      "title": "VHF  NIL  NIL  NIL  NIL",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "SKY WAVES",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "FREQUENCY  ATTENUATION  REFRACTION  STATIC",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "VLF  VERY LARGE  LOW  SEVERE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "LF  LESS THAN VLF  LOW  REDUCING",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "MF  LESS THAN LF  MEDIUM  REDUCING",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "HF  SLIGHT  HIGH  REDUCING",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "VHF  NIL  NIL  NIL",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "NOTE:   Refraction changes from day to night.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "VHF COMMUNICATIONS",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "Frequencies    118 to 136 Mhz    720 Channels    25 Khz apart",
+          "content": " "
+        },
+        {
+          "title": "Transmission   A3E Amplitude Modulated   Vertically Polarised",
+          "content": " "
+        },
+        {
+          "title": "Direct wave    Range Line of Sight",
+          "content": " "
+        },
+        {
+          "title": "Range in Nms  =  1.25   \u221a Transmitter height in feet    +  1.25  \u221a Receiver Height in feet",
+          "content": "  "
+        },
+        {
+          "title": "VHF receivers in aircraft incorporate a SQUELCH CONTROL which disables the receiver",
+          "content": "output  when  no  signals  are  being  received  to  prevent  noise  being  fed  to  the  crew headphones.    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 13",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "HF COMMUNICATIONS",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "Frequencies    2 to 22 Mhz",
+          "content": " "
+        },
+        {
+          "title": "Transmission    A3E Double Sideband    J3E Single Sideband (SSB)  Amplitude Modulated",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "SELCAL SELECTIVE CALLING SYSTEM",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Selcal allows a ground station to call an aircraft using HF or VHF without the flight crew",
+          "content": "having to wear headphones continuously to monitor the station frequency.  A coded signal is transmitted from the ground station and received at the aircraft.  The Selcal decoder in the aircraft activates aural and visual alerts on the flight deck if the received code corresponds to the aircraft Selcal code.  "
+        },
+        {
+          "title": "Each Selcal transmitted code consists of two radio frequency pulses.  During each pulse the",
+          "content": "carrier wave is 90% modulated with two tones, giving four tones per code, the frequencies of the tones determine the code. An individual code is assigned to each aircraft e.g. FJ-AC which is entered on the ATC flight plan.   "
+        }
+      ]
+    },
+    {
+      "title": "MAXIMUM USEABLE FREQUENCY  (MUF)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The MUF Maximum Useable Frequency is the highest frequency at which radio waves are",
+          "content": "refracted and returned to earth.  At higher frequencies the radio waves are not refracted and escape into space.  The MUF changes from day to day and even from hour to hour.  It depends on the state of the ionosphere and at times can drop as low as 5 MHz.  "
+        }
+      ]
+    },
+    {
+      "title": "EMERGENCY FREQUENCIES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Aeronautical Emergency  121.5 Mhz  243.0 Mhz  406Khz",
+          "content": ""
+        },
+        {
+          "title": "International Distress   500 Khz  2182 Khz",
+          "content": ""
+        },
+        {
+          "title": "Survival Craft     8364 Khz",
+          "content": "   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 14",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.   What frequency corresponds to a wavelength of 650 metres?  a)  462 kHz b)  462 Mhz c)  462 Hz  2.   The transmission frequency is 85 MHz, what is the wavelength?  a)  2.83 m b)  3.53 m c)  2.55 m  3.   Skip distance is  a)   The distance between touchdown points of successive skywaves. b)   The distance between the end of the ground wave and the first point skywave return. c)   The distance between the transmitter and the first point of  skywave return.  4.   A radio wave which is modulated at a single audible frequency is classified as:  a)  A1A b)  A2A c)  A3E  5.   HF communications reception by night is affected by:  a)  A reduction of the ionospheric density. b)  The reduced height of the reflective layer. c)  Night time has no affect on HF communication.  6.   Amplitude is:  a)   One complete change of direction of current. b)   The peak value of the current in either direction. c)   The number of cycles per second.  7.   Frequency is:  a)   The distance travelled during the transmission in one cycle. b)   One complete change of direction of current. c)   The number of cycles per second.  8.   Wave length is:  a)   The number of cycles per second. b)   The distance travelled during the transmission of one cycle. c)   One complete change of direction of current. ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 15",
+          "content": " 9.   Polarisation is the plane of oscillation of the:  a)   Electrical field of the electromagnetic wave. b)   The magnetic field of the electromagnetic wave. c)   The electric and magnetic field of an electromagnetic wave.  10.   How many wavelengths of frequency 120 MHz are equivalent to 65 ft?  a)  26 b)  14 c)  8  11.   The phase of an alternating current is:  a)   Particular points in a cycle of two alternating currents provided they are at different frequencies. b)   The stage reached in an alternating currents' cycle at any given instant of time. c)   The direction of the magnetic field in an alternating current.  12.   Impressing intelligence and information upon a carrier wave is:  a)   Polarisation. b)   Modulation. c)   Phase difference.  13.   Amplitude modulation is:  a)   Varying the frequency of the carrier wave in accordance with amplitude of the audio signal, keeping the amplitude of the carrier constant. b)   Varying the amplitude of the audio frequency in accordance with the amplitude of the carrier wave, keeping the frequency of   the carrier constant. c)   Varying the amplitude of the carrier wave in accordance with the amplitude of the audio modulating signal keeping the carrier frequency constant.  14.   Advantages of SSB transmissions are:  a)   Broader bandwidth and transmitting power concentrated in two frequencies instead of three. b)   Narrower bandwidth and transmitting power concentrated in two frequencies instead of three. c)   Narrower bandwidth and transmitting power concentrated in three frequencies instead of two.  15.   Which  of  the  following  radio  emissions  require  a  BFO  to  make  it  audible  for identification?  a)  A1A b)  A3E c)  A2A "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 16",
+          "content": "16.   Which of the following statements is correct?  a)   As frequency increases, surface attenuation decreases. b)   As frequency increases, ionospheric attenuation increases. c)   As frequency increases, surface attenuation increases.  17.   Fading of LF and MF at night may be due to:  a)   Poor receiver sensitivity and ionospheric attenuation. b)   Simultaneous reception of sky waves and surface waves. c)   Reception of space waves and atmospheric attenuation.  18.   For HF communication at night the frequency selected should be:  a)   Half the day frequency. b)   Twice the day frequency. c)   Same as the day frequency.  19.   An aircraft at FL120 will be able to communicate with a VHF ground station at 150 ft "
+        },
+        {
+          "title": "AMSL at a maximum range of:",
+          "content": " a)  122 nm b)  137 nm c)  152 nm  20.   During day time the ionosphere is split into the following three distinct layers:  a)   E layer, Appleton layer, F layer. b)   D layer, Kennelly-Heaviside layer, Appleton layer. c)   D layer, Kennelly-Heaviside layer, E layer.  21.   Static interference is the worst on:  a)  MF b)  HF c)  VHF  22.   The ionospheric density of the E layer is greatest at:  a)   Midday in summer. b)   Midday in winter. c)   Midnight in summer.  23.   The F layer of the ionosphere:  a)   May split up into two layers. b)   Is less dense than the other layers. c)   Is the lowest layer of the ionosphere.  24.   The critical angle of a radio wave:  a)   Varies with the frequency. b)   Varies with phase angle. c)   Is constant for all frequencies. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 17",
+          "content": "25.   The international distress frequencies are:  a)   500 kHz      121.5 kHz       243 MHz       8364 MHz b)   500 MHz     121.5 MHz      243  KHZ       8364 MHz c)   500 kHz       121.5 MHz      243 MHz  8364 kHz  26.   Ground wave attenuation is the greatest on:  a)  MF b)  VLF c)  HF  27.   VHF communication frequencies are:  a)   108 to 112 MHz b)   108 to 117.9 MHz c)   118 to 136 MHz  28.   The \"squelch\" control on a VHF communication receiver:  a)   Extends the range of the receiver. b)   Prevents feed-back. c)   Disables receiver output when no signals are being received so preventing noise being fed to crew headsets.  29.   The HF RT Selcal transmission uses:  a)   The keyed CW principle. b)   Pulse transmission. c)   Modulating tones.  30.   A constant AM frequency of 500 kHz causes a carrier to vary between 8798.5 MHz and 8801.5 MHz. The modulation index is:  a)  1/3 b)  3 c)  6  31.   The F layer of the ionosphere is called the:  a)   Kennelly-Heaviside layer. b)   Appleton layer. c)   Gauss layer.  32.   What is the ideal length of the transmitter and receiver aerial?  a)   Equal to the power. b)   At least 10 meter. c)   Equal to the wavelength.  33.   The most common source of static is: a)   Lightning. b)   Noise. c)   Turbulence "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 18",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 2",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "VERY HIGH FREQUENCY",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "-  DIRECTION FINDING  (VDF)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Major airports in South Africa have a VDF service, it is usually on the Approach frequency",
+          "content": "and  will  provide  radio  bearings  to  aircraft  on  request.    The  aircraft  transmits  on  the appropriate frequency and direction finding equipment at the airport will sense the direction of the incoming radio wave.  The bearing will be passed to the aircraft in Q-code form.  "
+        },
+        {
+          "title": "Q CODE  QTE  TRUE bearing FROM the VDF station",
+          "content": ""
+        },
+        {
+          "title": "QDR  MAGNETIC bearing FROM the VDF station",
+          "content": ""
+        },
+        {
+          "title": "QUJ  TRUE track TO the VDF station",
+          "content": ""
+        },
+        {
+          "title": "QDM  MAGNETIC track TO the VDF station",
+          "content": " "
+        },
+        {
+          "title": "QDM  \u00b1 Variation    QUJ",
+          "content": " \u00b1 180\u00ba                      \u00b1 180\u00ba  "
+        },
+        {
+          "title": "QDR  \u00b1 Variation    QTE",
+          "content": " "
+        },
+        {
+          "title": "Take the shortest route to change one bearing to another",
+          "content": "   "
+        },
+        {
+          "title": "As the VDF operator does not know the magnetic variation at the aircraft the magnetic",
+          "content": "variation at the station is used for magnetic bearings (QDM and QDR).  "
+        },
+        {
+          "title": "ACCURACY        Class A bearings accurate to within  \u00b12\u00b0",
+          "content": ""
+        },
+        {
+          "title": "Class B bearings accurate to within  \u00b15\u00b0",
+          "content": ""
+        },
+        {
+          "title": "Class C bearings accurate to within \u00b110\u00b0",
+          "content": " "
+        },
+        {
+          "title": "RANGE        Line of sight",
+          "content": "    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 19",
+          "content": "                                  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 20",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 3",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "NON DIRECTIONAL BEACON (NDB)",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "AUTOMATIC DIRECTION FINDING (ADF)",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "FREQUENCY BAND   200 TO 1750 Khz (ICAO) Upper LF and MF frequency bands",
+          "content": " "
+        },
+        {
+          "title": "TRANSMISSION    Omni-directional Vertically Polarised",
+          "content": " "
+        },
+        {
+          "title": "TYPE OF EMISSION  A1A  CW with IDENT by on/off keying of the carrier wave",
+          "content": ""
+        },
+        {
+          "title": "ADF  needle  wanders  during  transmission  of  IDENT",
+          "content": ""
+        },
+        {
+          "title": "BFO on to make IDENT audible",
+          "content": " "
+        },
+        {
+          "title": "A2A  ICAO recommended.   IDENT Amplitude Modulated.",
+          "content": ""
+        },
+        {
+          "title": "No ADF needle wander during IDENT",
+          "content": ""
+        },
+        {
+          "title": "BFO off to hear IDENT as it is Amplitude Modulated",
+          "content": " "
+        },
+        {
+          "title": "RANGE  Varies as power available.  To double the range the power must",
+          "content": "be increased by a factor of four.  Long range NDB's use A1A as the range is greater than A2A for a given power   "
+        }
+      ]
+    },
+    {
+      "title": "ADF ROTATABLE LOOP THEORY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The two vertical arms of the loop aerial intercept the vertical electrical field of an incoming",
+          "content": "radio wave from a NDB and a voltage is induced in each arm. The induced voltage will be proportional to the angle between the loop and the direction of the radio wave.  "
+        },
+        {
+          "title": "PLANE OF LOOP PARALLEL TO INCOMING RADIO WAVE (Right sketch on next page)",
+          "content": " "
+        },
+        {
+          "title": "When the plane of the loop is parallel to the incoming signal one vertical arm will be closer to",
+          "content": "the NDB than the other.  There will be a phase difference between the signals arriving in the two arms.  The current flow in the two arms will be in opposition and difference between the two will be fed to the receiver.  The distance between the two vertical members of the loop is maximum therefore the phase difference and current flow will also be maximum.  This maximum position is not clearly defined and errors can result. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 21",
+          "content": "     PLANE OF LOOP PERPENDICULAR TO INCOMING RADIO WAVE (LEFT SKETCH)  "
+        },
+        {
+          "title": "When the plane of the loop is perpendicular to the incoming signal the two vertical arms of",
+          "content": "the loop will be the same distance from the NDB, thus the incoming signal will arrive at both arms at the same instant and at the same phase and the resultant current flow is nil.  The zero position is clearly defined and is far more accurate than the maximum position and is used for bearing measurement.  However there is a 180\u00b0 ambiguity.  "
+        }
+      ]
+    },
+    {
+      "title": "180\u00b0 AMBIGUITY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The 180\u00b0 ambiguity is resolved by a sense aerial which is omni-directional and its polar",
+          "content": "diagram is a circle.  The polar diagram of the loop aerial is a figure of eight.  The radius of the sense aerial polar diagram is electronically adjusted to fit the figure of eight polar diagram. "
+        },
+        {
+          "title": "When the two fields are mixed the resultant polar diagram is a CARDIOID and has only one",
+          "content": "null resolving the 180\u00b0 problem.    "
+        }
+      ]
+    },
+    {
+      "title": "ADF AERIALS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "LOOP AERIAL ONLY   Figure of eight polar diagram, -180\u00b0 ambiguity",
+          "content": " "
+        },
+        {
+          "title": "SENSE AERIAL ONLY  Omni-directional Circular polar diagram",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "USED FOR TUNING NDB",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "LOOP + SENSE    CARDIOID polar diagram Resolves 180\u00b0 ambiguity of Loop",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "USED FOR BEARINGS",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 22",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "FIXED LOOP THEORY",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "With the modern ADF the loop antenna consists of an orthogonal pair of coils wound on a",
+          "content": "single  ferrite  core  mounted  in  the  horizontal  plane  which  intercepts  the  magnetic  (H) component of an electro-magnetic radio wave from a NDB.  One coil is aligned with the fore and aft axis of the aircraft and the other with the athwartships axis.  The radio wave imparts magnetism to the ferrite core which in turn induces a current in each coil which depends on the direction of the magnetic field or the direction of the incoming radio wave.  The induced currents in the coils are transmitted to two starter coils of a goniometer where the magnetic field detected by the loop will be recreated.  If the rotor or search coil is turned through 360\u00b0 there will be two maximum and two null positions exactly as in the rotating loop (a figure of eight polar diagram).  The output from a sense aerial is combined with the figure of eight polar diagram to give a cardioid.  A motor drives the rotor coil and the ADF needle to the null position of the cardioid thus the ADF relative bearing is shown at all times.  "
+        }
+      ]
+    },
+    {
+      "title": "ADF ERRORS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Night Effect",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 23",
+          "content": ""
+        },
+        {
+          "title": "During the day sky waves from NDB transmissions are absorbed or fully attenuated by the D",
+          "content": "layer of the ionosphere, thus there are no sky waves and no error by day.  At night the D layer disappears and NDB transmissions are refracted by the E layer of the ionosphere.  "
+        },
+        {
+          "title": "An aircraft may receive both ground and sky waves, the sky waves entering the horizontal",
+          "content": "members of the loop.  The ground and sky waves mix and give a false null.  As the sky wave is unstable, the null will vary rapidly and the ADF needle will oscillate and become difficult to determine an accurate bearing.  If the aircraft is receiving sky waves only, the null may be sharp, but the bearing incorrect as the reflecting plane of the ionosphere may not be parallel to the earth's surface.  "
+        },
+        {
+          "title": "Night effect may be minimised by:-",
+          "content": " 1.  Using  a  lower  frequency  NDB.  Lower  frequencies  have  stronger  ground waves. 2.  Avoid operation at dusk and dawn, the times of greatest ionospheric instability. 3.  Use a high powered NDB. 4.  Use NDB's near the aircraft.  "
+        },
+        {
+          "title": "Quadrantal Error",
+          "content": " "
+        },
+        {
+          "title": "Incoming radio waves are reflected by the fuselage and wings of an aircraft. Signals arriving",
+          "content": "from  the  nose,  tail,  090\u0652  relative  and  270\u00b0  relative  are  not  affected.    Signals  from  the quadrantal points (045\u00b0, 135\u00b0, 225\u00b0 and 315\u00b0 relative) can give large errors.  Many years ago aircraft ADF installations were calibrated by an airborne swing, similar to a compass swing and a quadrantal correction card was prepared.  With modern techniques the aircraft is mapped electronically and corrections are made to the ADF receiver.   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 24",
+          "content": ""
+        },
+        {
+          "title": "Terrain Or Mountain Error",
+          "content": " "
+        },
+        {
+          "title": "High ground may reflect a NDB transmission resulting in multi-path reception.  The ADF",
+          "content": "needle will indicate the mean bearing between the two signals, thus an error.  The error can be minimised by climbing.   "
+        },
+        {
+          "title": "Static Interference",
+          "content": " "
+        },
+        {
+          "title": "Static can affect ADF readings.  Operation in the vicinity of thunderstorms can produce large",
+          "content": "errors, even to the extent of the ADF pointing to the Cb instead of the NDB. Precipitation static caused by flying in rain causes errors.  "
+        },
+        {
+          "title": "Coastal Refraction",
+          "content": " "
+        },
+        {
+          "title": "As a radio wave passes from land to sea its velocity increases and the radio wave bends",
+          "content": "towards the medium with the higher density (land). The error is zero if the radio wave crosses the coast at 90\u00b0 and increases as the angle becomes more acute.  "
+        },
+        {
+          "title": "A running fix from a NDB or a fix from three NDB's shown above will give a position towards",
+          "content": "the coast from the correct position. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 25",
+          "content": " "
+        },
+        {
+          "title": "Coastal refraction may be minimised by:-",
+          "content": " 1.  Use a NDB near the coast rather than inland. 2.  Use signals that cross the coast at 90\" 3.  Flying at higher altitudes will reduce the error.   "
+        },
+        {
+          "title": "Question 1",
+          "content": " "
+        },
+        {
+          "title": "The coast line lies in a North/South direction. An aircraft over the sea receives an ADF",
+          "content": "bearing of 225\u00b0  Relative. The true bearing of the aircraft from the NDB is :-  (a)  Greater than 045\u00b0 (b)  045\u00b0 (c)  less than 045\u00b0   "
+        },
+        {
+          "title": "Answer a",
+          "content": " "
+        },
+        {
+          "title": "Station Interference",
+          "content": " "
+        },
+        {
+          "title": "If two NDBs are on similar frequencies large errors may result. The ADF needle will take up a",
+          "content": "position which is the resultant of the field strengths of the two transmissions.    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 26",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "FACTORS AFFECTING RANGE",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "Transmission Power",
+          "content": " "
+        },
+        {
+          "title": "The greater the power output the greater the range.  To double the range the power must be",
+          "content": "increased by a factor of four.  "
+        },
+        {
+          "title": "Frequency",
+          "content": " "
+        },
+        {
+          "title": "The lower the frequency the greater the ground wave and thus the range.",
+          "content": " "
+        },
+        {
+          "title": "Terrain",
+          "content": " "
+        },
+        {
+          "title": "Due to the better conductivity of the sea longer ranges are obtained over water than over",
+          "content": "land.  "
+        },
+        {
+          "title": "Type Of Emission",
+          "content": " "
+        },
+        {
+          "title": "For a given transmission power the A1A NDB will give a greater range than the A2A NDB as",
+          "content": "the former does not require power to transmit the ident. Long range NDB's are normally of the "
+        },
+        {
+          "title": "AIA type.",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "ADF BEARINGS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "ADF bearings are presented to the pilot by either a RELATIVE BEARING INDICATOR (RBI)",
+          "content": "or by a RADIO MAGNETIC INDICATOR (RMI).  "
+        },
+        {
+          "title": "Relative Bearing Indicator (RBI)",
+          "content": " "
+        },
+        {
+          "title": "ADF bearings are measured clockwise from the fore and aft axis of the aircraft and are",
+          "content": "termed RELATIVE BEARINGS, that is relative to the aircraft's fore and aft axis.    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 27",
+          "content": "   "
+        },
+        {
+          "title": "Tracking Inbound To A NDB Or Tracking Outbound From A NDB  (with a RBI)",
+          "content": " "
+        },
+        {
+          "title": "With zero drift maintain ADF 360\u00b0 Relative INBOUND to the NDB",
+          "content": ""
+        },
+        {
+          "title": "With zero drift maintain ADF 180\u00b0 Relative OUTBOUND from the NDB",
+          "content": "      "
+        },
+        {
+          "title": "Question 1",
+          "content": " "
+        },
+        {
+          "title": "An aircraft is maintaining track outbound from a NDB with a constant relative bearing of 185\u00b0.",
+          "content": ""
+        },
+        {
+          "title": "To return to the NDB the relative bearing to maintain is :-",
+          "content": "    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 28",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "PLOTTING ADF BEARINGS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "ADF Relative bearings must be converted into True Bearings (QTE) before they can be",
+          "content": "plotted on a chart.   RELATIVE BEARING + TRUE HEADING = QUJ \u00b1180\u00b0 = QTE   MAGNETIC VARIATION AT THE AIRCRAFT IS ALWAYS USED WITH ADF BEARINGS   "
+        },
+        {
+          "title": "Q CODE  QTE  TRUE bearing FROM the NDB",
+          "content": ""
+        },
+        {
+          "title": "QDR  MAGNETIC bearing FROM the NDB",
+          "content": ""
+        },
+        {
+          "title": "QUJ  TRUE track TO the NDB",
+          "content": ""
+        },
+        {
+          "title": "QDM  MAGNETIC track TO the NDB",
+          "content": "  "
+        },
+        {
+          "title": "QDM   \u00b1 Variation    QUJ",
+          "content": " \u00b1180\u00b0        \u00b1180\u00b0  "
+        },
+        {
+          "title": "QDR   \u00b1 Variation    QTE",
+          "content": "   "
+        },
+        {
+          "title": "Take the shortest route to change one bearing to another",
+          "content": "  "
+        },
+        {
+          "title": "ADF bearing     095\u00b0 Relative  ADF bearing    200\u00b0 Relative",
+          "content": ""
+        },
+        {
+          "title": "Heading(T)  + 057\u00b0  Heading (T)    318\u00b0",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUJ       152\u00b0 (T) TO NDB  QUJ           518\u00b0",
+      "content": "\u00b1 180\u00b0  Subtract         360\u00b0 QTE       332\u00b0(T) FROM NDB  QUJ           158\u00b0 (T) TO NDB \u00b1 180\u00b0 ",
+      "subsections": []
+    },
+    {
+      "title": "QTE       338\u00b0 (T) FROM NDB",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Question 2",
+          "content": " "
+        },
+        {
+          "title": "An aircraft heading 157\u00b0(T), Variation 15\u00b0W has a relative bearing of 193\u00b0 from NDB CD. The",
+          "content": ""
+        },
+        {
+          "title": "QDM to NDB CD is:-",
+          "content": " RELATIVE BEARING + MAGNETIC HEADING = QDM (MAGNETIC TRACK TO THE NDB)  193\u00b0 Relative + Heading 172\u00b0(M) = QDM 005\u00b0   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 29",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "RADIO MAGNETIC INDICATOR (RMI)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The RMI is a remote gyro-compass on which radio bearings (both ADF and VOR) are shown.",
+          "content": ""
+        },
+        {
+          "title": "As it is a compass, the heading index is heading compass and it may suffer from deviation,",
+          "content": "for which a correction must be made to ADF bearings. The sharp end of the pointers are referred to as RMI readings or QDM.  The opposite or blunt end of the needle will be a QDR.     "
+        },
+        {
+          "title": "The RMI usually has two needles for aircraft fitted with twin ADF receivers.  VOR Radials or",
+          "content": "bearings can also be shown, or one needle tuned at a NDB and the other a VOR.  "
+        },
+        {
+          "title": "AIRCRAFT FLYING ABEAM OF A NDB (1 in 60 Rule)",
+          "content": " "
+        },
+        {
+          "title": "If an aircraft is flying abeam of a NDB a simple calculation will give the approximate distance",
+          "content": "to the NDB or the time to fly to the NDB.   "
+        },
+        {
+          "title": "TIME TO THE NDB  =  60 x minutes flown between bearings",
+          "content": "degrees of bearing change  "
+        },
+        {
+          "title": "DISTANCE TO THE NDB  =  TAS or GS x minutes flown between bearings",
+          "content": "degrees of bearing change   "
+        },
+        {
+          "title": "Example:  0900 Z NDB RM bears 055\u00b0 Relative  TAS 180 Kts",
+          "content": "0915 Z NDB RM bears 125\u00b0 Relative   "
+        },
+        {
+          "title": "Time to RM =  60 x 15  = 13 minutes    Distance to RM =  180 x 15  = 38.6nm",
+          "content": "70        70  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 30",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "INTERCEPTING A QDM INBOUND TO A NDB",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "An aircraft heading 040\u00b0 (M) has an ADF reading of 060\u00b0 Relative.",
+          "content": ""
+        },
+        {
+          "title": "The heading to steer to intercept the 120\u00b0 track inbound to the NDB at 50\u00b0 is :-",
+          "content": " (a)  050\u00b0(M) (b)  060\u00b0(M) (c)  070\u00b0(M)  "
+        },
+        {
+          "title": "The alteration of heading required to intercept the 120\u00b0 track inbound to the NDB at 50\u00b0 is :-",
+          "content": " (a)  20\u00b0 Right (b)  30\u00b0 Right (c)  40\u00b0 Right  "
+        },
+        {
+          "title": "The relative bearing of the NDB that confirms track interception is :-",
+          "content": " (a)  050\u00b0 Relative (b)  060\u00b0 Relative (c)  080\u00b0 Relative  "
+        }
+      ]
+    },
+    {
+      "title": "METHOD",
+      "content": " 1.  Calculate the bearing of the aircraft from the NDB. 2.  Draw the required track inbound to the NDB and the intercept angle. 3.  Position the aircraft at the moment of interception 4.  Answer question  ",
+      "subsections": [
+        {
+          "title": "Heading 040 + ADF 060 Relative = QDM 100 + 180 = QDR 280",
+          "content": "   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 31",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ADF - NDB QUESTIONS",
+      "content": " 1.   As a radio wave crosses the coast, leaves the land or passes over the sea the speed increases. When this happens:  a)   The frequency changes. b)   The wavelength changes. c)   No change in either.  2.   At 1105 an NDB bears 078\u00b0 relative by ADF. At 1112 the same NDB bears 090\u00b0 relative by ADF. The G/S is 120 kts. The time and distance to the NDB is:  a)   35 min - 70 nm. b)   51 min - 102 nm. c)   103 min - 206 nm.  3.   The inbound track to a NDB is 045\u00b0(T), variation 10\u00b0 W, drift 7\u00b0 right. What relative bearing must be maintained on the ADF to reach  the NDB?  a)  353\u00b0 b)  000\u00b0 c)  007\u00b0  4.   A modern ADF uses a:  a)   Horizontal crossed loop aerial with an orthogonal pair of coils wound on a ferrite core fed to a goniometer. b)   Horizontal crossed loop aerial with a orthogonal pair of coils wound on a ferrite core fed to a goniometer and  combined with the signal from a sense aerial. c)   Pair of coils which rotate about a ferrite core combined with a signal from a sense aerial.   5.   What type of aerial is used to determine the position of the NDB?  a)   Loop aerial and sense aerial. b)   Sense aerial. c)   Loop aerial.  6.   The ADF pointer measures a bearing from an NDB relative to:  a)   Magnetic north. b)   Aircraft heading. c)   Aircraft track.  7.   The cardioid has:  a)   Two maxima and no nulls. b)   Two nulls and one maximum giving the direction of the station. c)   One null giving the direction of the station. ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 32",
+          "content": "8.   An ADF operates on \"Automatic Direction Finding\". Which aerial/s is/are used?  a)   Loop aerial. b)   Sense aerial. c)   Both a and b.  9.   The Bellini-Tosi method of direction finding is?  a)   Omni-direction sense aerial with rotatable loop. b)  Directional sense aerial with a pair of fixed loops 90\u00b0 apart. c)   Omni-directional sense aerial with a pair of fixed loops 90\u00b0 apart.  10.   Which type of NDB emission requires a BFO for identification?  a)   A1A b)   A2A c)   A3A  11.   Which four factors affect the accuracy of an NDB?  a)   Quadrantal error, mountain effect, thunderstorm effect, night  effect. b)   Quadrantal error, night effect, site error, interference. c)   Quadrantal error, night effect, pilotage error, propagation  error.  12.   In order to minimize the effect of night effect:  a)   Avoid use of the ADF at sunrise and sunset and use a weaker beacon to eliminate skywaves. b)  Use a more powerful beacon and use bearings well within the surface wave range. c)   Select the station nearest to the aircraft and only use the ADF at sunrise and sunset.  13.   An aircraft is flying a constant heading with 8\u00b0 starboard drift and is making good a track parallel to the centreline of an airway but 5 nm off to the left of the centreline. "
+        },
+        {
+          "title": "Estimate the ADF reading on an NDB on the centreline but 42 nm ahead.",
+          "content": " a)   015\u00b0 relative b)   359\u00b0 relative c)   011\u00b0 relative  14.  What ADF reading must be maintained in order to maintain a track of 165\u00b0(T) away from an NDB, variation 16\u00b0 W and drift 8\u00b0 port?  a)   352\u00b0 relative b)   188\u00b0 relative. c)   172\u00b0 relative. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 33",
+          "content": " 15.   What is the aircraft position with respect to the 190\u00b0 course and the beacon while making an NDB approach to runway 19? Heading 195\u00b0(M), ADF indicates 165\u00b0(R).  a)   On course and past the beacon inbound. b)   Left of course and past the beacon inbound. c)   Right of course and inbound to the beacon.  16.   What is your position with respect to the 060\u00b0 bearing to the NDB?   Heading 050\u00b0(M), "
+        },
+        {
+          "title": "ADF indicates 360\u00b0(R).",
+          "content": " a)   Outbound, left of course. b)   Outbound, right of course. c)   Inbound, right of course.  17.   What frequencies are normally used for NDBs?  a)   200 - 800 MHz. b)   108 - 118 MHz. c)   202 -455 kHz.  18.   How does the protection ratio of an NDB change at night?  a)   It is less. b)   It is more. c)   It remains constant.  19.   Aircraft  heading  325\u00b0(M),  ADF  reads  330\u00b0  relative.  Intercept  280\u00b0  QDM  at  an interception angle of 50\u00b0. The interception heading is:  a)  295\u00b0 b)  330\u00b0 c)  280\u00b0  20.   Aircraft  heading  130\u00b0(M),  ADF  reads  190\u00b0  relative.  Intercept  170\u00b0    QDR  at  an interception angle of 30\u00b0. The interception heading is:  a)  140\u00b0 b)  200\u00b0 c)  190\u00b0   "
+        }
+      ]
+    },
+    {
+      "title": "RMI QUESTIONS",
+      "content": " 1.   The inbound track to a NDB is 045\u00b0(T), variation 10\u00b0W and drift 7\u00b0 right.  What is the ",
+      "subsections": [
+        {
+          "title": "RMI reading?",
+          "content": " a)  038 b)  048 c)  055 "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 34",
+          "content": " 2.   An aircraft leaves NDB ABC, track 075\u00b0(M), drift 6\u00b0 left. NDB XYZ bears 235\u00b0 relative. "
+        },
+        {
+          "title": "What bearings from both NDBs would be shown on the RMI?",
+          "content": " a)  255 & 316 b)  261 & 316 c)  255 & 136  3.  No. 1 pointer of a RMI is tuned to a VOR and no. 2 pointer is tuned to a co-located "
+        },
+        {
+          "title": "NDB. The pointers will:",
+          "content": " a)   Point in the same direction. b)   Point in different directions due to, the difference in variation between the aircraft and the station. c)   Point in different directions because the VOR uses VHF and the NDB uses "
+        }
+      ]
+    },
+    {
+      "title": "LF/MF.",
+      "content": " 4.  Referring to the indications on the RMI, if the aircraft's variation is different from the station's variation the:  a)   QDM and the relative bearing is correct. b)   The QDM is correct and the relative bearing is incorrect. c)   The QDM is incorrect and the relative bearing is correct.  5.   The RMI indicates magnetic heading.  To convert RMI bearings of NDB's and VOR's the correct combination for application of magnetic variation is:  ",
+      "subsections": []
+    },
+    {
+      "title": "NDB          VOR",
+      "content": "a)   Beacon position         Aircraft position b)   Beacon position         Beacon position c)   Aircraft position  Beacon position  6.   An aircraft is heading away from an NDB on a track of 035\u00b0(M),  drift 8\u00b0 right. Another ",
+      "subsections": [
+        {
+          "title": "NDB bears 115\u00b0 relative. Give the RMI indications of  both NDBs.",
+          "content": " a)  027\u00b0 & 152\u00b0 b)  215\u00b0 & 142\u00b0 c)  115\u00b0 & 035\u00b0   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 35",
+          "content": "                                "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 36",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 4",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "VERY HIGH FREQUENCY OMNIRANGE (VOR)",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "The VOR is the primary ICAO navigation facility for civil aviation. It is a VHF facility and",
+          "content": "eliminates atmospheric static interference and other errors of the NDB/ADF.   "
+        }
+      ]
+    },
+    {
+      "title": "PRINCIPLE OF OPERATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "VOR operation is based on the principle that the phase difference between two AC voltages",
+          "content": "may be used to determine the direction of an aircraft from a transmitter. Imagine two light signals at the same position.  The first is a omni-directional flashing white light which can be seen by all aircraft and flashes once in 60 seconds.  It is the reference signal.  The second is a narrow red beam which rotates through 360\u00b0 in 60 seconds. It is the: directional signal. "
+        },
+        {
+          "title": "When  the  red  directional  light  passes  through  magnetic  north  the  white  reference  light",
+          "content": "flashes, the two lights are in phase and the bearing is 360\u00b0.  At any other position the bearing is determined by the time interval between seeing the flashing white reference light and the red rotating directional light.  If the time difference is 20 seconds the bearing is 120\u00b0 and if the time difference is 40 seconds the bearing is 240\u00b0.  The VOR transmitter uses the same principle, and transmits carrier wave modulated with a reference phase signal (the white light) and a variable phase signal (the red light).  The phase difference between the two signals determines the aircraft's bearing or radial (the time interval between the white and red lights).  "
+        }
+      ]
+    },
+    {
+      "title": "REFERENCE SIGNAL",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The  reference  signal  is  an  omni-directional  CW  transmission  on  the  stations  allocated",
+          "content": "frequency.  It carries a 9960 Hz sub-carrier frequency modulated at 30 Hz.  The polar diaphragm is a circle and all aircraft at the same distance from the VOR will receive the signal at the same time and phase.  The reference signal is the datum from which to measure the phase difference between it and the directional signal.  "
+        }
+      ]
+    },
+    {
+      "title": "DIRECTIONAL OR VARIABLE SIGNAL",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Also transmitted on the stations allocated frequency.  It is a rotating signal at 1800 RPM or 30",
+          "content": "revolutions per second which gives an apparent amplitude modulation of 30 Hz. The signal rises to a maximum and falls to zero 30 times a second.  The polar diagram is that of a rotating figure, of eight. When combined with the circular polar diagram of the reference signal the result is rotating cardioid or limacon.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 37",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CALIBRATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The VOR is calibrated so that zero phase difference occurs on magnetic north.  Phase",
+          "content": "difference equals magnetic bearing out (QDR) or radial.   VOR STATION MAGNETIC VARIATION USED WITH ALL BEARINGS OR RADIALS   "
+        },
+        {
+          "title": "FREQUENCIES  108 Mhz  to",
+          "content": "117.95 Mhz  "
+        },
+        {
+          "title": "VHF    108 Mhz  to  TVOR Even Decimals (108.2  108.25)",
+          "content": "112 Mhz  ILS  Odd Decimals   (108.1 108.15)  112 Mhz to  En-  Route  Navigational  VOR  Range 117.95 Mhz  200 nm  "
+        },
+        {
+          "title": "PRINCIPLE  Bearing determination by phase comparison",
+          "content": ""
+        },
+        {
+          "title": "Transmission horizontally polarised - not affected by static",
+          "content": " "
+        },
+        {
+          "title": "REFERENCE SIGNAL  9960 Hz sub carrier FM at 30 Hz",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 38",
+          "content": " "
+        },
+        {
+          "title": "VARIABLE SIGNAL  Rotating signal  1800 RPM    Apparent AM at 30Hz",
+          "content": " "
+        },
+        {
+          "title": "COMBINED SIGNAL  Limacon",
+          "content": "(Similar  to  NDB  cardioid  but  a  minimum  instead  of  a  nil position)  "
+        }
+      ]
+    },
+    {
+      "title": "TRANSMISSION POWER & RANGE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Terminal VOR (TVOR)  Power 50 Watts         Range 100nm",
+          "content": ""
+        },
+        {
+          "title": "Navigational    VOR     Power 200 Watts       Range 200nm",
+          "content": " "
+        },
+        {
+          "title": "Range in  =  1.25  \u221a VOR Height in feet AMSL  + 1.25  \u221aAircraft Altitude in feet",
+          "content": ""
+        },
+        {
+          "title": "Nautical Miles",
+          "content": " ACCURACY    TRANSMITTER \u00b1 1\u00b0  RECEIVER  \u00b1 3\u00b0  TOTAL  \u00b1 4\u00b0  "
+        }
+      ]
+    },
+    {
+      "title": "VOR MONITOR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "All VOR transmissions are monitored for accuracy. Accuracy of VOR radials at the transmitter",
+          "content": "are better than 1\u00b0.  If the transmission error is greater than 1\u00b0 the monitor will remove the "
+        },
+        {
+          "title": "IDENT or the navigation components.",
+          "content": " "
+        },
+        {
+          "title": "IDENT       3 letter Morse code at least once every 10 seconds",
+          "content": " "
+        },
+        {
+          "title": "IDENT WITHDRAWN  When VOR undergoing maintenance or bearing error in excess",
+          "content": "of 1\u00b0  "
+        }
+      ]
+    },
+    {
+      "title": "VOT (TEST VOR)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "At certain airports a test VOR is available for testing the aircraft's VOR receivers during pre-",
+          "content": "flight checks. They transmit zero phase difference so that regardless of the aircraft's position relative to the VOR the indication in the aircraft will be radial 360\u00b0.  If a CDI is used to check the equipment the indications will be:  "
+        },
+        {
+          "title": "Left/Right needle central FROM OBS 356 to 004    or    TO OBS 176  to 184",
+          "content": ""
+        },
+        {
+          "title": "VOR receivers usually have a self test circuit independent of a VOT. During a self test the",
+          "content": ""
+        },
+        {
+          "title": "RMI needle should indicate radial 360\u00b0 or 180\u00b0 RMI reading.",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 39",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "VOR ERRORS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Site Error",
+          "content": " "
+        },
+        {
+          "title": "Caused by buildings, obstacles, trees or uneven ground in the vicinity of the transmitter.",
+          "content": " "
+        },
+        {
+          "title": "Propagation Error",
+          "content": " "
+        },
+        {
+          "title": "The signals leave the transmitter with an accuracy better than 1\u00b0 but they may be affected by",
+          "content": "uneven terrain enroute to the aircraft (Scalloping).  "
+        },
+        {
+          "title": "Interference Error",
+          "content": " "
+        },
+        {
+          "title": "Interference from a second VOR on the same frequency may produce errors for high flying",
+          "content": "aircraft. If a VOR is at sea level, an aircraft at FL 250 should receive bearings at 198 nm. A second VOR on the same frequency should not be positioned closer than 198 nm x 2 + 100 nm = 496 nm from the first VOR.  "
+        }
+      ]
+    },
+    {
+      "title": "AIRCRAFT EQUIPMENT ERROR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Accuracy of VOR radials at the transmitter is better than 1\u00b0.  Errors in the aircraft equipment",
+          "content": "should not exceed  3\u00b0 giving a maximum error of 4\u00b0.  If the accuracy of VOR readings in an aircraft exceed 4\u00b0 IFR flights should not be attempted.  If there is a twin VOR installation in an aircraft and both VOR receivers are tuned to the same VOR the spread between the two readings should not exceed 6\u00b0. Fluctuations of 6\u00b0 may occur at certain propeller or helicopter rotor RPM.  "
+        }
+      ]
+    },
+    {
+      "title": "CONE OF AMBIGUITY OR CONFUSION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A VOR transmits in the horizontal plane but the signals radiate up to 70\u00b0 in elevation.",
+          "content": ""
+        },
+        {
+          "title": "Overhead the VOR weak erratic signals may be received and the indicators will oscillate and",
+          "content": "the bearings are unreliable.   "
+        }
+      ]
+    },
+    {
+      "title": "DOPPLER VOR",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "VOR transmitter aerials should be sited on flat terrain to minimise site errors. If such a site is",
+          "content": "not available, a complex aerial system may be employed to transmit the VOR signal.  This type of station is known as a Doppler VOR (DVOR) beacon and produces a signal which is reasonably free of site errors even when the transmitter is sited in hilly terrain. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 40",
+          "content": " "
+        },
+        {
+          "title": "The way in which the bearing signal is produced is quite different from conventional VOR, the",
+          "content": "received signals are indistinguishable from each other and the airborne receiver will operate on either with equal facility.  In Doppler VOR the reference signal is amplitude modulated at 30Hz, whilst the bearing signal is frequency modulated at 30Hz.  Because this is the reverse of CVOR, the bearing or variable modulation is made to lead the reference signal by a phase angle equal to the aircraft magnetic bearing FROM the VOR ground station.  "
+        }
+      ]
+    },
+    {
+      "title": "COURSE DEVIATION INDICATOR (CDI)",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "Course is the American term for Track.  The CDI is a command instrument.  It gives steering",
+          "content": "commands to the pilot to maintain a selected course/track/radial TO or FROM the VOR.  "
+        }
+      ]
+    },
+    {
+      "title": "OMNI BEARING SELECTOR (OBS)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "By turning the OBS the desired course/track is selected. This may appear in a window or",
+          "content": "under an index.  "
+        }
+      ]
+    },
+    {
+      "title": "COURSE DEVIATION NEEDLE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The LEFT/RIGHT needle moves laterally across the dial.  The needle is central when the",
+          "content": "aircraft is on the selected radial or its reciprocal.  Full needle deflection from the centre (left or right) indicates that the aircraft is 10\u00b0 or more from the selected radial or its reciprocal.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 41",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "TO/FROM INDICATOR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The TO/FROM indicator shows whether the selected course will take the aircraft TO or",
+          "content": ""
+        },
+        {
+          "title": "FROM the VOR.  IT DOES NOT INDICATE WHETHER THE AIRCRAFT IS HEADING TO or",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "FROM THE VOR.",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "ORIENTATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Rotate the OBS knob until the Left/Right deviation needle is central.  Assuming the needle",
+          "content": "centres with 090 and FROM indicated.  This means the aircraft is on the 090 Radial, all three aircraft shown on the right side of the sketch below will have the same indication.  The CDI presentation is totally independent of aircraft heading.  "
+        },
+        {
+          "title": "Assuming the needle centres with 090 and TO indicated.  This shows that the aircraft is on",
+          "content": "the reciprocal of the OBS 090 SETTING that is Radial 270.  All three aircraft shown on the left of the sketch will have the same indication.            "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 42",
+          "content": "         "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 43",
+          "content": " 1.  Draw the OBS SETTING (090) given in a question. 2.  Label the reciprocal of the OBS setting (Radial 270) and the two Radials at 90\u00b0. 3.  Position 4 aircraft, one in each quadrant, with the aircraft heading similar to the OBS setting. 4.  Determine whether the aircraft are flying TO or FROM the VOR. 5.  Determine whether the aircraft have to FLY RIGHT or FLY LEFT to intercept the 090 "
+        },
+        {
+          "title": "Radial.",
+          "content": "6.  OUTBOUND or the 270 Radial INBOUND.  "
+        },
+        {
+          "title": "The TO or FROM indication and the LEFT / RIGHT needle displacement are correct for any",
+          "content": "aircraft in each quadrant REGARDLESS OF THE AIRCRAFT HEADING.   "
+        }
+      ]
+    },
+    {
+      "title": "RMI INDICATIONS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "VOR information can be presented on the RMI in a similar manner to ADF bearings.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ADF RMI READING = QDM",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "APPLY AIRCRAFT VARIATION AND COMPASS DEVIATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The ADF measures Relative bearings which are passed to the RMI.  If the bearing is 045\u00b0",
+          "content": "relative the ADF RMI needle is positioned 45\u00b0 clockwise from the heading index. Thus aircraft variation and deviation must be applied.   "
+        }
+      ]
+    },
+    {
+      "title": "VOR     APPLY VOR STATION VARIATION ONLY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The  RMI  cannot  accept  VOR  Radials  from  the  VOR  receiver,  only  Relative  bearings.",
+          "content": ""
+        },
+        {
+          "title": "Therefore Radials have to be changed into Relative bearings by a differential synchro.",
+          "content": " "
+        },
+        {
+          "title": "Assume that an aircraft is on Radial 090\u00b0, heading 155\u00b0(C), deviation 5\u00b0W, heading 150\u00b0(M)",
+          "content": " if         RELATIVE BEARING + AIRCRAFT MAGNETIC HEADING = QDM "
+        },
+        {
+          "title": "Then    RELATIVE BEARING = QDM - AIRCRAFT MAGNETIC HEADING",
+          "content": " "
+        },
+        {
+          "title": "Case 1 (0\u00b0 Dev)  Case 2, (5\u00b0W Dev)",
+          "content": " "
+        },
+        {
+          "title": "Radial 090  QDR    090  QDR    090",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QDM     270  QDM     270",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Minus aircraft heading      150(M)      155   ( C )",
+          "content": ""
+        },
+        {
+          "title": "Relative bearing      120      115",
+          "content": ""
+        },
+        {
+          "title": "RMI pointer positioned clockwise from datum    +150(M)    +155(C)",
+          "content": ""
+        },
+        {
+          "title": "RMI reading (QDM)      270      270",
+          "content": "  "
+        },
+        {
+          "title": "In case 2 aircraft heading 155\u00b0 (C) which includes deviation has been subtracted from the",
+          "content": ""
+        },
+        {
+          "title": "QDM and then added to the relative bearing to give the RMI reading, thus deviation cancels",
+          "content": "and is not applied.    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 44",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": "  1.   A VOR CDI has the OBS set at 090. The variable phase signal lags the reference signal by 280\u00b0.  The CDI indication will be:  a)   Needle LEFT with TO indicated. b)   Needle RIGHT with TO indicated. c)   Needle Right with FROM indicated.  2.   The principle of operation of a VOR is bearing measurement by:  a)   Polarisation comparison. b)   Modulation measurement. c)   Phase comparison.  3.   The two modulations from which bearing information for the VOR is obtained are:  a)   Both frequency modulated at the transmitter. b)   Reference  signal  frequency  modulated  and  directional  signal  apparent amplitude modulated. c)   Reference  signal  apparent  amplitude  modulated  and  directional  signal frequency modulated.  4.   The VOR frequency range is:  a)  108 - 112 MHz. b)  108 - 136 MHz. c)  108 - 117.95 MHz  5.   If the directional signal leads the reference signal by 30\u00b0 the magnetic bearing to the ",
+      "subsections": [
+        {
+          "title": "VOR will be:",
+          "content": " a)  030\u00b0 b)  210\u00b0 c)  150\u00b0  6.   With an OBS set to 090\u00b0 and the directional phase lagging the reference phase by 280\u00b0, the VOR indicator will show:  a)   FROM and fly right. b)   TO and fly right. c)  TO and fly left.  7.   An aircraft is heading 340\u00b0(M) and is 30 nm from the VOR on a bearing of 142\u00b0 from the VOR. The pilot has selected 146\u00b0 on the OBS and the TO/FROM indicator shows "
+        },
+        {
+          "title": "FROM. What would the indication be on a 5 dot  VOR indicator?",
+          "content": " a)   2 dots fly right. b)   2 dots fly left. c)   4 dots fly right. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 45",
+          "content": "8.   Which of the following factors would affect the accuracy of a VOR?  a)  Site error, propagation error, airborne equipment error, interference error. b)   Site error, propagation error, night effect, airborne equipment error. c)   Propagation error, site error, pilotage error, transmitting power.  9.   Which of the following factors would affect the range of the VOR?  a)   Transmission  power,  transmitter/receiver  height,  designated  operational coverage, night effect. b)   Designated  operational  coverage,  transmitter/receiver  height,  transmission power, nature of terrain. c)   Transmission power, frequency in use, type of emission, receiver/transmitter height, nature of terrain.  10.   When the VOR indicates TO and the CDI is centered, the aircraft will always be:  a)   Inbound to the VOR. b)   On the radial identified on the course selector. c)   On the reciprocal of the radial identified on the course  selector.  11.   After passing overhead a VOR the CDI shows a scale deviation to the right.  What is indicated if the deflection remains constant for a period of time?  a)   The aircraft is flying closer to the radial. b)   The OBS is erroneously set on the reciprocal heading. c)   The aircraft is flying further from the radial.  12.   A full scale deflection on a VOR receiver occurs when the aircraft  is:  a)   1\u00b0  from  the  selected  course  when  close  to  the  station  and  10\u00b0 from  the selected course when far from the station. b)   5\u00b0 or more from the selected bearing. c)   10\u00b0 or more from the selected bearing.  13.   An aircraft (variation 20\u00b0W) is maintaining the 140\u00b0 radial inbound to a VOR (variation 18\u00b0W) with a drift of 8\u00b0 port. What is the aircraft's magnetic heading?  a)  330\u00b0 b)  328\u00b0 c)  314\u00b0  14.   With reference to the VOR when the aircraft heading agrees approximately with the "
+        },
+        {
+          "title": "OBS setting:",
+          "content": " a)   Fly towards the CDI provided FROM is indicated. b)   Fly towards the CDI regardless of the TO/FROM indication. c)   Fly away from the needle provided FROM is indicated.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 46",
+          "content": "15.   The heading is 280\u00b0(M) on a bearing of 090\u00b0(M) from a VOR.  What bearing should you select on the OBS in order to centralise the CDI with a TO indication?  a)  280\u00b0 b)  270\u00b0 c)  090\u00b0  16.   When the OBS is set to 105\u00b0 and the CDI centered and TO indicated:  a)   The aircraft bears 105\u00b0(M) from the station. b)   The magnetic track to the station is 105\u00b0. c)   The true track to the station is 105\u00b0.  17.   What is the maximum allowable tolerance of the OBS with the CDI centered when checking a VOR receiver by use of a VOT?  a)   178 to 182 FROM b)   176 to 184 FROM c)   356 to 004 FROM  18.   What are the characteristics of the reference signal of a VOR transmitter?  a)   Amplitude modulated at 30 Hz and a rotating figure of eight radiation. b)   Frequency modulated at 30 Hz and an omni-directional radiation. c)   Frequency modulated at 150 Hz and a conical radiation.  19.   When will the VOR monitor warn the control point and possibly switch off the station radiation?  a)   A change in bearing information in excess of 10\u00b0. b)   A reduction of 15% in bearing information. c)   A change in bearing information in excess of 1\u00b0.  20.   An aircraft is 78 nm from a VOR on a radial which defines the  centreline of an airway 10 nm wide. When the radial has been correctly selected the CDI shows a 2 dot fly left on 2 dot indicator. How far is the aircraft outside the airway boundary?  a)  13.75 nm. b)  8.75 nm. c)  7.8 nm.  21.   From where can ATIS information be received?  a)   From an ILS transmission. b)   At all times from any VOR. c)   At certain times from airfield VORs.  22.   Heading 041\u00b0(M) and 20 nm from the VOR on radial 215. With 212\u00ba selected on the "
+        },
+        {
+          "title": "OBS and FROM indicated, what information is displayed on the VOR indicator?",
+          "content": " a)   Fly left 1.5 dots. b)   Fly right 1.5 dots. c)   Fly left 1 dot. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 47",
+          "content": "23.   The VOR reference signal is:  a)   A rotating signal frequency modulated at 30 Hz. b)   A limacon. c)   A 9960 Hz sub-carrier frequency modulated at 30 Hz.  24.   The VOR combined signal is:  a)   A rotating signal frequency modulated at 30 Hz. b)   A limacon. c)   A 9960 Hz sub-carrier amplitude modulated at 30 Hz.  25.   The accuracy of the VOR radial is:  a)  4\u00b0 b)  6\u00b0 c)  8\u00b0  26.   An aircraft is maintaining a radial 090 outbound from a VOR. After flying 35 minutes the aircraft returns to the NDB which is co-located with the VOR. Aircraft variation 22\u00b0 "
+        },
+        {
+          "title": "W and station variation is 20\u00b0W. The QDM to the NDB is:",
+          "content": " a)  268 b)  270 c)  272  27.   An aircraft heading 220\u00b0(M) has the OBS  set at 030. A 5 dot CDI  shows the "
+        },
+        {
+          "title": "LEFT/RIGHT needle 4.5 dots RIGHT of centre with FROM  indicated. The aircraft is",
+          "content": "on radial:  a)  021 b)  039 c)  219  28.   An aircraft heading 115\u00b0(M), TAS 260 kts, obtains the following information from a "
+        }
+      ]
+    },
+    {
+      "title": "VORTAC.",
+      "content": " 0743 radial 253 0748 radial 208, DME 21 nm 0753 radial 163  ",
+      "subsections": [
+        {
+          "title": "The W/V is:",
+          "content": " a)  051/20 b)  058/15 c)  058/20  29.   An aircraft is established on radial 135 inbound to VOR XYZ. VOR KLM  is 120 nm from XYZ on radial 225. At 1230B the aircraft receives QDM 270 from KLM. TAS 300 kts and zero wind. What is the ETA at KLM if heading is altered at 1230B?  a)  1254 b)  1304 c)  1314 "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 48",
+          "content": " 30.   An aircraft passes overhead a VORTAC at 1413Z maintaining radial  252, heading 244\u00b0(M), TAS 230 kts, variation 15\u00b0W. At 1428Z the aircraft is 63 nm from the station. "
+        },
+        {
+          "title": "The W/V is:",
+          "content": " a)  080/40 b)  095/40 c)  110/40  31.   Two VORs are to be sited at the centreline of an airway 10 nm wide. What would be the maximum distance apart that the two transmitters could be sited if a bearing accuracy of 5\u00b0 is required?  a)  120 nm b)  180 nm c)  240 nm  32.   GGV AND PEV are 161 nm apart. Both are at 200 ft AMSL. At what minimum altitude would an aircraft be able to receive both VORs?  a)  4176 ft b)  3289 ft c)  2526 ft  33.   When using a VOT to test the receiver equipment of a VOR, the maximum allowable tolerance on the RMI is:  a)  356 to 004 b)  358 to 002 c)  176 to 184  34.  A  twin  pointer  has  RMI  has  both  VOR  needles  tuned  to  the  same  VOR.    The maximum allowable spread between the needles is:  a)  4\u00b0 b)  6\u00b0 c)  8\u00b0   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 49",
+          "content": "                                 "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 50",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 5",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "INSTRUMENT LANDING SYSTEM (ILS)",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "An ILS installation at an airfield consists of the following three components:-",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "LOCALISER TRANSMITTER   GLIDE SLOPE TRANSMITTER    MARKER BEACONS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Localiser Transmitter (VHF)",
+          "content": " "
+        },
+        {
+          "title": "Provides guidance in azimuth and is located about 300 metres from the upwind end of the",
+          "content": "runway in line with the runway centreline.  It transmits a horizontally polarised carrier wave on the stations allocated frequency.  The carrier wave is modulated by two tones of 90 Hz and 150 Hz.    "
+        },
+        {
+          "title": "If the aircraft is to the left of the extended centre line of the runway during an approach it will",
+          "content": "be in an area (Yellow sector) where the 90Hz modulation predominates and will have a fly right command.  If the aircraft is to the right of the extended runway centre line it will be in an area  (Blue  sector)  where  the  150  Hz  modulation  predominates  and  will  have  a  fly  left command.  The receiver in an aircraft on the extended centre line will receive the carrier modulated to a depth of 20% by both the 90 Hz and 150 Hz notes.  Deviation from the centre line is given in DDM (Difference in Depth of Modulation) which controls the "
+        },
+        {
+          "title": "Left/Right vertical command bar of the ILS indicator.",
+          "content": "  "
+        },
+        {
+          "title": "Glide Slope Transmitter (UHF)",
+          "content": " "
+        },
+        {
+          "title": "The Glide Slope or Glide Path transmitter is located about 150 metres to the left or right of the",
+          "content": "runway centre line and 300 metres upwind from the landing threshold. The carrier wave is transmitted in the vertical plane and is modulated by a lower lobe of 150 Hz and an upper lobe of 90 Hz. The line along which the two modulations are equal in depth is the centre line of the glide slope.   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 51",
+          "content": "  "
+        },
+        {
+          "title": "For an aircraft below the glide slope the 150 Hz note will predominate and a fly up command",
+          "content": "will be shown. For an aircraft above the glide slope the 90 Hz note will predominate and a fly down command will be shown. An aircraft on the glide slope will receive equal amounts of the 90 Hz and 150 Hz notes and the horizontal command bar will be central.  "
+        },
+        {
+          "title": "Marker Beacons",
+          "content": " "
+        },
+        {
+          "title": "Two or three marker beacons are positioned along the approach path provide range to",
+          "content": "runway threshold check points.  "
+        }
+      ]
+    },
+    {
+      "title": "FREQUENCIES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "LOCALISER     VHF 108.1 to 111.95 Mhz (Odd-decimals)",
+          "content": ""
+        },
+        {
+          "title": "GLIDE SLOPE   UHF 329.3 to 335 Mhz",
+          "content": " "
+        },
+        {
+          "title": "The Localiser and Glide Slope are frequency paired. Each localiser frequency has a glide",
+          "content": "path frequency allocated to it.  "
+        },
+        {
+          "title": "Johannesburg Intl.  RWY 03L LOC 110.3 Mhz GP 335.0 Mhz",
+          "content": ""
+        },
+        {
+          "title": "RWY 03R LOC 109.1 Mhz GP 331.4 Mhz",
+          "content": " "
+        },
+        {
+          "title": "The pilot selects the localiser frequency only, the glide path receiver automatically selects the",
+          "content": "appropriate glide path frequency.  "
+        },
+        {
+          "title": "LOCALISER COVERAGE  25 nm  10\u00b0 either side of the localiser centre line",
+          "content": "17 nm  35\u00b0 either side of the localiser centre line   "
+        },
+        {
+          "title": "GLIDE PATH COVERAGE  8\u00b0 either side of the centre line in azimuth to 10 nm",
+          "content": "0.45 x GP angle to 1.75 x GP angle in elevation   "
+        }
+      ]
+    },
+    {
+      "title": "ACCURACY",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Checked for accuracy up to 18 nm (ICAO)",
+          "content": "  "
+        },
+        {
+          "title": "PROTECTION  Protected from interference up to 25 nm and 6250 ft.",
+          "content": " "
+        },
+        {
+          "title": "IDENT  Transmitted  every  10  seconds  on  the  localiser",
+          "content": "frequency only  "
+        }
+      ]
+    },
+    {
+      "title": "TYPE OF EMISSION  A8W",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 52",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ILS REFERENCE DATUM",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The ILS reference datum is a point at a specified height (usually 50 feet or 15 metres) located",
+          "content": "vertically above the intersection of the runway centre line and the ILS landing threshold through which the downward extended path portion of the ILS glide path extends.  "
+        },
+        {
+          "title": "ILS FACILITY PERFORMANCE CATEGORIES    (ILS Ground Installation)",
+          "content": " "
+        },
+        {
+          "title": "CAT 1   Accurate guidance down to 200 feet above the ILS reference point",
+          "content": ""
+        },
+        {
+          "title": "CAT 2   Accurate guidance down to 50 feet above the ILS reference point",
+          "content": ""
+        },
+        {
+          "title": "CAT 3    Accurate guidance down to and along the surface of the runway",
+          "content": " "
+        },
+        {
+          "title": "ILS OPERATIONAL APPROACH CATEGORIES   (Aircraft and Crew)",
+          "content": " "
+        },
+        {
+          "title": "CAT 1  Decision Height 200 feet  RVR 550 metres  VIS 800 metres",
+          "content": " "
+        },
+        {
+          "title": "CAT 2  Decision Height 100 feet  RVR 350 metres",
+          "content": " "
+        },
+        {
+          "title": "CAT 3a  No Decision Height  RVR 200 metres",
+          "content": "   "
+        }
+      ]
+    },
+    {
+      "title": "ILS MONITOR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Both localiser and glide path transmissions are automatically monitored by equipment located",
+          "content": "in the guaranteed reception area. The monitor will provide a warning in any one of the following circumstances:  1.  A localiser shift of more than 35 feet from the centre line. 2.  A glide slope angle change of more than 0.075 x basic glide path angle (0.075 x 3\u00b0 =0.225\u00b0) 3.  A reduction in power output of 50% or more of the localiser or glide path transmitters.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 53",
+          "content": "  "
+        },
+        {
+          "title": "ILS information may be presented on the VOR indicator.  The vertical LEFT/RIGHT needle",
+          "content": "operates in a similar manner to the VOR and gives commands to intercept and maintain the localiser centre line. if an ILS localiser frequency is selected the VOR OBS setting control becomes inoperative.  If the aircraft is on the localiser centre line the needle will be central regardless of the OBS setting.  The horizontal needle gives commands to intercept and maintain the glide path.  The centre of the instrument is the aircraft and the needles give the commands. In the above sketch the command is fly up and left.  "
+        },
+        {
+          "title": "Full Scale Deflection for the localiser is 2.5 \u00b0.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "GLIDE PATH",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Full Scale Deflection    0.7\u00b0",
+          "content": " "
+        },
+        {
+          "title": "MAXIMUM SAFE DEFLECTION   0. 35\u00b0 FLY UP  or 2. 5 DOTS on a 5 DOT INDICATOR",
+          "content": " "
+        },
+        {
+          "title": "After passing the Outer Marker, half full scale fly up indication is considered to be the",
+          "content": "maximum safe deviation below the glide path.  At this indication an immediate climb must be initiated and the approach abandoned.  "
+        }
+      ]
+    },
+    {
+      "title": "WARNING FLAGS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Warning flags operate if a malfunction of the ILS ground installation or the aircraft equipment",
+          "content": "occurs.  They also operate if the aircraft is out of range.      "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 54",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 55",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "MARKER BEACONS",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "Marker beacons, transmitting on 75 Mhz, are installed along the approach path centre line.",
+          "content": ""
+        },
+        {
+          "title": "They radiate a fan pattern up to 3000 feet and their distance from the runway threshold is",
+          "content": "published, also the aircraft height overhead the marker if on the glide path.  "
+        }
+      ]
+    },
+    {
+      "title": "MARKER  CODING  LIGHT  DISTANCE  MODULATION",
+      "content": "",
+      "subsections": [
+        {
+          "title": "OUTER  (OM)  2 dashes/sec  BLUE  \u00b14 nm  400 Hz",
+          "content": ""
+        },
+        {
+          "title": "MIDDLE (MM)  Alternate dot dash  AMBER  \u00b13500 feet  1300 Hz",
+          "content": ""
+        },
+        {
+          "title": "INNER   (IM)  6 dots/sec  White  250 - 1500 feet  3000 Hz",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "LOCATOR BEACONS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Low powered NDB's are often sited at the middle and inner markers.",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "FALSE GLIDE PATHS",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "False  glide  paths  may  be  produced  above  the  true  glide  path.  The  first  of  these  is",
+          "content": "encountered at about 6\u00b0. They are not considered a danger to the aircraft for the following reasons:  1.  The glide path is intercepted from below. 2.  If an aircraft is descending on a false glide path of 6\u00b0 its rate of descent would be excessive. 3.  The aircraft height crossing the marker beacons on the glide path is published and cross checked. 4.  False glide paths signals are weak and warning flags should operate.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 56",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ILS BACK BEAM",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Some ILS installations radiate a Back Beam. When an aircraft passes the localiser transmitter",
+          "content": "during a missed approach, signals will be received to enable the aircraft to maintain the extended centre line.  If the aircraft strays to the left, a fly right command will be indicated (needle right of centre).  If the aircraft strays to the right, a fly left command will be indicated (needle left of centre).  "
+        }
+      ]
+    },
+    {
+      "title": "ILS BACK BEAM APPROACH",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "If runway 09 has an ILS, an approach may be made to runway 27 using the back beam of",
+          "content": "runway 09. The back beam is less accurate than a front beam and there are no marker beacons or glide path, only localiser signals.  The Left/Right needle commands do not apply, if the needle is to the left (indicating fly left on the front beam) then, as the needle sense is reversed, the aircraft must fly right.     "
+        }
+      ]
+    },
+    {
+      "title": "RATE OF DESCENT",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "The 1 in 60 rule may be used to calculate the rate of descent on the glide path.",
+          "content": "  "
+        },
+        {
+          "title": "RATE OF DESCENT =  GLIDE PATH ANGLE x GROUNDSPEED x 100",
+          "content": "60      "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 57",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.  During  an  ILS  approach  the  glide  slope  shows  a  2  dot  fly  up  indication.  Your immediate action would be:  a)   Execute a missed approach. b)   Fly level until the glide slope is regained. c)   Climb to regain the glide slope as soon as possible.  2.  The aircraft is on the ILS approach to runway 01 overhead the OM.   The OBS is set to 360\u00b0. What indication would you expect on the CDI?  a)   Fly left. b)   Fly right. c)   The needle will be centralised.  3.    The height of the ILS reference datum is:  a)   100 ft. b)   5 ft. c)   50 ft.  4.    The ILS monitor will act when:  a)   The localizer shift is more than 25 ft from the centre line. b)   A transmission power reduction of 50% or more is experienced. c)   The glide slope changes by more than 0.035\u00b0 x GP angle.  5.   Identification takes place on the:  a)   Localizer. b)   Glide path. c)   Both.  6.   ILS localizer signals are protected from interference up to:  a)   35 nm and 7\u00b0 vertical coverage. b)   25 nm and 6250 ft. c)   17 nm and 6250 ft.  7.   False glide paths:  a)   Are dangerous as they are below the true glide path. b)   Are not dangerous as they can be easily identified. c)   Can be ignored.  8.    When doing a back beam ILS:  a)   There will be no glide slope indication. b)   There are only two marker beacons. c)   The needle sense is the same.  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 58",
+          "content": " 9.    ILS performance category for Cat I is:  a)   Accurate guidance down to the runway surface. b)   Accurate guidance down to 100 ft above the reference point. c)   Accurate guidance down to 200 ft above the reference point.  10.   At the middle marker the indications are:  a)   A flashing blue light with low pitched dashes. b)   A flashing amber light with medium pitched dots and dashes. c)   A flashing white light with very high pitched dots.  11.   On an ILS the yellow (90 Hz) sector is always:  a)    On the left hand side. b)   On the right hand side. c)   Could be either side.  12.   ILS localizer coverage extends to:  a)   35 nm and 15\u00b0 either side of centre line; 20 nm and 25\u00b0 either side of centre line. b)   20 nm and 10\u00b0 either side of the centre line; 17 nm and 30\u00b0 either side of centre line. c)   25 nm and 10\u00b0 either side of centre line; 17 nm and 35\u00b0 either side of centre line.  13.   An ILS with a 4\u00b0 glide slope has coverage from:  a)   1.8\u00b0 to 7\u00b0 above the surface. b)   1.35\u00b0 to 5.25\u00b0 above the surface. c)   1.4\u00b0 to 6.8\u00b0 above the surface.  14.   On an ILS approach, the localizer needle will always be deflected in the colour area in which the aircraft is flying, regardless of  heading:  a)   False. b)   True.  15.   Calculate the rate of descent required for a glide path angle of 2.9\u00b0 and a ground speed of 112 kts.  a)   560 ft/min. b)   345 ft/min. c)   541 ft/min.  16.   Using the 1 in 60 rule determine the approximate height of an aircraft at a 2 nm range on the glide slope of 2.7\u00b0?  a)   547 ft. b)   273 ft c)   580 ft "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 59",
+          "content": " 17.   On a 3\u00b0 glide slope at a distance of 3 nm from the threshold a pilot receives a full fly up deflection on the glide slope indicator.  Approximately how many feet is the aircraft below the glide slope?  a)   218 ft. b)   200 ft. c)   230 ft.  18.   An aircraft on an ILS approach receives a half full-scale fly up deflection on the glide slope indicator. At 2.2 nm from the threshold there is an obstruction with a height of 285 ft. What will the vertical clearance be from the obstacle when the aircraft passes over it on a 3\u00b0 glide slope?  a)   380 ft. b)   320 ft. c)  270 ft.  19.   An ILS has a 3\u00b0 glide slope. The outer marker is 4 nm from the threshold. An aircraft passes the outer marker at 1100 ft AGL.   What glide slope indication would be shown on a 5 dot indicator?  a)   1 dot fly up. b)   In the slot. c)   3 dot fly up.  20.   An aircraft on an ILS approach is 250 ft into the 150 Hz sector, 195 ft above the glide slope and 4.5 nm from the threshold. The glide slope is 3\u00b0. What indication can the pilot expect on a 5 dot indicator?  a)   3 dot fly left; 1 dot fly down. b)   1 dot fly left; 3 dot fly down. c)  1 dot fly right; 3 dot fly down.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 60",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER  6",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "MICROWAVE  LANDING  SYSTEM  (MLS)",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "The MLS is an improved landing system which uses a scanning microwave beam that allows",
+          "content": "improved accuracy and flexibility such as curved approach paths in instrument landings. In addition  to  providing  azimuth  and  elevation  information,  the  MLS  supplies  continuous distance information.   "
+        }
+      ]
+    },
+    {
+      "title": "FREQUENCIES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The MLS operates on two bands of frequencies.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "AZIMUTH  AND  ELEVATION",
+      "content": " 5031 to 5090 MHz in the \"C\" band. ",
+      "subsections": [
+        {
+          "title": "There are 200 frequencies spaced every 300 kHz.",
+          "content": ""
+        },
+        {
+          "title": "Each MLS installation uses only one of these frequencies.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "PRECISION  DME",
+      "content": " 978 to 1215 MHz in the \"L\" band.  ",
+      "subsections": []
+    },
+    {
+      "title": "COVERAGE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Laterally.   40\u00b0 on either side of the runway.",
+          "content": " "
+        },
+        {
+          "title": "Elevation.    +15\u00b0.",
+          "content": " "
+        },
+        {
+          "title": "Range.   20 nm and 7 nm of back azimuth.",
+          "content": "   "
+        }
+      ]
+    },
+    {
+      "title": "DIRECTIONAL GUIDANCE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Directional guidance for both the azimuth and elevation portions of the MLS is transmitted by",
+          "content": "scanning microwave beams. The antennas are scanned electronically rather than rotated mechanically. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 61",
+          "content": " "
+        },
+        {
+          "title": "The azimuth beam scan starts at 40\u00b0 to the left of the runway centre line and scans clockwise",
+          "content": "to 40\u00b0 to the right of the runway centre line. This is called the \"to\" scan. After a 600 ms break the \"fro\" scan starts moving counter clockwise to the original position.  "
+        },
+        {
+          "title": "The antenna creates a microwave beam that is 2\u00b0 wide. Two bursts of RF energy is received",
+          "content": "- one on the clockwise scan and the second on the counter clockwise scan. The angular position of the aircraft can be determined by measuring the time between the reception of the two RF signals. A short interval would mean that the aircraft is approaching the left of the centre line. An aircraft to the right would receive a relatively longer time difference between the two pulses.  "
+        }
+      ]
+    },
+    {
+      "title": "ENVELOPE  FOR  DIGITAL  DATA  AND  SCANNING  BEAM",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "As only one frequency is used for the azimuth and elevation portion of the MLS, only one",
+          "content": "transmitter may operate at a time. Each transmission is identified by differential phase-shift keying at the beginning of the transmission. DPSK is created by rapidly switching the phase of the microwave carrier to send digital data from a broadbeam antenna.  "
+        }
+      ]
+    },
+    {
+      "title": "PREAMBLE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The preamble is in the form of a digital identifier for each transmission.  The preamble not",
+          "content": "only  identifies  the  beam  but  also  provides  a  time  reference  for  making  elapsed  time measurements.  "
+        },
+        {
+          "title": "It starts with an unmodulated carrier that lasts 832 ms. This is called the acquisition signal",
+          "content": "and is used to lock up and stabilize any phase-locked loops or other devices used to decode the DPSK.  "
+        },
+        {
+          "title": "After this the binary number 11101, which is called the synchronization code, is sent. The",
+          "content": "beginning  of  the  last  1  of  the  code  is  the  time  reference  for  making  the  elapsed-time measurement.  "
+        },
+        {
+          "title": "The next 7 bits are the function identification codes and identify the transmission as azimuth",
+          "content": "guidance, elevation guidance, data, etc.   "
+        }
+      ]
+    },
+    {
+      "title": "DPSK",
+      "content": "\u201cTo\u201d \u201cFro\u201d ",
+      "subsections": [
+        {
+          "title": "Function Scans",
+          "content": ""
+        },
+        {
+          "title": "Unmodulated Ident",
+          "content": ""
+        },
+        {
+          "title": "Carrier Sector Signals",
+          "content": "1 1 1  0  1 832  us "
+        },
+        {
+          "title": "Synchronization",
+          "content": ""
+        },
+        {
+          "title": "Code",
+          "content": ""
+        },
+        {
+          "title": "Preamble",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 62",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "SECTOR  SIGNALS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The first bit of the sector signal category is a Morse code identification bit. Each Morse code",
+          "content": "identifier begins with M, for MLS, and three letters identifying the airport.  "
+        }
+      ]
+    },
+    {
+      "title": "\"TO\"  AND  \"FRO\"  SCANS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "After the sector signals a test pulse is transmitted with a RF envelope similar to the type of",
+          "content": ""
+        },
+        {
+          "title": "RF pulse that will be received when the scanning beam passes the receiver. This is used in",
+          "content": "conjunction with a second test pulse after the beam scan. The receiver can be checked for timing accuracy by measuring the elapsed time between the two test pulses.  "
+        },
+        {
+          "title": "After the \"to\" test the \"to\" scan begins. After the 600 ms pause the \"fro\" scan begins after",
+          "content": "which the \"fro\" test pulse is transmitted.  "
+        }
+      ]
+    },
+    {
+      "title": "TIME  MEASUREMENT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Accurate timing is the secret of success with the MLS receiver. This is not easy with a pulse",
+          "content": "that does not have a sharp rise time. The pulse is preceded by a few spurious pulses due to the side lobes of the antenna, the main beam and finally pulses from the side lobes on the opposite side of the beam. The pulse width is defined as the time between the receipt of the 3 dB points of the beam and is a constant  100 ms.   "
+        }
+      ]
+    },
+    {
+      "title": "BM",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Tw   =",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Tw  =  Pulse width",
+          "content": ""
+        },
+        {
+          "title": "BM   =  Beam width (2\u00b0)",
+          "content": ""
+        },
+        {
+          "title": "V  =  Angular scan rate 20\u00b0/ms",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "AIRCRAFT  INDICATOR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Lateral  and  vertical  guidance  is  displayed  on  the  conventional  ILS  indicator.  Range",
+          "content": "information is displayed by conventional DME  indicators.  "
+        }
+      ]
+    },
+    {
+      "title": "BACK  AZIMUTH  GUIDANCE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The equipment transmits at a lower data rate because the guidance accuracy requirements",
+          "content": "are not as stringent as for the landing approach. The equipment operates on the same frequency but at a different time in the transmission sequence.  "
+        }
+      ]
+    },
+    {
+      "title": "PRECISION  DME",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Conventional DME is designated as DME/N and precision DME as DME/P. The N designator",
+          "content": "refers to narrow band and the P to precision DME.  "
+        },
+        {
+          "title": "DME/P operates in the same manner as DME/N and uses the same frequencies. DME/P",
+          "content": "does not have any TACAN facilities.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 63",
+          "content": ""
+        },
+        {
+          "title": "DME/P requires that the elapsed time between the interrogator transmission and receipt of",
+          "content": "the reply pulse be measured with greater accuracy than the DME/N. If an overall accuracy of 10 ft is required the elapsed time must be measured within 20 ns. In conventional DME pulses are 3.5 ms wide and all time measurements are referenced to the 50% amplitude point of the Gaussian waveform. Using this measurement it would be difficult to make a time measurement to within 20 ns.  "
+        },
+        {
+          "title": "To make accurate elapsed-time measurements, a very fast rise time pulse would be required.",
+          "content": " "
+        },
+        {
+          "title": "DME/P uses a cosine/cosine\u00b2 pulse for interrogation and reply. The leading edge is a cosine",
+          "content": "function and the trailing edge a cosine function. The two functions are arranged to provide a 3.5 ms  pulse to be compatible with the DME/N pulse.  "
+        },
+        {
+          "title": "The time reference is not at the 50% point but between a 5% and 30% of the pulse amplitude.",
+          "content": ""
+        },
+        {
+          "title": "This is the steepest slope of the DME/P pulse envelope and provides the most accuracy.",
+          "content": " "
+        },
+        {
+          "title": "DME/P has two modes of operation:",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "FINAL  APPROACH  MODE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "When the aircraft is within 7 nm of the runway, the air-to-ground interrogations are in a 40 Hz",
+          "content": "rhythm and consists of a pulse pair 18 ms, which produces a cosine/cosine\u00b2 reply. At 7 nm the interrogator transmits 12 ms pulse pairs and receives a conventional 3.5 ms Gaussian pulse. In this zone the transmissions will alternate between 12 and 18 ms so that a smooth transition can be made between high-accuracy pulses and the conventional pulses.  "
+        }
+      ]
+    },
+    {
+      "title": "INITIAL  APPROACH  MODE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "When the aircraft is more than 7 nm from the DME/P, the conventional Gaussian pulses are",
+          "content": "measured at the 50% point. Air-to-ground interrogations are in a 16 Hz rhythm with two pulses 12 ms apart.  When the signal is strong at about 7 nm the interrogator requests the faster pulses and the interrogator makes the required time measurements from the 5% to 30% points.                  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 64",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.   The MLS azimuth and elevation beams operate on the following frequency band:  a)   978 to 1215 MHz. b)   5031 to 5090 MHz. c)   832 to 978 MHz.  2.   The break in transmission between the \"to\" and \"fro\" scan lasts:  a)  40 ms. b)  832 ms. c)  600 ms.  3.   The function of the preamble transmission is:  a)   To identify the azimuth and elevation beam scan. b)  Provides time reference for making elapsed time measurements. c)   Both  a and b.  4.   The duration of the acquisition signal is:  a)  832 ms. b)  600 ms. c)  111 ms.  5.   The data forming the preamble is sent in the following order:  a)   Acquisition signal, synchronisation code, function ident. b)   Function ident, synchronisation code, sector signals. c)   Unmodulated carrier, function ident, synchronisation code.  6.   A short interval between reception of the azimuth beam is an indication that:  a)   The aircraft is right of centre line. b)   The aircraft is left on centre line. c)   The position relative to the centre line cannot be determined by the time interval between the two beams only.  7.   The range of the back azimuth beam is:  a)  12 nm. b)  20 nm. c)  7 nm.  8.   In order to improve the accuracy DME/P differs from DME/N in the following aspects:  a)   The time reference for DME/P is taken between 5% and 30% of the pulse amplitude instead of the 50% pulse amplitude. b)   DME/P operates on a higher frequency. c)   DME/P has a narrower bandwidth.  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 65",
+          "content": "9.   Which of the following is a characteristic of DME/P:  a)  Pulse pairs are 12 ms apart and produce a cosine/cosine\u00b2  reply. b)   Pulse pairs are 18 ms apart and produce a cosine/cosine\u00b2  reply. c)  Pulse pairs are 18 ms apart and receive a Gaussian pulse.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 66",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 7",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "RADIO ALTIMETERS",
+      "content": "   ",
+      "subsections": []
+    },
+    {
+      "title": "PRINCIPLE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A radio wave is transmitted vertically and the time taken for the radio wave to reach the",
+          "content": "ground and return to the aircraft is measured. Knowing the speed of propagation multiplied by time will give the height of the aircraft landing gear above the ground.  "
+        },
+        {
+          "title": "FREQUENCY MODULATED RADIO ALTIMETER   4300 Mhz  \u00b1 50 Mhz",
+          "content": " "
+        },
+        {
+          "title": "The radio altimeter's frequency modulated at 20 Hz per nano-second. If the-transmission",
+          "content": "starts at 4250 Mhz, the 4250 Mhz will travel to the ground and will be received as 4250 Mhz after 't' nano-seconds. At the instant the 4250 Mhz signal is being received the transmitter is transmitting 4250.0234 Mhz. The frequency having been increased by 20 Hz per nano- second (ns). "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 67",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CHANGE OF FREQUENCY  = TIME",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "RATE OF CHANGE OF FREQUENCY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Transmitting Frequency  4250.0234 Mhz",
+          "content": " "
+        },
+        {
+          "title": "Received Frequency    4250.0000 Mhz",
+          "content": " "
+        },
+        {
+          "title": "Frequency Difference   0.0234 Mhz x 1000 x 1000 =  23400 Hz = 1170ns",
+          "content": "20 Hz/ns  "
+        },
+        {
+          "title": "Distance =  Speed x Time  =  0.984 feet / ns x 1170 ns  = Aircraft Height 575.64 feet",
+          "content": "2    2  "
+        },
+        {
+          "title": "RANGE  0 to 2500 feet",
+          "content": " "
+        },
+        {
+          "title": "ACCURACY  5 feet or 3% of height",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "DECISION HEIGHT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A decision height control knob positions the DH bug for use during an ILS approach.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ERRORS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Fixed Error",
+          "content": " "
+        },
+        {
+          "title": "This error is caused by the method of converting frequency difference into height and feeding",
+          "content": "the current to the indicator. The radio altimeter pointer moves in 5 feet steps (similar to the second hand of a watch) so an error of 2\u00bd feet may be present at any time.  "
+        },
+        {
+          "title": "Mushing Error",
+          "content": " "
+        },
+        {
+          "title": "When the transmitting aerial is at a different height to the receiving aerial due to aircraft",
+          "content": "attitude.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 68",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.  The radio altimeter could be used in conjunction with the following navigational approach aids:  a)   Cat I ILS. b)   VOR/DME. c)   Cat II and III ILS.  2.    The frequency band allocated to the radio altimeter is:  a)   1700 MHz. b)   4300 MHz. c)   3600 MHz.  3.    As the height of the aircraft increases, the change in frequency:  a)   Increases. b)   Decreases. c)   Remains constant.  4.    When the pointer moves out of view:  a)   The aircraft is above 2500 ft. b)   The receiver experiences a loss of signal. c)   Both.  5.    Radio altimeter errors include:  a)   Doppler error. b)   Fixed error. c)   Phase error.  6.    The elapsed time between the transmitted and the received signal is 467.9 nano seconds. Determine the aircraft's absolute height.  a)   460.41 ft. b)   230.21 ft. c)   140.37 ft.  7.    A radio altimeter is frequency modulated at 35 Hz per nano second. The change in frequency between transmission and reception is 27.8 kHz. Determine the height of the aircraft above the ground.  a)   390 ft. b)   620 ft. c)  500 ft.  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 69",
+          "content": "                                 "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 70",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 8",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "GROUND PROXIMITY WARNING SYSTEM (GPWS)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The GPWS is a digital computer or central processing unit (CPU) which accepts inputs from:-",
+          "content": " (cid:52)  Radio altimeter with a failure signal (cid:52)  Vertical speed sensor or a barometric altitude rate computer with failure signal (cid:52)  ILS glide path receiver (cid:52)  Switch activated when the landing gear is down (cid:52)  Switch activated when the flaps are in the landing position  "
+        },
+        {
+          "title": "The GPWS monitors six basic modes of aircraft operation and issues warnings if a hazardous",
+          "content": "situation is arising.  "
+        },
+        {
+          "title": "Mode 3 is automatically selected for take-off or overshoot below 500 ft.",
+          "content": ""
+        },
+        {
+          "title": "Mode 4 is automatically selected for landing",
+          "content": " "
+        },
+        {
+          "title": "Crew action in response to GPWS alerts or warnings are given in the Operations Manual.",
+          "content": "   "
+        },
+        {
+          "title": "Sample of profile from B737-300 manual",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 71",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ALERT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A caution generated by the GPWS equipment.",
+          "content": ""
+        },
+        {
+          "title": "The crew must respond immediately by correcting the flight path or aircraft",
+          "content": "configuration (gear or flaps) so that the alert ceases.  "
+        },
+        {
+          "title": "Mode 1  SINK RATE  50 ft to 2450 It",
+          "content": ""
+        },
+        {
+          "title": "Mode 2  TERRAIN  50 ft to 1800 ft",
+          "content": ""
+        },
+        {
+          "title": "Mode 3  DON'T SINK  220 ft to 790 ft",
+          "content": ""
+        },
+        {
+          "title": "Mode 4A  TOO LOW GEAR  50 ft to 700 ft",
+          "content": ""
+        },
+        {
+          "title": "Mode 4B  TOO LOW FLAPS  50 ft to 500 ft",
+          "content": ""
+        },
+        {
+          "title": "Mode 5  GLIDESLOPE  100 ft to 500 ft",
+          "content": ""
+        },
+        {
+          "title": "Mode 6  DESCENT BELOW MINIMA",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "WARNINGS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "When the GPWS issues a warning the crew should immediately initiate a maximum climb",
+          "content": "gradient to at least the minimum safe altitude.  "
+        },
+        {
+          "title": "Mode 1    PULL UP",
+          "content": " "
+        },
+        {
+          "title": "Mode 4    TOO LOW TERRAIN",
+          "content": " "
+        },
+        {
+          "title": "See table on next page",
+          "content": "   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 72",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.  Mode 4 of the Ground Proximity Warning System (GPWS) will give a warning if the landing gear is not down and locked if the aeroplane is below :-  (a).  500 ft above ground level. (b)  1000 ft above ground level. (c)  1500 ft above ground level.  2.  The Ground Proximity Warning System accepts inputs from :-  (a)  Landing gear position.  Altimeter, ILS glide path and Vertical speed sensor, landing gear position and radio altimeter. (b)  ILS glide path, vertical speed sensor, landing gear position and radio altimeter. (c)  VSI, ILS glide path, altimeter and landing gear position.  3.  With GPWS the \u201cTERRAIN TERRAIN\u201d alert can occur :-  (a)  only when descending (b)  between 50 ft and 1800 ft, (c)  only when the landing gear is up.  4.  The GPWS operates in a height range above ground level of :  (a)  50 ft to 1500 ft (b)  50 ft to 1800 ft (c)  50 ft to 2450 ft ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 73",
+          "content": "                                "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 74",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 9",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "RADAR THEORY",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "RADAR is the transmission of radio energy in short bursts or pulses.  Radar frequencies are",
+          "content": ""
+        },
+        {
+          "title": "VHF and higher.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "TIME & SPEED",
+      "content": " 1 second  =  1000 milli-seconds  (ms) 1 second  =  1 000 000 micro-seconds  (\u00b5s) 1 second  =  1 000 000 000 nano-seconds  (ns)  ",
+      "subsections": [
+        {
+          "title": "A radar pulse travels at 300 000 000 metres per second or 162 000 nm per second",
+          "content": " "
+        },
+        {
+          "title": "A radar pulse travels at 300 metres per micro-second (\u00b5s)",
+          "content": ""
+        },
+        {
+          "title": "A radar pulse travels at 0.162 nm per micro-second (\u00b5s)",
+          "content": "    "
+        }
+      ]
+    },
+    {
+      "title": "PULSE RECURRENCE PERIOD (PRP)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The distance between the transmission of two pulses in time.",
+          "content": ""
+        },
+        {
+          "title": "PRP 2000 \u00b5s.  The second pulse is transmitted 2000 \u00b5s after the first pulse.",
+          "content": "   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 75",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "PULSE RECURRENCE FREQUENCY (PRF)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The number of pulses transmitted per second. 500 pps (pulses per second)",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "PULSE WIDTH",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The length of the pulse in time, 2 \u00b5s x 300 metres per \u00b5s  = 600 metres pulse length",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "PRIMARY RADAR",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "1 TRANSMITTER   1 RECEIVER   1 FREQUENCY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A  radar  pulse  is  transmitted  and  is  reflected  by  a  target  and  returns  to  its  point  of",
+          "content": "transmission.  The direction from which it returns can be measured.  The time taken for its journey out and return is measured and knowing the speed of propagation the range of the target can be calculated.  Thus the position of the target is known.  "
+        }
+      ]
+    },
+    {
+      "title": "SECONDARY RADAR",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "2 TRANSMITTERS  2 RECEIVERS  2 FREQUENCIES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A radar pulse is transmitted by station A and received by station B. Station B replies by",
+          "content": "transmitting a second pulse on a second frequency which is received by station A.  The bearing and distance of station B from station A can be measured or calculated similar to primary radar.  "
+        }
+      ]
+    },
+    {
+      "title": "PRIMARY RADAR RANGE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The range of primary radar depends on the power output. As primary radar is an out and",
+          "content": "return trip, to double the range the power must be increased by a factor of 16.  Other important factors which govern range are Pulse Recurrence Frequency, Pulse Recurrence "
+        },
+        {
+          "title": "Period and Pulse Width.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "PULSE RECURRENCE FREQUENCY (PRF) DETERMINES MAXIMUM RANGE",
+      "content": "  if the PRF is 500 pps (pulses per second) then PRP =  1  =  0.002 sec = 2000\u00b5s ",
+      "subsections": []
+    },
+    {
+      "title": "PRF 500",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "The pulse has 2000 \u00b5s to travel out and return before the next pulse is transmitted",
+          "content": "    "
+        },
+        {
+          "title": "Distance =  Speed x Time  =  0.162 nm/\u00b5s x 2000 \u00b5s  = 162 nm maximum range",
+          "content": "2    2   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 76",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "PULSE WIDTH DETERMINES MINIMUM RANGE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Minimum range is important in the design of airport surveillance radar.",
+          "content": " "
+        },
+        {
+          "title": "Pulse width 3 \u00b5s x 300 metres per \u00b5s = 900 metres pulse length",
+          "content": " "
+        },
+        {
+          "title": "If a target is 450 metres from the transmitter, the first cycle of the returning pulse or echo",
+          "content": "would be received as the last cycle of the transmitted pulse leaves the transmitter.  Echoes from  targets  closer  than  450  metres  would  not  be  received  as  the  transmitter  is  still transmitting.  To receive echoes from targets closer than 450 metres the pulse width would have to be reduced.  "
+        }
+      ]
+    },
+    {
+      "title": "CATHODE RAY TUBE (CRT)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The Cathode Ray Tube produces electrons in the form of a stream from a cathode.  The",
+          "content": "stream of electrons can be controlled in such a way that radar derived information and other data can be displayed on the CRT screen.  To give a clear and accurate presentation the electron stream must be focused into a narrow beam. This beam will appear as a dot on the screen of the tube.  The dot can be moved rapid by actuating the X and Y deflection plates. "
+        },
+        {
+          "title": "There is sufficient afterglow to allow the most recent position of the dot to persist for a short",
+          "content": "time, so instead of seeing a dot on the screen, a line or \"timebase\" is seen.  The time base can be linear (vertical of horizontal), radiating from the centre to the edge of the screen or circular.   "
+        }
+      ]
+    },
+    {
+      "title": "CATHODE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The cathode is a small cylinder coated with barium oxide.  When heated the barium oxide",
+          "content": "emits electrons.  "
+        }
+      ]
+    },
+    {
+      "title": "GRID",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The grid is cylindrical in shape and has a hole in the centre through which the beam of",
+          "content": "electrons passes. Voltages applied to the grid, which is always negative with respect to the cathode, control the number of electrons passing through it and hence the brilliance of the display.  The grid is the brilliance control. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 77",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "ANODES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The  first  and  third  anodes  have  a  positive  potential  which  attracts  the  electrons  and",
+          "content": "accelerates the electron beam towards the screen. As the beam passes through the centre of the first anode the beam tends to diverge.  This tendency to diverge is controlled by the second anode, and by varying its negative potential the electrons are focused into a narrow beam.  The second anode is the focusing control.  "
+        },
+        {
+          "title": "X and Y DEFLECTOR PLATES",
+          "content": " "
+        },
+        {
+          "title": "The Y plates control the beam in the vertical and the X plates in the horizontal. To produce a",
+          "content": "horizontal linear timebase, initially the left X plate would be positive and the right X plate negative.  This will position the beam at the left hand side of the screen. The potential of both plates is rapidly reversed, the left plate becoming negative and the right plate positive. The beam moves rapidly across the screen giving a horizontal time base.  By repeating this process many times a second a steady time base appears on the screen.  A radar pulse travels at 162 000 nm per second or 162 nm in 1000 \u00b5s If the electron beam moves across the screen in 1000 \u00b5s the length of the time base is 162 nm.  A returning echo from a target is fed to the Y plates and a blip will appear and the range is measured against a suitable scale.  "
+        }
+      ]
+    },
+    {
+      "title": "GRAPHITE COATING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The inner wall of the tube is coated with graphite which is connected to the third anode. This",
+          "content": "serves to attract slow moving secondary electrons emitted from the screen as a result of the impact of the beam.  Otherwise they would tend to build up a negative charge sufficiently strong to repel the beam.  "
+        }
+      ]
+    },
+    {
+      "title": "GAIN CONTROL",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Interference from other electrical equipment or atmospheric static may appear on the screen.",
+          "content": ""
+        },
+        {
+          "title": "These tiny signals travel to the CRT via the Y plates and show up on the screen as small",
+          "content": "blips in the vertical.  They appear as \"grass\" hence their name.  They appear when the gain control is increased and indicate that the CRT is serviceable, reduce the gain and they should disappear.   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 78",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.    A radar has a PRF of 750 pps. Calculate the maximum theoretical    range.  a)   108 nm. b)   121 nm. c)   216 nm.  2.    An echo on a CRT registers a time interval of 280 \u00b5s (ignoring fly back) out and return. Determine the range of the target.  a)  45.36 nm b)  22.68 nm c)  26.04 nm  3.    A radar is designed to have a maximum range of 350 nm. Determine the required ",
+      "subsections": []
+    },
+    {
+      "title": "PRF.",
+      "content": " a)  462.86 pps b)  432.09 pps c)  231.43 pps  4.    A radar is designed to have a minimum range of 1200 m. Determine the required pulse width.  a)   12 \u00b5s. b)     8 \u00b5s. c)     6 \u00b5s.  5.    The  PRF  of  a  radar  installation  is  570  pps.  What  is  the  time  interval  between successive transmissions of the leading edges of  the pulse?  a)   1754.39 \u00b5s. b)   1140.00 \u00b5s. c)   1643.85 \u00b5s.  6.    A particular radar installation is designed to operate to a maximum range of 180 nm. If three-tenths of the cycle is used for fly back,  what is the PRF required?  a)   3175 pps b)   2222 pps c)   315   pps  7.    A radar tracking system is situated 3.3 km upwind from the threshold of a runway. The system is designed to give coverage between 25 nm  and the runway threshold. ",
+      "subsections": [
+        {
+          "title": "Calculate  the  timing  of  the  transmission  pulses  to  meet  the  maximum  range",
+          "content": "requirements.  a)   3240      pps b)   3022.67 pps c)   2862.19 pps   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 79",
+          "content": "8.  With reference to question 7. Calculate the timing of the transmission to meet the minimum range requirements.  a)   22 \u00b5s. b)   11 \u00b5s. c)   15 \u00b5s.  9.   If the above radar system operates on a carrier frequency of 13.6 GHz, how many transmission cycles represent one pulse?  a)   161 765 cycles. b)   618 182 cycles. c)   299 200 cycles.  10.   With reference to the CRT which component is used for brilliance  control?  a)   The cathode. b)   The anodes. c)   The grid.  11.   With reference to the CRT which component achieves focusing control?  a)   The anodes. b)   The grid. c)  The X plates.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 80",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 10",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "DISTANCE MEASURING EQUIPMENT (DME)",
+      "content": "   ",
+      "subsections": [
+        {
+          "title": "FREQUENCIES  962 MHz to 1213 MHz  UHF",
+          "content": " "
+        },
+        {
+          "title": "DME is secondary radar, that is 2 transmitters, 2 receivers and 2 frequencies.",
+          "content": "    "
+        }
+      ]
+    },
+    {
+      "title": "AIRCRAFT EQUIPMENT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "An interrogator, which is a combined transmitter and receiver.",
+          "content": " "
+        },
+        {
+          "title": "An indicator",
+          "content": " "
+        },
+        {
+          "title": "An omni-directional blade aerial, able to receive vertically polarised signals.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "GROUND EQUIPMENT - TRANSPONDER",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A transmitter, receiver and aerial system.  The word transponder means that it is a transmitter",
+          "content": "which responds.  "
+        }
+      ]
+    },
+    {
+      "title": "PRINCIPLE OF OPERATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "An  aircraft  transmits  an  interrogation  pulse  which  is  received  by  the  DME.    The  DME",
+          "content": "transponder will reply to the interrogation pulse received from the aircraft and will transmit a reply pulse.  Range is calculated from the time interval between the aircraft transmitting a pulse and receiving the reply.  As the DME transponder replies to every interrogation by all aircraft, each aircraft must isolate the reply pulse to its own interrogation and reject reply pulses to interrogations by other aircraft.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 81",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "RANDOM PRF",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The aircraft transmits pairs of pulses 12 \u00b5s apart. The time between the pairs of pulses is",
+          "content": "varied at random   40000\u00b5s  40150\u00b5s  39650\u00b5s  38950\u00b5s  40820\u00b5s  39275\u00b5s   "
+        },
+        {
+          "title": "At the instant that a pair of pulses is transmitted the receiver starts timing and commences a",
+          "content": "search  for  the  transponder  replies.    The  transponder  replies  to  the  interrogations  by transmitting pairs of pulses on a frequency 63 Mhz removed from the interrogation frequency. "
+        },
+        {
+          "title": "The aircraft's receiver searches for pairs of pulses that match the time intervals of its own",
+          "content": "transmitted pairs of pulses, its; own random PRF, and rejects pulses meant for other aircraft. "
+        },
+        {
+          "title": "Once the aircraft's unique random PRF has been recognized the receiver \"locks on\" and",
+          "content": "tracking commences and slant range to the DME is indicated.  "
+        },
+        {
+          "title": "During the search period the aircraft's interrogator transmits at a high rate of 150 pairs of",
+          "content": "pulses per second.  If \"lock on\" is not achieved in 100 seconds (15 000 pairs of pulses) the "
+        },
+        {
+          "title": "PRF is lowered to 60 pairs of pulses per second until \"lock on\".  At \"lock on\" the transmission",
+          "content": "rate is reduced further to 25 - 30 pairs of pulses per second.  "
+        }
+      ]
+    },
+    {
+      "title": "MEMORY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "If the signals are lost, memory circuits are activated, which will continue to display range",
+          "content": "information at the last known rate of change of range.  After 10 seconds of memory operation the equipment will revert to the search mode.  "
+        }
+      ]
+    },
+    {
+      "title": "AUTOMATIC STANDBY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The aircraft VOR and DME equipment is frequency paired (similar to ILS Localiser and Glide",
+          "content": ""
+        },
+        {
+          "title": "Path).  A VOR frequency is selected and the appropriate DME frequency is automatically",
+          "content": "selected and the DME starts interrogating.  It is pointless for the DME to transmit if the VOR has no DME or the aircraft is out of range.  The automatic standby circuits prevent the interrogator operating until it receives reply pulses from the transponder meant for other aircraft, or \"squitter or filler pulses\" which are transmitted at random by the DME.  "
+        },
+        {
+          "title": "FREQUENCIES    UHF  962 Mhz to 1213 Mhz",
+          "content": " "
+        },
+        {
+          "title": "The DME frequency band is divided into a low band and an upper band.",
+          "content": " "
+        },
+        {
+          "title": "LOW BAND CHANNELS 1 to 63",
+          "content": " "
+        },
+        {
+          "title": "Aircraft Interrogator    Ground Transponder",
+          "content": "1025 MHz to 1087 Mhz  Minus 63 MHz  962 MHz to 1024 MHz  "
+        },
+        {
+          "title": "HIGH BAND CHANNELS 64 to 126",
+          "content": " "
+        },
+        {
+          "title": "Aircraft Interrogator    Ground Transponder",
+          "content": "1088 MHz to 1150 Mhz  Plus 63 MHz  1151 MHz to 1213 Mhz   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 82",
+          "content": ""
+        },
+        {
+          "title": "As  the  ground  transponder  reply  frequency  is  63  Mhz  different  from  the  interrogation",
+          "content": "frequency the aircraft receiver will not accept replies to its interrogation that are reflected from the ground .  "
+        },
+        {
+          "title": "The 126 Channels listed above are X channels and there is 12 \u00b5s spacing between the two",
+          "content": "pulses of the interrogation and transponder pulses.  There are a further 126 Y channels but the spacing between the two interrogation and transponder pulses is 36\u00b5s.  "
+        }
+      ]
+    },
+    {
+      "title": "DME BEACON SATURATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The DME transponder can only transmit 2700 pairs of pulses per second.  Assuming the",
+          "content": "average transmission rate of an interrogator is ,5 pairs of pulses per second, then the DME can reply to 100 aircraft.  This is the saturation level. If more than 100 aircraft interrogate a "
+        },
+        {
+          "title": "DME it is said to be saturated and the DME receiver gain is lowered and the transponder will",
+          "content": "ignore the weakest interrogations, that is aircraft at the greatest range.  "
+        }
+      ]
+    },
+    {
+      "title": "VOR/ DME FREQUENCY PAIRING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The aircraft VOR and DME equipment is frequency paired (similar to ILS Localiser and Glide",
+          "content": ""
+        },
+        {
+          "title": "Path).  A VOR frequency is selected and the appropriate DME frequency is automatically",
+          "content": "selected and the DME starts interrogating.  "
+        }
+      ]
+    },
+    {
+      "title": "CO-LOCATED VOR / DME",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The aerials are a maximum of 100 feet apart and the facilities are used in terminal areas for",
+          "content": "approach purposes.  Both facilities have the same IDENT (VOR JSV / DME JSV).  "
+        }
+      ]
+    },
+    {
+      "title": "ASSOCIATED VOR / DME",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "En route navigational VOR/DME and the aerials are not more than 2000 feet apart. Both",
+          "content": "facilities have the same IDENT (VOR CPL / DME CPL).  "
+        }
+      ]
+    },
+    {
+      "title": "VOR / DME SERVING THE SAME LOCATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "VOR and DME transmitters that are more than 2000 feet apart but serve the same area. They",
+          "content": "are identified by their different IDENT. The first two letters will be the same but the third letter of one facility will be a Z (VOR STN / DME STZ).  "
+        },
+        {
+          "title": "Where  VOR  and  DME  stations  are  at  entirely  different  locations  their  IDENT  will  be",
+          "content": "completely different and they are not to used in conjunction. Where a VOR is frequency paired with a military TACAN the system is called a VORTAC.  "
+        }
+      ]
+    },
+    {
+      "title": "VOR/ DME IDENT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The IDENT is transmitted 4 times every 30 seconds.",
+          "content": ""
+        },
+        {
+          "title": "The VOR will transmit 3 times in 30 seconds and the DME once.",
+          "content": " "
+        },
+        {
+          "title": "ACCURACY and ERRORS",
+          "content": " "
+        },
+        {
+          "title": "DME accuracy is better than 0.5 nm and there are no errors.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 83",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "RANGE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Maximum range of DME is 200 nm, but being UHF it is line of sight and will depend on",
+          "content": "aircraft altitude.  "
+        },
+        {
+          "title": "The range is slant range, an aircraft overhead a DME at 18 000 feet will have a range of",
+          "content": "3 nm.  "
+        },
+        {
+          "title": "To calculate ground range :-",
+          "content": " "
+        },
+        {
+          "title": "SLANT RANGE2 = GROUND RANGE2 + AIRCRAFT ALTITUDE in NAUTICAL MILES2",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "RANGE CALCULATIONS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Question 1",
+          "content": " "
+        },
+        {
+          "title": "An aircraft receives a reply a pulse from a DME 1730\u00b5s after transmission of the interrogation",
+          "content": "pulse.  The DME has a fixed delay of 50\u00b5s. The range of the aircraft from the DME station is:-   "
+        },
+        {
+          "title": "SPEED x TIME    0.162 nm/\u00b5s  x (1730/\u00b5s - 50/\u00b5s)",
+          "content": ""
+        },
+        {
+          "title": "DISTANCE =  2  =  2  = 136 nm",
+          "content": "   "
+        },
+        {
+          "title": "Question 2",
+          "content": " "
+        },
+        {
+          "title": "A DME with a fixed delay of 50\u00b5s receives an interrogation pulse from an aircraft 425\u00b5s after",
+          "content": "transmission. The slant range of the aircraft From the DME station is :-  "
+        },
+        {
+          "title": "DISTANCE = SPEED x TIME = 0.162 nm/\u00b5s  x 425 \u00b5s  = 68.55 nm(ONE WAY TRIP ONLY)",
+          "content": "        "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 84",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.  The DME indication when an aircraft is overhead a VOR/DME station at 6000\u2019 is :-  (a)  0 nm (b)  1 nm (c)  1.3 nm 2.  The distance displayed by the DME indicator is :-  (a)  Slant range in nautical miles. (b)  Slant range in statute miles. (c)  Correct ground range.  3.  The greatest error between ground distance to the DME station and the indicated distance is :-  (a)  High altitudes at maximum range. (b)  High altitudes close to the DME station. (c)  Low altitudes at maximum range. (d)  Low altitudes close to the DME station. 4.  The DME frequency band is:  (a)  VLF (b)  VHF (c)  UHF  5.  A VOR frequency is selected and VOR and DME indications are received on the appropriate indicators. The VOR ident is CPL and the DME CPZ. This indicates that ",
+      "subsections": [
+        {
+          "title": "VOR and DME transmitters are :-",
+          "content": " (a)  co-located, and the bearing and range can be plotted from the VOR position, (b)  serving the same location and may be plotted after checking the two positions (c)  at two independent positions and are not related.  6.  A DME transponder becomes saturated if interrogated by a excessive number of aircraft.  It will reply to the nearest :  (a)    80 aircraft, (b)  100 aircraft, (c)  120 aircraft.  7.  An aircraft DME receiver rejects pulses meant for other aircraft because:  (a)  The transmission and reply frequencies are 63 MHz apart. (b)  The random PRF is unique to each aircraft. (c)  The pulses are transmitted in pairs.      "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 85",
+          "content": "8.  An aircraft receives a reply pulse from a DME 1200 \u00b5s after transmission of the interrogation pulse. The DME has a fixed delay of 50 \u00b5s. The range of the aircraft from the DME station is:-  (a)  47 nm (b)  72 nm (c)  93 nm  9.  A DME with a fixed delay of 50 \u00b5s receives an interrogation pulse from an aircraft 285 \u00b5s after transmission. The slant range of the aircraft from the DME station is:  (a)  29 nm (b)  46 nm (c)  63 nm  10.  The DME automatic standby will activate the DME interrogator when :-  (a)  random filler pulses from the transponder are received, (b)  a VOR frequency that has a frequency paired DME is selected, (c)  the DME ident signal is received.  11.  If an ident signal is received once in 30 seconds ~on a frequency paired VOR/DME, then :-  (a)  the VOR only is operational, (b)  the DME only is operational, (c)  both facilities are operational.  12.  An aircraft's DME receiver will accept replies to its own interrogations from a DME transponder and ignore replies to interrogations from other aircraft because the :-  (a)  interrogation and reply frequencies are 63 Mhz apart, (b)  random PRF which is unique to each transmitter, (c)  pulses are transmitted in pairs.  13.  An aircraft will not accept replies from its own transmissions that are reflected from the ground because the :-  (a)  interrogation and reply frequencies are 63 Mhz apart, (b)  random PRF which is unique to each transmitter, (c)  pulses are transmitted in pairs.  14.  A VOR frequency is selected and VOR and DME indications are received on the appropriate indicators. The VOR ident is GDV and the DME MFT. This indicates that "
+        },
+        {
+          "title": "VOR and DME transmitters are :-",
+          "content": " (a)  co-located, and the bearing and range can be plotted from the VOR position, (b)  serving the same location and may be plotted after checking the two positions (c)  at two independent positions and are not related.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 86",
+          "content": " 15.  An aircraft DME interrogator transmits pair of pulses for limited periods at switch on. "
+        },
+        {
+          "title": "The transmission pattern is :-",
+          "content": " (a)  150 pps for 100 seconds, thereafter 60 pps until lock on, then 27 pps. (b)  15000 pps for 100 seconds, thereafter 60 pps until lock on, then 27 pps, (c)  270 pps for 100 seconds, thereafter 150 pps until lock on, then 25-30 pps.   16.  An aircraft receives a reply from a DME (fixed delay 50\u00b5s) 995\u00b5s after transmission of the interrogation pulse. The slant range of the aircraft is :-  (a)  76.54nm (b)  82.59nm (c)  88.34nm  17.  An aircraft receives a reply from a DME 1.5 milli-seconds after transmission of the interrogation pulse. If the DME has a fixed delay of 50\u00b5s the range of the aircraft is :-  (a)  112.85nm (b)  117.45nm (c)  121.83nm  18.  An X channel DME transponder will not reply to a Y channel interrogation, because :-  (a)  the interrogation and reply frequencies are 126 Mhz apart, (b)  the Y channel accepts three pulse interrogations only, (c)  the spacing between the X and Y interrogation pulses is different.  19.  An aircraft at FL 410 has a DME range of 14 nm. The ground range from the DME is :-  (a)  11.68nm (b)  12.27nm (c)  12.85nm    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 87",
+          "content": "                                "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 88",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 11",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "AIRBORNE WEATHER RADAR (WXRDR)",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "FREQUENCY        SHF 9375 Mhz   Wavelength 3.2cms",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "PRINCIPLE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The SHF 9375 Mhz is used because of the short wavelength of 3.2 cms.  At this wavelength",
+          "content": "mist, fog and clouds composed of tiny water droplets do not reflect the 3.2 cm wavelength, and as these clouds and fog are harmless to aircraft regarding turbulence, need not be shown  on  the  radar  screen.    Clouds  such  as  large  Cumulus  and  Cumulo-nimbus  are composed of large water drops and hail due to the strong vertical currents in the clouds and are dangerous to aircraft.  Radar pulses of 3.2 cm wavelength are reflected from such large water  drops  and  give  excellent  echoes.    Weather  radar  is  primary  radar (1 transmitter/receiver and 1 frequency) and uses the searchlight principle.  "
+        }
+      ]
+    },
+    {
+      "title": "OPERATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A  short  pulse  is  transmitted  and  the  receiver  detects  the  returning  echo  on  the  same",
+          "content": "frequency.  Receiver sensitivity is reduced immediately after transmission of the pulse and slowly increased with time.  The echoes from clouds close to the aircraft will be strong whilst echoes from distant clouds will be weak.  Varying receiver sensitivity will paint clouds with a similar brightness on the radar screen.  This is the sensitive time control (STC).  "
+        }
+      ]
+    },
+    {
+      "title": "RANGE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Range depends on transmission power and Pulse Recurrence Frequency / Period.  The",
+          "content": "pulse must be given enough time to travel out to the cloud and return as an echo before the next pulse is transmitted.  "
+        },
+        {
+          "title": "PRF 400 pulses per second = range 202 nm",
+          "content": ""
+        },
+        {
+          "title": "PRF 500 pulses per second = range 162 nm",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 89",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "POWER",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "STBY  STANDBY  Normally selected after starting engines, radar ready for",
+          "content": "instant use.  "
+        },
+        {
+          "title": "ON  Radar operating, scanner gyro stabilized. May be used on the ground",
+          "content": "using extreme caution on runway just prior to take-off if bad weather in take-off flight path).  "
+        },
+        {
+          "title": "STAB OFF    Aerial locked to aircraft pitch and roll axes.",
+          "content": "  "
+        },
+        {
+          "title": "RANGE SWITCH  30 nm with range circles every 5 nm  varies from radar",
+          "content": "60 nm with range circles every 10 nm  to radar 180 nm with range circles every 30 nm   "
+        }
+      ]
+    },
+    {
+      "title": "TILT CONTROL",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Permits aerial tilt 30\u00b0 up when estimating the height of cloud tops or 30\u00b0 down when ground",
+          "content": "mapping at long range.  "
+        }
+      ]
+    },
+    {
+      "title": "GAIN CONTROL",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "To brighten or dim the picture.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ERASE RATE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "To increase or reduce the rate that clouds on the screen fade.  The time base sweeps from",
+          "content": "left to right painting clouds.  At the second sweep from left to right, the clouds painted by the first sweep should be fading just as they are repainted by the second sweep a little closer to the aircraft.  "
+        }
+      ]
+    },
+    {
+      "title": "FUNCTION SWITCHES",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "WEA   (sometimes shown as WX)",
+          "content": " "
+        },
+        {
+          "title": "The normal position for observing clouds using a narrow conical pencil beam.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CONTOUR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "To examine the most turbulent areas in clouds by using an iso-echo display.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "MAP",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Ground mapping by the use of a cosecant beam which is a very wide beam in the vertical",
+          "content": "(85\u00b0).  The power output of the beam varies as the cosecant of the angle of depression. "
+        },
+        {
+          "title": "Minimum power is directed vertically to objects at close range and the power increases to the",
+          "content": "maximum  for  objects  at  long  range  so  as  to  paint  similar  ground  features  with  equal brightness.  The maximum range of the cosecant beam is in the order of 65 nm.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 90",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "MAN",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A narrow conical pencil beam used in conjunction with the tilt control for ground mapping at",
+          "content": "long range.  Small islands can usually be painted at the maximum range of the radar. The sensitive time control is inoperative in this position and the manual gain control is used.  "
+        }
+      ]
+    },
+    {
+      "title": "ISO-ECHO DISPLAY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The iso-echo display examines clouds in detail.  Although the pilot can see clouds ahead of",
+          "content": "the aircraft, it need experience to determine very dangerous clouds from less dangerous ones on a monochrome display.  Strong turbulent clouds produce stronger echoes than inactive clouds.  When the contour position is selected the iso-echo system inhibits echoes above a predetermined level and the area will not be seen on the screen.  About the turbulent area there is the remainder of the cloud whose activity is below the predetermined level and will be shown.  A cloud shown on the screen with black holes is extremely dangerous and should be avoided at all costs.     "
+        }
+      ]
+    },
+    {
+      "title": "DISPLAY DISTORTION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The conical pencil beam is narrow, in the region of 4\u00b0 in azimuth and 5\u00b0 in the vertical.  At",
+          "content": "long range two clouds less than the beam width apart will appear as one cloud.  As the aircraft approaches the clouds and the beam narrows they will appear as separate clouds.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 91",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "EFFECT OF BEAM WIDTH",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The beam adds one half of the beam width distance on either side of the cloud.  This is due",
+          "content": "to the fact that the echo returns from the time that the leading edge of the beam comes in contact with the cloud until the time that the trailing edge of the beam leaves the cloud.                 "
+        }
+      ]
+    },
+    {
+      "title": "EFFECT OF PULSE LENGTH",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The cloud reflects the pulse for the same time duration as the length of the pulse. It is",
+          "content": "presented on the screen against a time base, measuring range. The time scale is halved in order to display cloud ranges.  On the time base the pulse length  extends the image in range by a distance equal to half the pulse length.  "
+        }
+      ]
+    },
+    {
+      "title": "CLOUD HEIGHT DETERMINATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Using the tilt control the beam is raised until the cloud just begins to disappear.  The bottom",
+          "content": "of the beam is directly on top of the cloud.  This gives the angular measurement of the cloud tops above aircraft altitude.  Knowing the range of the cloud the height of the cloud tops can be calculated.    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 92",
+          "content": "  ,   "
+        },
+        {
+          "title": "Questions can be asked on the above problem, but the beam is tilted DOWN",
+          "content": ""
+        },
+        {
+          "title": "Therefore the same principle applies, but downwards!",
+          "content": " "
+        },
+        {
+          "title": "Example 3",
+          "content": " "
+        },
+        {
+          "title": "Beam width  3\u00b0",
+          "content": ""
+        },
+        {
+          "title": "Tilt 2\u00b0 down",
+          "content": ""
+        },
+        {
+          "title": "Stab on",
+          "content": ""
+        },
+        {
+          "title": "Fl 350",
+          "content": ""
+        },
+        {
+          "title": "Cloud range 17nms",
+          "content": " 3.5\u00b0             17 Tan 3.5   = ht of cloud  = 6322 ft  35000 \u2013 6322 = 28650 ft tops of cloud    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 93",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.    An ASR can detect CAT (clear air turbulence).  a)  True b)  False c)  Depends on the OAT.  2.    The principle of operation of the Airborne Weather Radar is:  a)  Primary radar. b)  Doppler radar. c)  CW radar.  3.    The following is a function of the cosecant beam:  a)   An iso-echo display. b)   A reduction of power with decreasing range. c)   An increase of power as the range increases.  4.    Ground mapping is done with the:  a)   Conical pencil beam. b)   Cosecant pencil beam. c)   Cosecant beam.  5.    The function of the iso-echo display is to:  a)   Cause a hole to appear in the cloud where precipitation is heavy. b)   Increase the reflections of areas experiencing heavy rain. c)   Display areas of heavy precipitation in red.  6.    Distortion due to the effect of pulse length causes:  a)   Two targets to appear as a single one. b)   The PPI image to extend in range by one half of the pulse length. c)   The range of the target to increase by one half the pulse length.  7.    The beamwidth of an ASR is 5\u00b0 wide. When tilted up by 3.5\u00b0 the top  of a Cb cloud at a 50 nm range just disappears. Determine the height of the top of the cloud above the aircraft's level.  a)  1266 ft b)  1773 ft c)  5067 ft  8.    The conical pencil beam gives a greater range than the cosecant    beam:  a)   True b)   False c)   The range is the same as the power range available to both is  the same. ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 94",
+          "content": " 9.    ASR may be operated on the ground under the following circumstances:  a)   Only in the SBY mode. b)   Only in the maintenance areas. c)   Preferably only on the runway and with extreme caution.  10.   Distortion due to the effect of beamwidth on the picture causes:  a)   Receiver gain being reduced after transmission of the pulse. b)   Addition of one half of the beamwidth distance on either side of   the object. c)  Two targets to appear as one larger target   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 95",
+          "content": "                                 "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 96",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 12",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "SECONDARY SURVEILLANCE RADAR (SSR)",
+      "content": "    ",
+      "subsections": []
+    },
+    {
+      "title": "PRIMARY RADAR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Primary radar transmits pulses from a rotating scanner, the pulses are reflected by aircraft",
+          "content": "and return to the scanner.  The bearing and distance of aircraft are portrayed on a PPI (Plan "
+        },
+        {
+          "title": "Position Indicator).  The major disadvantage of primary radar is that there is no positive",
+          "content": "identification of each aircraft. Secondary Surveillance Radar (SSR) is used in conjunction with primary radar to provide the necessary identification  "
+        }
+      ]
+    },
+    {
+      "title": "SECONDARY SURVEILLANCE RADAR SSR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "FREQUENCIES    UHF    1030 Mhz and 1090 Mhz",
+          "content": " "
+        },
+        {
+          "title": "RANGE      200 nm",
+          "content": " "
+        },
+        {
+          "title": "The ground SSR interrogator transmits a pair of pulses on 1030 Mhz. The aircraft receives",
+          "content": "the interrogation and replies on 1090 Mhz (TRANSPONDER CODE). The SSR interrogator is directional and the aircraft transponder is omni-directional.  "
+        }
+      ]
+    },
+    {
+      "title": "GROUND INTERROGATION MODES",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "MODE A  IDENTIFICATION REQUEST  TWO PULSES 8\u00b5s apart",
+          "content": " "
+        },
+        {
+          "title": "MODE B  IDENTIFICATION REQUEST  TWO PULSES 17\u00b5s apart",
+          "content": " "
+        },
+        {
+          "title": "MODE C  ALTITUDE REPORTING REQUEST  TWO PULSES 21\u00b5s apart",
+          "content": " "
+        },
+        {
+          "title": "MODE D  EXPERIMENTAL  TWO PULSES 25\u00b5s apart",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 97",
+          "content": ""
+        },
+        {
+          "title": "AIRCRAFT TRANSPONDER CODES 1090 Mhz",
+          "content": " "
+        },
+        {
+          "title": "The aircraft replies to the interrogation by transmitting a pair of pulses 20.3 ~s apart called the",
+          "content": "framing pulses.  Between the two framing pulses will be the aircraft's allocated code (a binary code) which is formed by the inclusion or omission of 12 coding pulses.  l = Inclusion    0 = Omission  0 = 000  1 = 001  2 = 010  3 = 011  Numbers 8 and 9 4 = 100  5 = 101  6 = 110  7 = 111   are not used  "
+        },
+        {
+          "title": "Example SQUAWK 3624",
+          "content": " 20.3 \u00b5s Frame  4.35 \u00b5s "
+        }
+      ]
+    },
+    {
+      "title": "011  110  010 100            INDENT PULSE",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "IDENT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A Special Identification Pulse (SIP) can be transmitted 4.35 \u00b5s after the framing pulse by",
+          "content": "pressing the IDENT button on the aircraft's SSR control unit. This is activated by the crew on "
+        },
+        {
+          "title": "ATC request only and highlights the aircraft's position on the ATC PPI display.",
+          "content": " "
+        },
+        {
+          "title": "There are 4096 codes available. When selecting or changing a code, care must be taken not",
+          "content": "to select one of the emergency codes below. It is advisable to change codes on the standby position.  "
+        }
+      ]
+    },
+    {
+      "title": "EMERGENCY CODES",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "7500    INTERFERENCE - HIJACK",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "7600    RADIO FAILURE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "7700    EMERGENCY - SOS",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "ALTITUDE REPORTING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "On receiving a mode C interrogation the aircraft transponder will automatically transmit the",
+          "content": "aircraft's altitude. The height is referenced to standard pressure of 1013.2 hPa regardless of the altitude setting on the encoding altimeter.  "
+        }
+      ]
+    },
+    {
+      "title": "SIDE LOBE SUPPRESSION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The interrogator transmits a narrow beam in azimuth for bearing accuracy. Unfortunately the",
+          "content": "azimuth beam has side lobes that may interrogate a nearby aircraft and an incorrect reply would result. The pair of pulses of the interrogation are termed P1 and P3, A third omni- directional pulse P2 is transmitted 2 \u00b5s after the P1 pulse, whose signal strength is greater than the side lobes but less than the P1 and P3 pulses. Circuits in the transponder receiver compare the amplitudes of the P1, P2 and P3 pulses and the transponder will only reply if the amplitude of the P1 and P3 pulses is greater than the amplitude of the P2 pulse.      "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 98",
+          "content": "    "
+        }
+      ]
+    },
+    {
+      "title": "DEFRUITING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "If an aircraft is within range of two SSR stations, the aircraft reply to a station A interrogation",
+          "content": "may be received by station B and vice versa. The unwanted replies are called 'fruit' and to combat this the Pulse Recurrence Periods of adjacent SSR stations are slightly different and 'defruiting' circuits filter the replies with different PRP's.  "
+        }
+      ]
+    },
+    {
+      "title": "GARBLING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "If two aircraft are less that 1 nm apart in azimuth, the replies from the two aircraft would",
+          "content": "appear as one wide blip on the PPI display. Special 'killer' circuits are incorporated to prevent this and two blips would appear. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 99",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.  Side lobe suppression in SSR is accomplished by :-  (a)  defruiting, which removes unwanted replies from aircraft by the use of killer circuits, (b)  aircraft close to the transmitter selecting LO sense on the receiver, (c)  transmission of a third omni-directional pulse weaker than the main pulses but stronger than the side lobe pulses.  2.  An aircraft using a SSR transponder will transmit an IDENT pulse :-  (a)  when requested by ATC only, (b)  when changing codes, (c)  on initial contact with ATC.  3.  The range of SSR is :-  (a)  100nm, (b)  200nm, (c)  400nm  4.  The airborne SSR transponder reply to a ground interrogation with a 8 micro-second time interval between the P1 and P3 pulses is the aircraft's :-  (a)  allocated code, (b)  allocated mode, (c)  altitude.  5.  An airborne SSR transponder recognises an invalid interrogation by a side lobe of the main beam transmission by comparing the :-  (a)  time intervals between the P1, P2 and P3 pulses, (b)  time interval between the P1 and P3 pulses, (c)  relative amplitude of the P1, P2 and P3 pulses.  6.  An airborne SSR transponder recognises an altitude reporting request by the ground transmitter by comparing the :-  (a)  time intervals between the P1, P2 and P3 pulses, (b)  time interval between the P1 and P3 pulses, (c)  relative amplitude of the P1, P2 and P3 pulses.  7.  The airborne SSR transponder reply to a Mode A interrogation is :-  (a)  two framing pulses 20.3 us apart, (b)  12 pulses transmitted between two framing pulses, (c)  between O and 12 pulses transmitted between two fraiming pulses.  8.  Two radio/radar facilities that share a common frequency band are :-  (a)  DME and SSR, (b)  GPS and VDF, (c)  VOR and DME. ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 100",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 13",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "TRAFFIC COLLISION AVOIDANCE SYSTEM (TCAS)",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "With intensifying traffic flow the risk of airborne collision has increased and, in order to",
+          "content": "preserve the safety element, aircraft are being fitted with equipment that endeavours to provide collision avoidance assistance.  As originally introduced TCAS I provided a traffic advisory (TA) i.e. information that would advise the pilot of a potential traffic hazard as an aid to visually acquiring the target and avoiding.  "
+        },
+        {
+          "title": "Advances in technology have led to the wide implementation of TCAS II. Indeed, as of the",
+          "content": "year 2000, all commercial aircraft over 15000 kg and with seating for 30 or more pax., operating in European airspace will be required to carry TCAS II.  This shall provide:  "
+        },
+        {
+          "title": "Generation of Traffic Advisories (TA)",
+          "content": ""
+        },
+        {
+          "title": "Threat detection",
+          "content": ""
+        },
+        {
+          "title": "Generation of Resolution Advisories (RA)",
+          "content": ""
+        },
+        {
+          "title": "Co-ordination",
+          "content": ""
+        },
+        {
+          "title": "Surveillance",
+          "content": ""
+        },
+        {
+          "title": "Communication with ground stations",
+          "content": " "
+        },
+        {
+          "title": "The first four of these items must be processed on each cycle of operation, the cycle taking",
+          "content": "1.2 seconds to complete.  "
+        }
+      ]
+    },
+    {
+      "title": "TCAS II",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "This equipment includes a Mode S data link transponder, two directional aerials (one above",
+          "content": "and one below the fuselage) a receiver, a computer processor and a flight deck display.  "
+        },
+        {
+          "title": "Signals from other transponders are detected and processed.  The processing of mode A/C",
+          "content": "transponders will provide Traffic advisory (TA)/Resolution advisory (RA) outputs.  "
+        },
+        {
+          "title": "Where a Mode S signal is received and processed, if a collision risk is established, the",
+          "content": "computer  will  establish  a  link  with  the  TCASII  computer  on  the  other  aeroplane.    The computers will \u2018agree\u2019 and co-ordinate \u2018Resolution Advisories\u2019 and each will present an RA message on the display.  This will advise \u201cclimb\u201d or \u201cdescend\u201d or \u201cdon\u2019t climb/descend\u201d.  "
+        },
+        {
+          "title": "The display may be a dedicated TCAS display or may be integrated on the EFIS Navigation",
+          "content": ""
+        },
+        {
+          "title": "Display.  In either case the symbology used will be the same.",
+          "content": " "
+        },
+        {
+          "title": "A Hollow White or blue diamond \u2013 other traffic not offering a threat",
+          "content": ""
+        },
+        {
+          "title": "A Solid White of blue diamond \u2013 traffic within 6NM and (cid:31) 1200feet vertically.",
+          "content": ""
+        },
+        {
+          "title": "A Solid Yellow Circle \u2013 traffic advisory",
+          "content": ""
+        },
+        {
+          "title": "A Solid Red Square \u2013 resolution advisory",
+          "content": " "
+        },
+        {
+          "title": "Each symbol will have a tag attached.  This will contain data concerning the altitude of the",
+          "content": "target in reference to your own altitude, (+ 06 indicates 600 feet above).  An arrow will indicate whether the \u201ctarget\u201d is climbing or descending.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 101",
+          "content": ""
+        },
+        {
+          "title": "Where the target is a mode A transponder with no height transmissions no data tag will",
+          "content": "appear and, of course, no RA will be given.  "
+        },
+        {
+          "title": "If the target does not have a functioning transponder the TCAS system will not be able to",
+          "content": "detect its presence.  "
+        },
+        {
+          "title": "The nominal maximum tracking range of TCAS is 14NM.  However, in high density traffic",
+          "content": "areas, the system range could be reduced to 5NM.  "
+        },
+        {
+          "title": "A RA will be generated between 15 to 35 seconds before the point of closest approach of the",
+          "content": "intruder.  TAs are generated 5 to 20 seconds in advance of RAs.  "
+        },
+        {
+          "title": "The TCAS equipment will be capable of handling a maximum surveillance capacity of 30",
+          "content": "aircraft but is nominally capable of surveillance of approximately 27 \u2018high closing speed\u2019 targets within 14NM.    "
+        },
+        {
+          "title": "Standard type display       EFIS type display",
+          "content": " 747-400 ADI and HSI displays "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 102",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "TCAS QUESTIONS",
+      "content": " 1.  TCAS II is capable of:  a.  providing TA's in the horizontal plane as well as the information provided by ",
+      "subsections": []
+    },
+    {
+      "title": "TCAS I",
+      "content": "b.  providing RA's in the horizontal plane as well as the information provided by ",
+      "subsections": []
+    },
+    {
+      "title": "TCAS I",
+      "content": "c.  providing RA's in the vertical plane as well as the information provided by ",
+      "subsections": []
+    },
+    {
+      "title": "TCAS I",
+      "content": "d.  providing TA's in the vertical plane as well as the information provided by ",
+      "subsections": []
+    },
+    {
+      "title": "TCAS I",
+      "content": " 2.  Which of the following statements is correct:  a.  TCAS 2 provides avoidance in the vertical and horizontal planes b.  TCAS 2 cannot provide information on non-SSR equipped intruders c.  TCAS 2 requires Mode S to be fitted to other aircraft d.  TCAS 2 provides advice on which way to turn  3.  On receipt of a TCAS RA your action is to:  a.  make a note of the details b.  request a flight clearance deviation from ATC c.  do nothing until a TA is received d.  react immediately  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 103",
+          "content": "                                "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 104",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER  14",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "DOPPLER",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Doppler  is  a  self  contained  navigation  aid",
+          "content": "providing actual drift angle and a spot ground speed.  "
+        }
+      ]
+    },
+    {
+      "title": "PRINCIPLE OF OPERATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "When there is a relative motion between a",
+          "content": "transmitter and a receiver, a frequency shift will occur.  This frequency shift is proportional to  the  relative  movement  and  is  known  as "
+        },
+        {
+          "title": "Doppler shift, Doppler frequency or Doppler",
+          "content": "effect and is abbreviated as (fd).  "
+        }
+      ]
+    },
+    {
+      "title": "FREQUENCY SHIFT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Consider  a  receiver  moving  towards  a",
+          "content": "transmitter at a speed of V m/s.   Due to the motion  towards  the  transmitter,  it  will experience  an  apparent  reduction  in wavelength. If the wavelength decreases, the frequency must increase to keep the speed constant. This frequency shift is due to the relative motion between the transmitter and the receiver.  "
+        },
+        {
+          "title": "Transmission frequency    =    f/y",
+          "content": " c + V "
+        },
+        {
+          "title": "New frequency     =",
+          "content": "y  "
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "content": "=  f + y  ",
+      "subsections": [
+        {
+          "title": "V f",
+          "content": ""
+        },
+        {
+          "title": "Received frequency fR   =   f  +",
+          "content": "c  "
+        }
+      ]
+    },
+    {
+      "title": "APPLICATION  TO A  MOVING  AIRCRAFT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "In the case of a moving aircraft the signal is transmitted from a  moving transmitter and",
+          "content": "received by a moving receiver. The formula  now reads:  2V f "
+        },
+        {
+          "title": "Received frequency fR   =   f +",
+          "content": "c  "
+        },
+        {
+          "title": "This formula only applies if the reflection occurs of an object directly ahead.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 105",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "DEPRESSION  ANGLE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The signals are beamed downwards towards the surface at an angle from the horizontal. The",
+          "content": "formula now reads:  2Vf cos \u2205 "
+        },
+        {
+          "title": "Received frequency   =   f +",
+          "content": "c  "
+        },
+        {
+          "title": "If the depression angle is too shallow, a lot of energy is lost and the signals scatter away from",
+          "content": "the aircraft. If the depression angle  is too large, strong reflections will be obtained but 2Vfcos\u00d8 becomes too small for accurate measurement.   Most Dopplers operate between a depression angle of 60\u00b0 to 70\u00b0.   "
+        }
+      ]
+    },
+    {
+      "title": "DOPPLER  AERIALS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Single  Beam  System",
+          "content": " "
+        },
+        {
+          "title": "The beam is transmitted ahead of the aircraft.  The aerial is rotated until the received signal",
+          "content": "(fd) is maximum.  The angle through which the beam is displaced is the measure of the drift and fd is the direct measure of the ground speed.  "
+        },
+        {
+          "title": "Twin Beam System",
+          "content": " "
+        },
+        {
+          "title": "Fixed Aerial",
+          "content": " "
+        },
+        {
+          "title": "One beam is directed forward and the other abeam of the aircraft. The two values of fd are",
+          "content": "compounded to give drift and groundspeed.  "
+        },
+        {
+          "title": "Rotating Aerials",
+          "content": " "
+        },
+        {
+          "title": "Two beams are transmitted at a fixed distance  apart. The aerial is rotated about the fore-",
+          "content": "and-aft axis until the fd produced by both beams is equal. The bisector of the angle between the two beams is the track and groundspeed equals:  2V f cos\u2205 cos\u2205 fd   = c  where \u00d8 is half angle between azimuth beams.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 106",
+          "content": ""
+        },
+        {
+          "title": "Three beam system",
+          "content": " "
+        },
+        {
+          "title": "Two beams are directed forward for drift and  groundspeed measurement.  The third beam is",
+          "content": "directed vertically downwards to give vertical velocity component.    "
+        },
+        {
+          "title": "Four beam system",
+          "content": " "
+        },
+        {
+          "title": "Fixed Aerials",
+          "content": " "
+        },
+        {
+          "title": "Four beams are transmitted from 2 transmitters. One transmitter transmits beam 1 and 3. Half",
+          "content": "a second later the second transmitter transmits beam 2 an 4.   Since the angle between the beams is known, drift and groundspeed can be computed.    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 107",
+          "content": ""
+        },
+        {
+          "title": "Rotating Aerials",
+          "content": " "
+        },
+        {
+          "title": "The transmission pattern is similar to  four beam fixed aerial system. The returning signals",
+          "content": "are mixed to produce a Doppler beat frequency. The differences between the beat notes drives a motor which rotates the aerial system to the aircraft's track where the beat notes produce zero difference.  Drift is measured by aerial displacement and ground speed by:  4V cos\u2205 cos\u2205 4V f cos\u2205cos\u2205 fd  =     = y c   "
+        }
+      ]
+    },
+    {
+      "title": "JANUS AERIALS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The Janus aerial system has the following advantages:",
+          "content": " "
+        },
+        {
+          "title": "Signals are transmitted forward and backward simultaneously. The beat frequency can be",
+          "content": "extracted correctly.  "
+        },
+        {
+          "title": "Pitch errors are reduced as the frequency from the forward and the frequency from the",
+          "content": "backward aerial are mixed.  "
+        },
+        {
+          "title": "By producing a conical beam pattern the time is prolonged and an  overlap period between",
+          "content": "signals is ensured.  "
+        },
+        {
+          "title": "When the aircraft rolls it does so on the edge of the beam and the returned frequencies are",
+          "content": "not affected.  "
+        }
+      ]
+    },
+    {
+      "title": "DOPPLER  FREQUENCY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Doppler transmission takes place on 8800 MHz and 13 500 MHz. The use of such high",
+          "content": "frequencies ensures a narrow beam width in order to give a narrow Doppler spectrum. The higher the frequency shift arriving at the receiver, the greater the accuracy. A disadvantage is the increased atmospheric attenuation.  "
+        }
+      ]
+    },
+    {
+      "title": "MEMORY  FACILITY",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A memory circuit takes over when the circuit is below a pre-determined  value and the",
+          "content": "receiver unlocks. The drift and groundspeed pointers remain locked to the last position.  "
+        }
+      ]
+    },
+    {
+      "title": "DOPPLER  LIMITATIONS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Doppler will unlock and go into memory mode in the following  circumstances:",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "FLYING  OVER  CALM  SEA",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Calm sea reflection are not sufficiently scattered to give strong echoes. At least a 5 kt wind is",
+          "content": "required to produce sufficient sea surface irregularities.  "
+        }
+      ]
+    },
+    {
+      "title": "ATMOSPHERIC  CONDITIONS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "During thunderstorm activities, outgoing signals are reflected by water drops.",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 108",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "LOW  FLYING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The receiver is short-circuited when transmission is taking place.  At very low levels, by the",
+          "content": "time the receiver is in operation again, the reflections will have passed the aircraft.   "
+        }
+      ]
+    },
+    {
+      "title": "HEIGHT  HOLE  EFFECT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Similar to the above. The time taken for the signal to reach the ground and return is equal to",
+          "content": "the time interval between pulses.  For pulse radar, the effect can be avoided by changing the "
+        }
+      ]
+    },
+    {
+      "title": "PRF.",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "PITCH  AND  ROLL",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Limits in pitch are approximately 20\u00b0 and 30\u00b0 in roll.",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "ERRORS  IN  THE  BASIC  INFORMATION",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "AERIAL  MISALIGNMENT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "This error will give a error in drift angle measurement and in turn will give a track angle error.",
+          "content": " "
+        },
+        {
+          "title": "Take an error is 1\u00b0 right and track selected is 360\u00b0.  The aerial  will rest on 001\u00b0.  If track 360\u00b0",
+          "content": "is maintained the aerial will move 1\u00b0 to the left as 360\u00b0 is the selected track.  This movement will be  interpreted as a track angle error of 1\u00b0 to the left.  "
+        }
+      ]
+    },
+    {
+      "title": "PITCH  ERROR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "This error occurs when the aerial is not horizontal due to the aircraft's attitude. During a",
+          "content": "prolonged climb or descent inaccuracy will show up as an error in distance display.  "
+        }
+      ]
+    },
+    {
+      "title": "SEA  MOVEMENT  ERROR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The  sea  surface  is  disturbed  by  either  wind  or  a  current.    An  error  may  show  up  in",
+          "content": "groundspeed and drift due to the movement of the reflecting surface. The error will be approximately 20% of the surface wind speed in the upwind direction.  "
+        }
+      ]
+    },
+    {
+      "title": "SEA  BIAS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "As the beam strikes the surface, because of its width, the reflections come back from various",
+          "content": "reflection points on the surface. The equipment takes the mean signal at a mean position.  "
+        },
+        {
+          "title": "A beam 4\u00b0 wide, transmitting at a depression angle of 60\u00b0 illuminates the surface from 58\u00b0 to",
+          "content": "62\u00b0. The signals received from the rear of the beam are stronger. On the land the equipment finds the Doppler frequency which is appropriate to the depression angle. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 109",
+          "content": " "
+        },
+        {
+          "title": "Over the sea the spectrum is distorted and the mean position slides towards the higher angle",
+          "content": "of  depression.  The  Doppler  frequency  produced  is  a  too  low  and  consequently  the groundspeed is too low.  To a certain extent this error can be overcome by the use of the land/sea switch.  "
+        }
+      ]
+    },
+    {
+      "title": "ERRORS  IN  ASSOCIATED  EQUIPMENT",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "LATITUDE  ERROR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The Doppler computer is programmed to clock 1 nm when 6080 feet are  has been covered",
+          "content": "but 1 nm equals 6080 feet only at 48\u00b0 N/S.  "
+        }
+      ]
+    },
+    {
+      "title": "ALTITUDE  ERROR",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "By definition a nautical mile is measured at the surface of the  earth.  The Doppler overreads",
+          "content": "by 0.2% at 40 000 feet.  "
+        },
+        {
+          "title": "Doppler Formula Summary:",
+          "content": "  "
+        },
+        {
+          "title": "A receiver flying towards a transmitter:",
+          "content": " fd  =  V \u03bb  "
+        },
+        {
+          "title": "Doppler transmitter/receiver flying (horizontal transmission)",
+          "content": " fd  =  2V \u03bb  "
+        },
+        {
+          "title": "Doppler transmitter/receiver flying (depression angle \u03c6)",
+          "content": " fd  =  2 V cos \u03c6 \u03bb  "
+        },
+        {
+          "title": "Twin beam Doppler flying (\u00bd azimuth angle \u03c6)",
+          "content": " fd  =  2 V cos \u03c6 cos \u03b8 \u03bb  "
+        },
+        {
+          "title": "Janus four beam groundspeed calculation (non critical)",
+          "content": " fd  =  4 V cos \u03c6 cos \u03b8    4 V f cos \u03c6 cos \u03b8 \u03bb    or    \u03bb  "
+        },
+        {
+          "title": "Janus four beam groundspeed calculation (conical)",
+          "content": " fd  =  4 V cos \u03b8    4 V f cos \u03b8 \u03bb    or         \u03bb "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 110",
+          "content": ""
+        },
+        {
+          "title": "Worked Examples  (Solutions are in APP B)",
+          "content": " 1.  An aircraft is flying towards a transmitter at 480kts GS. If the wavelength of the transmission is 5cm, what is the Doppler frequency shift in Khz?       2.  Determine the Doppler frequency  shift in Khz if a transmitter is moving towards a receiver at 360 m/sec and the transmission frequency is 10 000mhz.      3.  A receiver is moving away from a stationery transmitter at 450kts. The transmission wavelength is 3.2cms. What is the Doppler frequency in Khz?      4.  An aircraft Doppler transmits on frequency 13500mhz at a depression angle of 60\u00b0. "
+        },
+        {
+          "title": "The aircrafts GS is 440kts. What is the frequency shift in Khz?",
+          "content": "     5.  An aircraft Doppler using a 4 beam Janus aerial transmits on a frequency of 8700 mhz, depression angle is 60\u00b0, half azimuth angle is 30\u00b0. Doppler shift is 12.5khz, what is the aircrafts groundspeed?      6.  A Doppler computer is correctly updated. After flying a further 480nm with the cross track showing zero, a fix is obtained 16nm to the right of the required mean track of 278\u00b0m. What new magnetic track should be set on the computer in order to regain the original track at a point 320nm beyond the fix?      7.  Doppler  shift  is  9khz,  wavelength  of  the  doppler  transmission  is  3cm,  aerial depression angle is 60\u00b0. What is the aircrafts groundspeed?    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 111",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": " 1.   The Doppler frequency shift is 9 kHz. If the wavelength of the transmission is 3 cm, determine the groundspeed in knots.  a)   524.88 kts b)   270.00 kts c)   583.20 kts  2.   An aircraft Doppler transmitting 13 500 MHz measures a Doppler shift of 14 kHz. If the depression angle is 65\u00b0 and the azimuth angle is 60\u00b0 determine the groundspeed in knots.  a)   425.02 kts b)   728.79 kts c)   826.23 kts  3.   An aircraft using a four-beam Janus aerial transmits on a frequency 8500 MHz. Its angle  of  depression  is  60\u00b0  and  the  half  azimuth  angle  is  30\u00b0.  If  it  measures  a frequency shift of 14.3 kHz, what is the groundspeed?  a)   291.39 kts b)   566.47 kts c)   504.71 kts  4.    A Doppler computer is correctly updated. After flying 270 nm a fix is obtained 14 nm to the left of track but the cross track indicates zero. If the required track is 060\u00b0 (M) what new magnetic track should be set on the computer in order to regain the original track at a point 130 nm from the fix?  a)   63.35\u00b0 b)   69.57\u00b0 c)   56.65\u00b0  5.   In what way does sea bias error affect the groundspeed?  a)   It will overread. b)   It will under-read. c)   It only causes a track angle error.  ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 112",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 15",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "AREA NAVIGATION",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "(RNAV)",
+      "content": "    ",
+      "subsections": [
+        {
+          "title": "RNAV permits aircraft operations on any desired course within coverage of station referenced",
+          "content": "navigation signals or within the limits of a self-contained system capability.  "
+        },
+        {
+          "title": "RNAV systems use VORTAC stations, Omega, INS or a Doppler system. The course-line",
+          "content": "computer (CLC) is based on VORTACs and is the cheapest and most popular.  "
+        }
+      ]
+    },
+    {
+      "title": "TERMS  USED  IN  RNAV",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "WAYPOINT   (WPT)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "A predetermined geographical position used for route definition  and progress reporting",
+          "content": "purposes that is defined relative to a VORTAC station or in coordinates of latitude and longitude.  A waypoint is defined by its radial and distance (RHO-THETA) from a  receivable "
+        },
+        {
+          "title": "VORTAC station or on INS it is defined by longitude or latitude.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "WAYPOINT  BEARING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The VORTAC radial on which the waypoint is set.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "WAYPOINT  DISTANCE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The distance in nautical miles by which a waypoint is offset from a VORTAC station.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CROSS-TRACK  DEVIATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The number of miles or degrees off a desired course as defined by the course set on the",
+          "content": ""
+        },
+        {
+          "title": "OBS.  In RNAV mode course deviation is displayed in nautical miles shown by displacement",
+          "content": "of the left/right needle of the CDI. Each dot of displacement is 1 nm.   If the distance to the waypoint is more than 100 nm, the distance off track would be angular and not linear. On a 5 dot indicator full deflection would be at 10\u00b0.  In approach mode the left/right deviation needle sensitivity becomes 1/4 nm per dot. In this mode the VORTAC station should not be more than 25 nm from the waypoint.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 113",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CONSTANT  COURSE  WIDTH",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The deflection of the left/right needle of the CDI is proportional to the distance off course.",
+          "content": ""
+        },
+        {
+          "title": "One dot deflection of the CDI would indicate 1 nm from the centre line course regardless of",
+          "content": "distance from the VORTAC.  Constant course width is provided in RNAV mode.  "
+        }
+      ]
+    },
+    {
+      "title": "RNAV  COMPUTER",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Electronic waypoints, which the computer can use to direct the aircraft precisely on course,",
+          "content": "are established at convenient intervals along the course. Any departure from the intended path will be displayed on the CDI needle. Distance to the selected waypoint is constantly displayed, providing a continuous fix and a direct readout of groundspeed.  "
+        },
+        {
+          "title": "In addition to the RNAV computer the aircraft must be equipped with both a VOR and DME",
+          "content": "receiver. The information obtained by these components, when tuned to a VORTAC station enables the computer to solve a geometric problem and display this course information on the CDI.  "
+        }
+      ]
+    },
+    {
+      "title": "GEOMETRY  OF  THE  RNAV COMPUTER",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "The computer uses trigonometry to solve for the two fundamental elements of navigation",
+          "content": "information required by the pilot: distance and course to the waypoint.  "
+        },
+        {
+          "title": "When tuned to a VORTAC, the computer knows side A of the triangle since this is the",
+          "content": ""
+        },
+        {
+          "title": "VORTAC radial and distance between you and the station, furnished to the computer by the",
+          "content": ""
+        },
+        {
+          "title": "VOR  and  DME  equipment.    When  the  waypoint  bearing  and  distance  are  set  into  the",
+          "content": "computer, a second side, B, is provided to the triangle.  Since radials are related to magnetic north by angles 1 and 2, the computer can determine angle 3.  The computer has enough information to solve for side C which is the distance and magnetic course to the waypoint from the present position.  The distance to the waypoint is displayed in nm and the bearing "
+        },
+        {
+          "title": "TO or FROM the waypoint is read on the CDI display after rotating the OBS knob until the",
+          "content": "needle centres.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 114",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "SLANT  RANGE  CORRECTION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "DME distance is slant range and can result in an error in waypoint projection if the aircraft is",
+          "content": "flying at a very high altitude when near the VORTAC. A servo altimeter provides altitude input with the pilot setting in the altitude of the VORTAC station.  "
+        },
+        {
+          "title": "CALCULATIONS  Waypoint",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "VORTAC",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Side b - aircraft DME distance to VORTAC.",
+          "content": ""
+        },
+        {
+          "title": "Side c - WPT DME distance from VORTAC.",
+          "content": ""
+        },
+        {
+          "title": "Angle A - Difference between aircraft radial and WPT radial.",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "COSINE  LAW",
+      "content": " a\u00b2  =   b\u00b2  +  c\u00b2  -  2bc  cos  A  b\u00b2  =   a\u00b2  +  c\u00b2  -  2ac  cos  B  c\u00b2  =   a\u00b2  +  b\u00b2  -  2ab  cos  C   ",
+      "subsections": []
+    },
+    {
+      "title": "SINE  LAW",
+      "content": " a b c =       = sin A sin B sin C   ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 115",
+          "content": ""
+        },
+        {
+          "title": "PROBLEMS  (answers in App B)",
+          "content": " 1.  Waypoint B is on radial 067, 25 DME from the VORTAC CATARINA. An aircraft en-route to waypoint B is on radial 118, 30DME from the same VORTAC. What is the radial and distance of the aircraft from Waypoint B?  2.  An aircraft is flying from waypoint 3 to waypoint 4, the track is 295\u00b0 and is 20nm right of the required track with 132nm to go to waypoint 4. If waypoint 4 lies on the 230\u00b0 radial at a pre-programmed distance of 48nm from the VORTAC, what is the aircrafts radial and distance from that VORTAC?   3.  On a RNAV route the VORTAC CHARLIE HOTEL WHISKEY is a reference facility, waypoint 4 is on radial 210, and 80DME from the VORTAC. The aircraft is on radial 110\u00b0, at 120 DME from the same VORTAC tracking 210\u00b0 M. "
+        },
+        {
+          "title": "If the OBS is set to 275 TO which is the required track to waypoint 4 how far is the",
+          "content": "aircraft from the selected track?   5.  Waypoint 5 lies on the 203 radial and 63 DME from Nevillestown VORTAC. An aircraft lies on  the 125 radial at 115 DME from the VORTAC. The aircraft is flying a track of 240\u00b0 M to intercept the 275\u00b0m track to waypoint 5.  "
+        },
+        {
+          "title": "Calculate the distance of the aircraft from the required inbound track to waypoint",
+          "content": " "
+        },
+        {
+          "title": "What indication would appear on a 5 dot CDI with 275\u00b0 set on the OBS with TO",
+          "content": "showing?    "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 116",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": "  1.    A full scale deflection of the CDI on a 5 dot indicator in RNAV mode is:  a)   5 nm b)   5\u00b0 c)   10\u00b0  2.  A full scale deflection of the CDI on a 5 dot indicator in approach mode is:  a)   5\u00b0 b)   1.25\u00b0 c)   1.25 nm  3.    Constant course width:  a)   Decreases as the VORTAC is approached. b)   Will indicate distance from the centre line regardless of distance from the ",
+      "subsections": []
+    },
+    {
+      "title": "VORTAC.",
+      "content": "c)   Is provided in approach mode.  4.   An aircraft en route to a waypoint is on radial 300 and 55 nm DME from a VORTAC. ",
+      "subsections": [
+        {
+          "title": "The waypoint is radial 245, 35 nm DME from the VORTAC.  Determine the radial and",
+          "content": "distance from the waypoint.  a)   Radial 334, 40 nm DME. b)   Radial 345, 42 nm DME. c)   Radial 339, 45 nm DME.  5.    An aircraft en route from WPT 5 to WPT 6, track 090\u00b0(M) is 20 nm  to the right of the required track and 140 nm from WPT 6. If WPT 6 lies on radial 140, 25 nm DME from the VORTAC, determine the  aircraft's radial and distance from the VORTAC.  a)   Radial 208, 129 nm DME. b)   Radial 210, 132 nm DME. c)   Radial 213, 126 nm DME.  6.    A waypoint is on radial 340, 100 nm DME from a VORTAC. The aircraft  is on radial 080, 75 nm DME from the VORTAC on a track of 300\u00b0(M). If the OBS is set to 310 TO which is the required track to the waypoint, calculate the aircraft's distance from the selected track.  a)   23.44 nm right. b)   18.27 nm left. c)   17 21 nm right.  7.   With reference to question 6, what indication would appear on a 5 dot CDI with the "
+        },
+        {
+          "title": "OBS set to 310 and TO showing in the window.",
+          "content": " a)   4 dots fly right. b)   5 dots fly left. c)  3 dots fly left. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 117",
+          "content": "                                "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 118",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 16",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "GLOBAL POSITIONING SYSTEM (GPS)",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "GPS is a satellite based radio navigation system that provides continuous global coverage to",
+          "content": "an unlimited number of users.  The system consists of three major segments:-  THE SPACE SEGMENT - THE USER SEGMENT   THE CONTROL SEGMENT  "
+        }
+      ]
+    },
+    {
+      "title": "THE SPACE SEGMENT",
+      "content": " 21 satellites plus 3 active in orbit spares arranged in six orbital planes inclined at 55\u0652 to the ",
+      "subsections": [
+        {
+          "title": "Equator.",
+          "content": "   "
+        },
+        {
+          "title": "The orbit is slightly elliptical at 10 898 NM (\u00b1 288 NM) altitude. 1 orbit every 12 hours.",
+          "content": " "
+        },
+        {
+          "title": "Each satellite transmits a precisely timed binary pulse train together with a set of ephemeris",
+          "content": "constants (astronomical position) defining its current orbit.  "
+        }
+      ]
+    },
+    {
+      "title": "THE USER SEGMENT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The user segment consists of receivers on board surface transport vehicles, aircraft and",
+          "content": "ships.  The receiver picks up signals from four or more satellites and a computer calculates the position.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 119",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "THE CONTROL SEGMENT",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The control segment consists of 5 unmanned monitor stations that track each satellite in its",
+          "content": "orbit.  Each satellite's orbit and the timing of the onboard atomic clock is monitored.  Any necessary corrections are then sent to one of four ground stations and transmitted to each satellite to update the ephemeris co-ordinates and clock correction factors.    "
+        }
+      ]
+    },
+    {
+      "title": "OPERATION",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "GPS satellites transmit on two L-band frequencies.",
+          "content": " "
+        },
+        {
+          "title": "L1 1575.42 Mhz modulated with two pseudo-random codes.",
+          "content": ""
+        },
+        {
+          "title": "P (precise) for military use only and C/A (coarse acquisition) for civil use.",
+          "content": ""
+        },
+        {
+          "title": "L2  1227.6 Mhz, P (precise code only) for military use with an accuracy of \u00b1 3 metres.",
+          "content": " "
+        },
+        {
+          "title": "Each satellite is assigned its own unique C/A and P codes for identification.",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "SELECTIVE AVAILABILITY (SA)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The United States military will not permit unlimited use of the highest accuracy levels (\u00b1 3",
+          "content": "metres) that GPS provides.  The P code signal for military use only is encoded in such a way that civil users cannot make use of it.  The accuracy of the civil C/A code is as from 02 May 2000 \u00b1 20 metres.  When SA was on, a GPS degradation of \u00b1 100 metres was achieved by jittering the satellite timing in an unpredictable fashion and by drifting the broadcast satellite ephemeris.  The effect of SA was that the indicated position for a stationary user wandered around the true position in an unpredictable fashion.  The US DoD can still degrade the accuracy in selected areas, but will give advanced warning of this.   "
+        }
+      ]
+    },
+    {
+      "title": "PRINCIPLE",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The time interval between the time of transmission of the signal by the satellite and reception",
+          "content": "of the signal by an aircraft is measured.  The time interval multiplied by the speed of propagation of radio waves gives the range of the aircraft from the satellite. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 120",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "THREE SATELLITE FIXING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Three satellites will give three spheres of range which provides an unambiguous fix in two",
+          "content": "dimensions without the geocentric height input.  Actually there will be two fixes but one will be far out in space which is an impractical position for an aircraft.  "
+        }
+      ]
+    },
+    {
+      "title": "FOUR SATELLITE FIXING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Four satellites will give a three dimensional fix that is independent of any other input.  The fix",
+          "content": "is related to three satellites and the mass centre of the Earth.  The accuracy of the fix will vary and depends on the angles of intersection of the three range spheres which in turn depends on the relative positions of three satellites.  The fourth satellite is used to eliminate timing errors.  "
+        }
+      ]
+    },
+    {
+      "title": "PSEUDO RANGING",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Each satellite transmits its unique pulse train towards a receiver, the pulse train contains the",
+          "content": "ident code, the satellite position and the exact time it was transmitted.  The signal will take about one-eleventh of a second to reach the receiver.  The receiver generates an identical "
+        },
+        {
+          "title": "C/A  code  pulse  train  but  it  is  not  synchronized  with  the  transmission.    The  receiver",
+          "content": "automatically slews the pulse train it is generating in order to match the two signals.  When they are matched the receiver \"locks on\" and the receiver can measure the signal travel time plus or minus the timing error of the quartz crystal oscillator in the receiver.  This error is the \"clock bias error'' and is the same for each satellite.  The signal travel time multiplied by 162 000 nm per second gives a pseudo range which has to be corrected for the receiver clock bias error.  "
+        },
+        {
+          "title": "By measuring the time delays from four or more satellites the computer can set up four",
+          "content": "equations and mathematically eliminate the clock bias error and calculate the position of the receiver. "
+        },
+        {
+          "title": "S Lat = Satellite Latitude  S Long = Satellite Longitude  S Alt = Satellite Altitude",
+          "content": ""
+        },
+        {
+          "title": "R Lat = Receiver Latitude  R Long = Receiver Longitude  R Alt = Receiver Altitude",
+          "content": ""
+        },
+        {
+          "title": "TT = Signal Travel Time  CB = Clock Bias Error",
+          "content": "  "
+        },
+        {
+          "title": "The receiver Latitude, Longitude, Altitude and Clock Bias Error are unknown but can be",
+          "content": "calculated by the following equations.  "
+        },
+        {
+          "title": "By geometry:",
+          "content": " (S1 Lat - R Lat)2   + (S1 Long - R Long) 2 + (S1 Alt \u2013 R Alt) 2  = (TT\u00b1CB) 2 (S2 Lat - R Lat) 2  + (S2 Long - R Long) 2  + (S2 Alt - R Alt) 2  = (TT\u00b1 CB) 2 (S3 Lat - R Lat) 2  + (S3 Long - R Long) 2  + (S3 Alt - R Alt) 2  = (TT\u00b1 CB) 2 (S4 Lat - R Lat) 2  + (S4 Long - R Long) 2  + (S4 Alt - R Alt) 2  = (TT\u00b1 CB) 2  "
+        },
+        {
+          "title": "The corrected signal travel time multiplied by the speed of light equals the slant range from",
+          "content": "the satellite to the receiver (similar to DME). "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 121",
+          "content": " "
+        },
+        {
+          "title": "The velocity of the aircraft is calculated by the instantaneous Doppler frequency shift at the",
+          "content": "receiver.  "
+        },
+        {
+          "title": "Note:  The Cartesian Go-ordinate System is used by GPS (X, Y and Z axes) but the units",
+          "content": "used in the above equations are immaterial.  "
+        }
+      ]
+    },
+    {
+      "title": "TIMING ERRORS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Relativistic Time Delay",
+          "content": " "
+        },
+        {
+          "title": "Relativistic time delay is in accordance with Einstein's theories of relativity.. The clock on",
+          "content": "board the satellite (\u00b1 10 898 nm altitude, velocity 12 000 feet/sec) ticks at a different rate to the clock on board an aircraft (\u00b1 6 nm altitude, velocity 1000 feet/sec) because the clocks are in different gravitational fields. The magnitude of the error is predictable and the satellite clock can be offset to correct for this error.  "
+        },
+        {
+          "title": "Ionospheric Delay",
+          "content": " "
+        },
+        {
+          "title": "Radio signals from the satellites passing through the ionosphere are bent and are slowed",
+          "content": "down.  The resulting time delay is inversely proportional to the square of the transmission frequency and two frequencies (L1 and L2) can be used to compensate.  Each frequency has a slightly different time delay.  The P code receivers can be programmed for the majority of this error.  The C/A receivers use the L1 signal only and can be programmed to reduce the error by about 50 %.  "
+        },
+        {
+          "title": "Tropospheric Delay",
+          "content": " "
+        },
+        {
+          "title": "The tropospheric delay occurs when the radio signals are slowed down when passing through",
+          "content": "the troposphere.  The error is a function of aircraft altitude and satellite elevation above the horizon, the error is a maximum when the aircraft altitude is low and the satellite is on the horizon.  The correction factor is mathematical.  "
+        }
+      ]
+    },
+    {
+      "title": "DIFFERENTIAL GPS",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The position accuracy of C/A is deliberately degraded to \u00b1 100 metres by the US military. To",
+          "content": "improve accuracy the position of a monitor station is accurately surveyed, usually by using "
+        },
+        {
+          "title": "GPS.  This may appear strange but several hundreds of thousand GPS positions can be",
+          "content": "taken in a few days and the receiver position is averaged and refined to a few centimetres. "
+        },
+        {
+          "title": "Originally a geographical correction was transmitted to aircraft by data link (correction 015\u00b0",
+          "content": "(T) 55 metres).  This was not satisfactory as the aircraft may have used different satellites than the monitor and the correction factor was not valid, and the method was abandoned . "
+        },
+        {
+          "title": "Many GPS receivers now use every satellite above the horizon instead of just four.  The",
+          "content": "monitor station also uses every satellite in view instead of the original four. Corrections are calculated by first calculating the pseudo range assuming the receiver and satellite positions are correct. The difference between the calculated and measured pseudo ranges is the correction transmitted to aircraft by data link.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 122",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "POSITION DILUTION OF PRECISION (PDOP)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "The ideal GPS fix will be obtained when the ranges are from three satellites which are 120\u0652",
+          "content": "apart in azimuth and the fourth satellite is overhead.      "
+        },
+        {
+          "title": "Assuming that the ranges from three satellites are under reading by 50 metres, then the",
+          "content": "centre of the cocked hat will be the correct position due to excellent geometry.  If the three satellites are only 50\u00b0 apart in azimuth then the centre of the cocked hat may be in error.  The problem is overcome by using as many satellites as possible but bear in mind possible errors when geometry is poor.  The errors could increase from 30 metres with ideal geometry to 300 metres with poor geometry.  "
+        }
+      ]
+    },
+    {
+      "title": "RECEIVER AUTONOMOUS INTEGRITY MONITORING (RAIM)",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "There is always a possibility that a satellite maybe transmitting faulty information, either in its",
+          "content": "position or time.  This will be detected by the five stations of the control segment or by the monitor station of DGPS and action will be taken.  Nevertheless this will take time and the pilot of an aircraft needs to be warned of a satellite malfunction when it occurs, thus RAIM.  "
+        },
+        {
+          "title": "Integrity monitoring relies on the fact that only four satellites are required to obtain a fix.  The",
+          "content": "fix is three dimensional, three ranges gives a triangle and the fourth produces a tetrahedron or pyramid. Usually more than four satellites are in view and the extra satellites can be used to form different combinations of four satellites that can be compared for consistency.  With five satellites, there are five possible combinations of four satellite fixes and provided all of the combinations have the same or similar PDOP one will produce a smaller tetrahedral volume than the others.  This is the one fix that does not include the faulty satellite, all the others do and the faulty satellite can be identified and isolated.  "
+        },
+        {
+          "title": "Unfortunately five fixes with similar PDOP rarely occur which makes comparisons difficult if",
+          "content": "not impossible.  Six satellites improves the situation significantly and seven satellites even better. Eight satellites which is the average maximum in view at any time with a 24 satellite system gives a 65% certainty of a satellite malfunction being detected which is way below the 99.9% required for precision approaches.  To ensure that RAIM will be 100% foolproof at any position  and  at  anytime  between  36  and  42  satellites  are  required.    Combined "
+        },
+        {
+          "title": "GPS/GLONASS receivers are being developed  which will increase the number of satellites",
+          "content": "available from 24 to 48.   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 123",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "content": "   1.  The  navigation  processor  of  a  GPS  determines  the  aeroplanes  track  and groundspeed by :-  (a)  Doppler frequency shift measurements, (b)  computing the distance between fixes over a 10 second period, (c)  computing the distance travelled from the last waypoint.  2.  A GPS receiver identifies individual satellites by their :  (a)  group repetition interval, (b)  unique Coarse Acquisition (C/A) code, (c)  unique frequency.  3.  GPS receivers require corrections for three major types of timing errors between transmission and reception of the signal. They are :-  (a)  relativistic time delay, ionospheric and tropospheric distortions, (b)  relativistic time delay, earth's magnetic field and ionospheric distortions, (c)  earth's magnetic field, ionospheric and tropospheric distortions.  4.  A major error of GPS is the relativistic time delay, which is caused by :-  (a)  the difficulty in synchronizing the receiver quartz clock with the satellite atomic clock, (b)  the elliptical orbit of the satellite passing through different gravitational fields affecting the time kept by the atomic clock, (c)  errors of the receiver clock or oscillator.  5.  The timing error due to tropospheric distortion of GPS signals is maximum when the receiver is  (a)  at high altitude and the elevation angle of the satellite is high, (b)  at low altitude and the elevation angle of the satellite is high, (c)  at low altitude and the elevation angle of the satellite is low.  6.  The GPS Control Segment :-  (a)  selects  the  four  best  satellites  to  use  for  navigation  with  respect  to  their geometry and altitude, (b)  calculates and controls the clock bias error of the aeroplanes receiver, (c)  accurately tracks the GPS satellites and provides them with periodic updates correcting their ephemeris co-ordinates and their clock bias factors.   ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 124",
+          "content": "           "
+        }
+      ]
+    },
+    {
+      "title": "ANNEX A",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "SAMPLE EXAMS",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 125",
+          "content": " "
+        },
+        {
+          "title": "Paper 1",
+          "content": "  1.  Basic radar operates on:  a)  HF and lower frequencies only; b)  VHF and higher frequencies; (c)  Any frequency in the RF band. (1)  2.  The airborne equipment of an ILS consists of:  a)  HF  localizer  receiver,  VHF  glide  path  receiver,  75  MHz  marker beacon receiver; b)  UHF localizer receiver, VHF glide path receiver, VCR/ILS indicator; c)  VHF localizer receiver, UHF glide path receiver, ILS indicator. (1)  3.  The factors affecting the accuracy of a VOR reading are:  a)  i)  airborne equipment; ii)  site error; iii)  propagation error; iv)  refraction error.  b)  i)  airborne equipment; ii)  site error; iii)  conduction error; iv)  propagation error.  c)  i)  airborne equipment; ii)  site error; iii)  propagation error; iv)  interference error. (2)  4.  Airborne Search Radar (ASR) is a:  a)  primary radar; b)  secondary radar; c)  SSR. (1)  5.  The theoretical maximum range of a VOR in NM is:  a)  1,25 times the square root of the transmitter height plus 1,25 times the square root of the receiver height b)  1,5 times the square root of the transmitter height plus 1,5 times the square root of the receiver height; c)  1,15 times the square root of the receiver height plus 1,15 times the square root of the transmitter height. (1) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 126",
+          "content": " 6.  The principle of VOR is bearing measurement by:  a)  wave transmissions; b)  phase comparison; c)  limacon positions.  (1) 7.  The type of emission used for ILS localiser and glidepath transmission is:  a)  A1A; b)  A2A; c)  A3E. (1)  8.  A VOR cardioid is also called a:  a)  limacon; b)  rotating signal; c)  result of the loop aerial. (1)  9.  The frequency band normally associated with an ILS localiser is:  a)  108, 0 \u2013 119,0 MHz; b)  118,0 \u2013 135,975 MHz; c)  108,1 \u2013 111,95 MHz. (1)  10.  The reference signal of a VOR has a sub-carrier wave.   The purpose of the sub- carrier wave modulation is to:  a)  provide for facility identification; b)  provide a datum to determine phase difference; c)  modulate the directional signal. (1)  11.  When the main VOR transmitter is switched off and a standby transmitter comes into operation, bearing information may be unreliable and as a warning:  a)  no identification signal is transmitted; b)  identification signals are transmitted together with voice transmission warnings; c)  a continuous bleep is transmitted. (1)   12  An aircraft\u2019s heading is 070\u00ba (M) Variation 10\u00baE .   An NDB bears 200 relative.   The "
+        },
+        {
+          "title": "RMI will indicate:",
+          "content": " a)  260; b)  280; c)  270. (1) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 127",
+          "content": " 13.  The ILS localiser is calibrated for accuracy up to and inclusive of a distance of.  a)  25 NM; b)  18 NM; c)         35 NM. (1)  14.  The normal glidepath angle of an ILS is:  a)  5\u00ba; b)  3\u00ba; c)  4\u00ba. (1)  15.  An aircraft flying a constant heading with 8\u00ba left drift and is making good a track parallel to the centre line of an airway, but 15 NM off to the left of the centre line. "
+        },
+        {
+          "title": "The ADF reading while 30 NM short of a NDB on the airway, is:",
+          "content": " a)  002; b)  010; c)  358. (1)  16.  Radio Magnetic Indicators (RMI) combine and indicate information from separate sources on one dial, namely:  a)  only bearings from VOR and NDB facilities; b)  the  aircraft  heading  from  a  remote-reading  compass,  bearings  from "
+        },
+        {
+          "title": "VOR facilities and bearings from NDB facilities;",
+          "content": "c)  the true heading from a remote-reading compass, bearings from a VOR facility and a bearing from an NDB facility. (1)  17.  While on a heading of 210\u00ba (M) and tuned to a VOR, with 235 on the OBS, the "
+        },
+        {
+          "title": "TO/FROM indicator reads TO and the left/right needle is displaced close to the",
+          "content": "maximum left deflection position.   The approximate position of the aircraft in relation to the VOR is on radial.  a)  045; b)  235; c)  055. (2) 18.  The term \u201cMode\u201d when used in conjunction with ATC Surveillance Radar refers to:  a)  an omni-directional framed pulse interrogation at 1 030 MHZ, having the ability to trigger a reply from all aircraft within range;  b)  interrogation by a train of 12 pulses, spaced from 8-21 micro-seconds apart at 1 030 MHz in order to trigger a reply at 1 090 MHz from aircraft with the code selected;  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 128",
+          "content": "c)  a  directional  pulsed  interrogation  at  1  030  MHz  having  a  distinct characteristic of framed pulses, the purpose of which is to generate a reply from an airborne unit.  (1) 19.  The distance from a Vortac according to an Omega reading is 16 NM.   The aircraft is at a height of 18 228 feet.   The DME indication is:  a)  15,72 NM; b)  16,36 NM; c)  16,28NM. (2)  20.  Outbound from Upington on track for VWV with 7 degree right drift. In order to maintain the required QDR, the RBI tuned to UP, will indicate:  a)  187; b)  180; c)  173. (1)  21.  The glidepath angle for an ILS is 2,7 degrees.   The aeroplane\u2019s groundspeed is 115 KTS, IAS 110 KTS and the TAS is 120 KTS.   Using the 1:60 rule the rate of descent of the ILS is:  a)  517 FT/MIN; b)  495 FT/MIN; c)  540FT/MIN. (2)  22.  A  DME  transponder  with  a  fixed  delay  of  50  micro-seconds,  receives  an interrogating  signal  from  an  aircraft  285  micro-seconds  after  transmission, making the slant range to the aircraft read:  a)  23 NM; b)  46 NM; c)  42 NM  (2)  23.  Using Doppler, when the relative motion of a receiver away from a transmitter is 260 metres per second and the transmission frequency is 13 300 MHz, the doppler frequency shift is:  a)  11 527 Hz reducing; b)  1 153 KHz reducing; c)  1 773,4 Hz reducing. (4) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 129",
+          "content": " 24.  Using a Doppler Janus 4 been aerial system, having an aerial depression angle of  60  degrees  and  an  angle  of  40  degrees  between  azimuth  beams. "
+        },
+        {
+          "title": "Transmission on a frequency of 13 300 MHz when at a groundspeed of 1000",
+          "content": "km/hour, will produce a doppler shift in frequency of:  a)  23,15 KHz; b)  18,87 KHz; c)  42,875 KHz. (4)  25.  A bearing accuracy of \u00b1 3,5 degrees is guaranteed from each of two VOR\u2019s sited on the centre line of an airway 10 NM wide.   In order to ensure that aircraft correctly using these facilities remain within the airway at midpoint, the facilities may not be further apart than:  a)  84 NM; b)  168 NM; c)  210 NM. (2)  26.  Between Upington and Victoria West the aircraft is on radial 252 KMV where variation is 20 W.   At the aircraft variation is 21W.   From the aircraft\u2019s position the heading to steer towards KMV (zero wind) is:  a)  972 (T); b)  052 (T); c)  051 (T). (2)  27.  A particular VOR station is undergoing routine maintenance.   This is confirmed by.  a)  transmitting a series of dots after each identification signal; b)  the removal of the navigational feature; c)  the removal of the identification signal. (1)   28.  On a VOR the full deflection of the deviation needle left or right represents a departure from the selected radial of:  a)  5 degrees; b)  10 degrees; c)  2,5 degrees. (1)   29.  With reference to MLS, the angular measurement of the azimuth scan is related to:  a)  the difference between the angles subtended during the TO and FROM scans at the point of object illumination; b)  the azimuth angle at been interception and the mil scan point; c)  the time difference between the target illumination on the TO and FROM scans. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 130",
+          "content": "(1)  30.  If a signal of two hertz was transmitted for one second, the physical space occupied by the signal would be:  a)  300 000 000 M; b)  150 000 000 M; c)  600 000 000 M. (2)  31.  When using a VOR facility with 050 set on the OBS, the CDI needle is central, but the TO/FROM indication is inoperative.   If the OBS is now set to 060 and the needle is deflected to the right, the aircraft is on the:  a)  050 radial either flying away or towards the VOR; b)  230 radial flying towards to VOR; c)  050 or 230 radial depending on which side of the VOR the aircraft is.  (2)  32.  Two radio aids to navigation that may share a common receiving aerial, are:  a)  VOR and ADF; b)  ADF and Loran C; c)  ILS and ADF. (1)  33.  Full scale deviation of RNAV CDI in the approach mode is:  a)  1,25 NM; b)  2,50 NM; c)  5,00 NM. (1)   34.  When using RNAV in the approach mode, the distance between the parent "
+        },
+        {
+          "title": "VOR/DME and the final approach waypoint should not be greater than:",
+          "content": " a)  10 NM; b)  25 NM; c)  50 NM. (2)  35.  The maximum range of search radar is dependant on the:  a)  radio frequency; b)  pulse recurrence frequency; c)  pulse width. (1) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 131",
+          "content": " 36.  The minimum range of search radar is dependant on the:  a)  radio frequency; b)  pulse recurrence frequency; c)  pulse width. (1)  37.  The use of weather radar (ASR) when the aeroplane is on the ground is:  a)  prohibited; b)  permitted but used with extreme caution; c)  permitted in maintenance area only.  (1)   38.  The brilliance of a Cathode Ray Tube (CRT) display is controlled by the :  a)  1st and 3 rd anodes; b)  2nd anode; c)  grid. (2)  39.  On a Cathode Ray Tube using a horizontal time base, unwanted echoes or \u201cgrass\u201d can be reduced or removed from the screen by the;  a)  graphite coating; b)  X plates; c)  gain control.  (1) 40.  An X channel DME transponder will not reply to a Y channel interrogation on the same frequency because the:  a)  spacing between the interrogation pulses is different; b)  interrogation and reply frequencies are 63 MHz apart; c)  random PRF which is unique to each aircraft.  (1) 41.  The frequency band in which Secondary Surveillance Radar (SSR) operates is:  a)  VHF; b)  UHF; c)  SHF. (1) 42.  A carrier wave with amplitude of 5V is modulated by an audio frequency with amplitude of 3 V.   The depth of modulation is:  a)  40 %; b)  60 %; c)  167 %.  (2) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 132",
+          "content": "43.  To double the range of an NDB the transmission power must be increased by a factor of:  a)  2; b)  4; c)  8. (1) 44.  Selecting a lower HF /RT frequency results in:  a)  an increase of the critical angle; b)  an increase of the dead space; c)  a decrease of the skip distance. (2)  45.  Static interference increases with an:  a)  increase in frequency; b)  decrease in frequency; c)  decrease in wave length. (1)  46.  The bending of a radio wave by the Earth\u2019s surface is greatest on:  a)  VLF; b)  LF; c)  MF. (1)  47.  With frequency modulated transmissions the:  a)  amplitude is constant and the frequency varies; b)  frequency is constant and the amplitude varies; c)  amplitude and frequency vary. (1)  48.  With amplitude modulated transmission the:  a)  amplitude is constant and the frequency varies; b)  frequency is constant and the amplitude varies; c)  amplitude and frequency vary. (1)  49.  An aircraft\u2019s DME receiver will not accept replies to its own interrogations that are reflected from the ground or clouds, because of the:  a)  random PRF which is unique to each aircraft; b)  interrogation and reply frequencies being 63 MHz apart; c)  interrogation pulses being transmitted in pairs. (2) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 133",
+          "content": ""
+        },
+        {
+          "title": "Paper 2",
+          "content": "  1.  When using HF for communications over a specified distance, transmissions at night should be done on frequencies almost half of the optimum day frequency because:  a)  the ionosphere is lower at night requiring a higher critical angle which occurs at a lower frequency; b)  at night the reflection height increases and layer density decreases, using lower frequencies reduces the skip distance; c)  a lower frequency reduces the attenuation allowing the ground wave to have a greater range, so reducing the dead space.   2.  The magnetic component of a radio wave emitted from a vertical aerial, travels in the:  a)  vertical plane; b)  the horizontal plane; c)  vertical plane with the electrical component but ninety degrees out of phase.   3.  Super High Frequency (SHF) is utilised for:  a)  RADAR; b)  Communication; c)  ILS.   4.  If the wavelength is 3 cm, the frequency is:  a)  74 MHz; b)  100 GHZ; c)  10 000 MHz.   5.  The E layer in the ionosphere is also known as the:  a)  Appleton layer; b)  Kennelly-Heavyside layer; c)  Barrett layer.   6.  The following emergency frequencies are available for the use of aircraft in distress:  a)  8 364 kHz  500 MHz  121,5 MHz    and  243 MHz; b)  8 364 kHz  500 kHz  121,5 MHz    and  243 MHz; c)  2 182 MHz  500 MHz  121,5 MHz    and  243 MHz. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 134",
+          "content": " 7.  The following relative bearings are obtained from an NDB. Rel. bearing no 1:075. Rel bearing no 2: 090.  The time between bearings is 7,75 minutes, and the G/S is 130 "
+        },
+        {
+          "title": "KTS.  The time and distance to the beacon is:",
+          "content": " a)  31 MIN 67 NM; b)  67 MIN 31 NM; c)  116 MIN 252 NM.   8.  The frequencies normally used for NDB\u2019s are:  a)  200 MHz \u2013 800 MHz; b)  108 MHz \u2013 118 MHz; c)  202 kHz \u2013 455 kHz.   9.  The frequency band which is affected most by static, is:  a)  VHF; b)  VLF; c)  UHF.   10.  The wavelength of a radio wave transmission is:  a)  the number of cycles in one second; b)  the distance travelled during the transmission of one cycle; c)  the complete change of direction current.   11.  The Radio Magnetic Indicator (RMI) indicates:-  a)  uncompensated compass heading; b)  magnetic heading; c)  true heading.   12.  Fading of low frequency and medium frequency at night may be due to:  a)  poor receiver sensitivity and ionosphere attenuation; b)  simultaneous reception of sky and surface waves; c)  reception of space waves and atmospheric attenuation.  13.  When flying towards an NDB on a zero degrees relative bearing in a left crosswind, the result is that:  a)  the ground track curves to the downwind side of the NDB; b)  the ground track curves to the upwind side of the NDB; c)  the aircraft makes a slow but continuous turn to the right. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 135",
+          "content": " 14.  The frequency corresponding to a wavelength of 750 meters is:  a)  400 Hz; b)  400 MHz; c)  400 kHz.   15.  The frequency band of VOR equipment is from:  a)  112 to 117,95 MHz; b)  108 to 117,95 MHz; c)  109 to 121 MHz.   16.  The theoretical maximum range of a VOR in nautical miles is:  a)  1,25 times the square root of the transmitter height plus 1,25 times the square root of the receiver height.  b)  1,5 times the square root of the transmitter height plus 1,5 times the square root of the receiver height;  c)  1,15 times the square root of the receiver height plus 1,15 times the square root of the transmitter height.   17.  When  the  aircraft  heading  agrees  approximately  with  the  Omni-bearing  selector setting on a VOR indicator:  a)  fly toward the deviation needle provided FROM is indicated; b)  fly towards the deviation needle regardless of the TO-FROM indication; c)  fly away from the needle provided FROM is indicated.   18.  The VOR selector in an aircraft, heading 150 (M), is tuned to a facility.  With 170 on the  OBS  and  TO  indicated,  the  left/right  needle  is  displaced  very  close  to  the maximum  deflection  right,  indicating  that  the  aircraft\u2019s  magnetic  orientation  is approximately:  a)  south of the station b)  on radial 340 from the facility; c)  north of the VOR.   19.  The reference signal of a VOR has a sub-carrier wave.  The purpose of the sub- carrier wave modulation is to:  a)  provide for facility identification; b)  provide a datum to determine phase difference; c)  modulate the directional signal.   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 136",
+          "content": "20.  An aircraft is maintaining the 140 radial inbound to a VOR station with a drift of 8 degrees port.  Variation at the aircraft\u2019s position is 20W and at the VOR position 18W. "
+        },
+        {
+          "title": "The aircraft\u2019s magnetic heading is:",
+          "content": " a)  330 (M); b)  328 (M); c)  314 (M).   21.  The characteristics of the reference signal of a VOR transmitter are:  a)  amplitude modulated at 30 Hz and a rotating figure of eight radiation; b)  frequency modulated at 30 Hz and a Omni-directional radiation; c)  frequency modulated at 150 Hz and a conical radiation.   22.  Two VOR\u2019s, both at 200 feet and 161 NM apart, are positioned on the centreline of an airway.  The minimum altitude at maximum range that guarantees positive reception from both VOR\u2019s simultaneously is:  a)  13 150 feet; b)  2 526 feet; c)  3 157 feet.   23.  An aircraft is on a heading of 280 (M) and on a bearing of 090 (M) from the VOR.  The bearing that should be selected on the omni-bearing selector in order to centralise the "
+        },
+        {
+          "title": "VOR/ILS  left/right  deviation  needle  with  TO  on  the  TO/FROM  indicator,  is",
+          "content": "approximately;  a)  280; b)  270; c)  090.  24.  With reference to the MLS system operating technique, the angle signal format is based on:  a)  time division multiplexing; b)  successive passes of highly powered modulated narrow fan beams; c)  sequential differential pulse shift keying (DPSK)  25.  In the transmission of MLS signals, the preamble starts with an unmodulated carrier that lasts for 832 microseconds, and this is called:  a)  the synchronisation code; b)  the binary number; c)  the acquisition signal.  26.  DME/P is compatible with DME/N, but is an integral element of the MLS, providing accuracies to within \u00b1 40 meters in the final approach area at:  a)  22 NM from the ground transponder; b)  7 NM from the transponder site; c)  2 NM from the threshold. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 137",
+          "content": "27.  The VOR  monitor will warn the  control point and possibly switch  off the station radiation with an occurrence of:  a)  a change in bearing information in excess of 10 degrees; b)  a reduction of 15 percent in bearing information; c)  a change in bearing information in excess of 1 degree.   28.  ILS transmission identification takes place on:  a)  glide path; b)  localizer; c)  both (a) and (b)   29.  The approximate height of an airplane maintaining a 3 degree glideslope when over the outer marker sited 4,3 NM from the landing threshold, calculated by using the 1:60 rule is;  a)  1 370 feet; b)  1 307,2 feet; c)  3 186,4 feet.   30.  An ILS category 1 localizer coverage extends from the transmitter and 105 meters on either side of the centreline at the threshold to a distance of:  a)  25 NM; b)  35 NM; c)  45 NM.   31.  With reference to Airborne Weather Radar, the object of the iso-echo contour system is to:  a)  progressively reduce the radar gain as the aircraft approaches a cloud; b)  indicate the areas in which cloud penetration is advisable; c)  indicate the areas in a cloud where severe turbulence is present.   32.  For good target resolution the Weather Radar beam width must be kept as:  a)  constant as possible; b)  wide as possible; c)  narrow as possible.   33.  A DME transponder with a fixed delay of 50 microseconds, receives an interrogating signal from an aircraft 285 microseconds after transmission, making the slant range to the aircraft read:  a)  23 NM; b)  46 NM; c)  42 NM. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 138",
+          "content": "  34.  If  single  coded  identification  is  received  only  once  every  thirty  seconds  from  a "
+        },
+        {
+          "title": "VOR/DME station, it means:",
+          "content": " a)  VOR/DME components are both operative but voice identification is inoperative: b)  the DME component is operative; c)  the VOR component is operative.   35.  VOR \u201cB\u201d is situated at a distance of 120 NM from VOR \u201cA\u201d on radial 233.  An aircraft at G/S 300 knots, is approaching VOR \u201cA\u201d on a track of 323 (M) in zero wind, and the "
+        },
+        {
+          "title": "VOR at 8 indicates 278 on the aircraft\u2019s RMI.  Assuming variation is constant, the time",
+          "content": "to reach B will be:  a)  24 minutes; b)  34 minutes; c)  40 minutes.  36.  With reference to a three station Loran C chain.  The position of an aircraft using the chain is determined by:  a)  measuring the coding delays between the master and secondary stations. b)  determining the group repetition interval (GRI); c)  the time differences between the arrival of the master and secondary signals.   37.  A four beam Janus aerial system in an aircraft operating on a frequency of 13 500 "
+        },
+        {
+          "title": "MHz,  at  60  degrees  angle  of  depression  and  an  azimuth  angle  of  60  degrees,",
+          "content": "measures a frequency shift of 9,5 kHz at a groundspeed of:  (a)  237 knots; (b)  410 knots; (c)  439 knots.  38.  Using a Doppler Janus 4 beam aerial system, having an aerial depression angle of 60 degrees and an angle of 40 degrees between azimuth beams.  Transmission on a frequency of 13 300 MHz when at a groundspeed of 1000 km/hour, will produce a "
+        },
+        {
+          "title": "Doppler shift in frequency of:",
+          "content": " a)  23,15 kHz; b)  18,87 kHz; c)  42,875 kHz.   "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 139",
+          "content": ""
+        },
+        {
+          "title": "Paper 3",
+          "content": " 1.  The frequency at which radio signals begin to penetrate the ionosphere and escape into space is called the maximum usable frequency (MUF), therefore it is undesirable to use the higher frequency portion of the radio spectrum (3 \u2013 30 MHz) for night long range communications because:  a)  during periods of low sunspot activity the MUF can drop to as low as 5 MHz;  b)  the ionosphere penetration is greater at the higher frequencies causing signal distortion and atmospheric interference;  c)  broadcast stations operating at high power cause serious interference.  2.  The Very High Frequency band is:  a)  300 \u2013 3 000 MHz; b)  30 \u2013 300 MHz; c)  300 \u2013 3 000 KHz. (1)  3.  The speed of light in metres / second is:  a)  three times (ten to the power of eight); b)  three times (ten to the power of seven); c)  three times (ten to the power of six). (1)  4.  Hertz is the number of:  a)  revolutions per minute; b)  cycles per minute; c)  cycles per second. (1)  5.  Signals at frequencies of 30 MHz and above are;  a)  reflected by the ionosphere in the form of skywaves; b)  not sufficiently refracted by the ionosphere to return to the earth\u2019s surface; c)  refracted by the ionosphere but are not usable due to the loss of energy as a result of the distance to and from the ionosphere. (1)  6.  Two advantages of single side band transmission are:  a)  broader bandwidth and transmitting power concentrated in two frequencies instead of three; b)  narrower bandwidth and transmitting power concentrated in two frequencies instead of three; c)  narrower bandwidth and transmitting power concentrated in three frequencies instead of two.  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 140",
+          "content": "7.  After the 180 degrees ambiguity is resolved in an ADF, a cardioid is produced.   This cardioid has:  a)  two maxima and no nulls; b)  two nulls and one maximum, giving the direction of the station; c)  one null giving the direction of the station. (1)  8.  One use of an NDB is:  a)  as navigational aid; b)  to conduct precision approach; c)  to obtain a radial from an NDB facility. (1)  9.  A factor affecting the range of NDB transmission is:  a)  frequency; b)  quadrantal error; c)  coastal refraction. (1) 10.  Within what frequency range does the localizer transmitter of the ILS operate?  a)  108.10 to 111.95 MHZ b)  108.10 to 118.10 MHZ d)  108.10 to 117.95 MHZ  11.  If a VOR transmitter\u2019s elevation is 100 FT and an aircraft\u2019s altitude is 12 500 FT, the maximum range that the aircraft can receive the VCOR signals is:  a.  152,5 NM; b.  170 NM; c.  185 NM. (3)  12.  At a given position the variable phase of a VOR transmission lags the reference phase by 60 degrees, making the bearing to the facility:  a)  060 degrees; b)  240 degrees; c)  300 degrees. (2) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 141",
+          "content": " 13.  A VOR ground station transmits two separate signals both on the same frequency, operating as follows.  a)  the reference signal is omni-directional, frequency modulated at the transmitter and is combined with the directional signal which is amplitude modulated at the transmitter;  b)  a sub carrier wave at 9 960 Hz frequency modulated at 30 Hz, transmitted from a fixed aerial combined with a variable signal transmitted from a rotating aerial frequency modulated at 30 Hz.  c)  an omni-directional CW transmission frequency modulated at the transmitter which combines with a transmitted field pattern rotating at 30 revolutions per second, to give an amplitude modulated signal at the receiver.  14.  A VOR cardioid is also called a:  a)  limacon; b)  rotating signal; c)  result of the loop aerial. (1)  15.  When the main VOR transmitter is switched off and a standby transmitter comes into operation, bearing information may be unreliable, and as a warning:  a)  no identification signal is transmitted; b)  identification  signals  are  transmitted  together  with  voice  transmission warnings; c)  a continuous bleep is transmitted. (1)  16.  With reference to MLS, the angular measurement of the azimuth scan is related to:  a)  the difference between the angles subtended during TO and FROM scans at the point of object illumination. b)  the azimuth angle at beam interception and the mid scan point; c)  the time difference between the target illumination on the TO and FROM scans.  17.  The type of emission used for localizer and glide path transmission is:  a)  A1A; b)  A2A; c)  A3A. (1)   18.  The ILS localizer is calibrated for accuracy up to and inclusive of a distance of:  a)  25 NM; b)  10 NM; c)  17 NM. (1) "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 142",
+          "content": " 19.  The monitory system of a Category 1, three degree glide slope, Instrument Landing "
+        },
+        {
+          "title": "System will give warning of degraded performance with:",
+          "content": " a)  a glide slope angle of more than 0,225 degrees; b)  a localiser shift of 30 feet from the centre line; c)  a reduction in power output of 40 percent of either transmitter. (1)  20.  At a distance of 3 NM from the landing threshold a full scale deflection on the glide path pointer indicating fly up in observed.   Using the 1 in 60 rule, the approximate height below the glide path is;  a)  350 feet; b)  235 feet; c)  213 feet. (3) 21.  In the MLS transmission, the beam scan identification and time reference are provided by:  a)  the shifting through 180 degrees of the band C carrier; b)  the preamble; c)  the differential phase shift. (1)  22.  With  reference  to  MLS,  the  typical  scanning  beam  has  a  scan  rate  of  20 degrees/millisecond and an antenna beam of 2 degrees, making the pulse width:  a)  0,1 milli seconds; b)  10 micro seconds c)  10 milli seconds. (3)  23.  The normal glidepath angle of an ILS is:  a)  5 degrees; b)  3 degrees; c)  4 degrees. (1) 24.  In Airborne Search Radar (ASR), resolution and distortion of clouds and ground features is related to beam width and pulse length for the following reasons:  a)  as the beam widens with range a single object appears to be double its size at twice the range;  b)  an object reflects an echo for the time duration of the pulse and is presented on a screen measuring range, the time base of which is halved and so is the size of the image.  c)  on the time base, the pulse extends the PPI image by a distance equivalent to one half of the pulse length. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 143",
+          "content": " 25.  A single pulse of Primary Radar, transmitting on a frequency of 12 500 MHz, is of 10 micro-seconds duration, making the physical length of the pulse:  a)  25 centimetres; b)  3 kilometres; c)  41,66 metres. (3) 26.  The function of the anode system of a electrostatic CRT is to:  a)  accelerate the electron beam and focus the image on the screen; b)  prevent electron divergence and control the brilliance of the display; c)  direct the stream of electrons in order to prevent a build up of electrons sufficiently strong to repel the beam. (1)   27.  In a radar installation designed to operate to a maximum range of 180 NM, three tenths of the cycle is used in the flyback.   The pulse recurrence frequency required is:  a)     315 pps; b)  3 175 pps; c)  2 222 pps. (3) 28.  When  using  Airborne  Search  Radar  (ASR),  the  distortion  of  shapes  and  sizes portrayed on the radar screen is due to:  a)  the use of cosecant beam for mapping; b)  the radial beam being portrayed on a linear screen; c)  the beam adding one half of the beam width distance to either side of the portrayed object.  29.  The distance from a Vortac according to an Omega reading is 16 NM.   The aircraft is at a height of 18 228 feet.   The DME indication is:  a)  15,72 NM; b)  16,36 NM; c)  16,27 NM. (3) 30.  Using Airborne Doppler pulsed radar at high altitudes may cause the doppler to unlock and go to memory due to:  a)  attenuation of the transmitted signal by the surface below the aircraft causing the reflected signal to be below the threshold level; b)  the  scattering  of  the  signal  at  the  surface,  causing  ground  returns  from different angles to cancel each other out; c)  the fact that the time taken for the signal to reach the ground and return may equal the time between pulses. "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 144",
+          "content": "           "
+        }
+      ]
+    },
+    {
+      "title": "ANNEX B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "ANSWERS TO",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "QUESTIONS",
+      "content": "   ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 145",
+          "content": " "
+        },
+        {
+          "title": "Chapter 1",
+          "content": "  1.A C         2. B           3. C             4. B            5. A  6. B         7. C           8. B             9. A            10. C  11. B       12. B          13. C           14. B          15. A  16. C      17. B          18. A           19. C           20. B  21. A      22. A         23. A           24. A           25. C  26. C      27. C         28. C           29. C           30. C  "
+        }
+      ]
+    },
+    {
+      "title": "31. B       32. C         33. A",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "Chapter 3",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ADF GENERAL QUESTIONS",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "1.  B                      2.  A                      3.  C",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "4.  B                      5.  A                      6.  B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "7.  C                      8.  C                      9.  C",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "10. A                    11. A                     12. B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "13. A                    14. C                     15. B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "16. C                    17. C                     18. A",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "19. B                    20. B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "RMI QUESTIONS",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "1. C               2. A              3. B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "5. B               6. C              7. B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 146",
+          "content": ""
+        },
+        {
+          "title": "Chapter 4",
+          "content": " 1.  B                 2.  C                  3.  B                  4.  C  5.  C                 6.  B                  7.  A                  8.  A  9.  B                 10. C                 11. C                 12. C  13. A                14. B                 15. B                 16. B  17. C                18. B                 19. C                 20. B  21. C                22. A                 23. C                 24. B  25. A                26. C                 27. A                 28. B  29. B                30. C                 31. A                 32. C  "
+        }
+      ]
+    },
+    {
+      "title": "33. C",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "34. B",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Detailed answers:",
+          "content": "29. "
+        }
+      ]
+    },
+    {
+      "title": "XYZ",
+      "content": " 90\u0652  120n 120n  45\u0652  45\u0652 ",
+      "subsections": []
+    },
+    {
+      "title": "KLM  QDM 270",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Distance",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "R225 R135",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "X\u00b2 = 120\u00b2 + 120\u00b2",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "X\u00b2 = 28800",
+      "content": "",
+      "subsections": [
+        {
+          "title": "X = 169.7nm",
+          "content": " "
+        },
+        {
+          "title": "Sin 45 =  120",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "X =   169.7nm",
+          "content": " "
+        },
+        {
+          "title": "Groundspeed  =   300kts  (TAS 300 + 0kt wind)",
+          "content": ""
+        },
+        {
+          "title": "Time     =  34 mins",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ETA    =  1304",
+      "content": "30. ",
+      "subsections": [
+        {
+          "title": "Heading 244 (M)  Variation 15 W  Heading 229 (T)  TAS 230 Kts",
+          "content": " "
+        },
+        {
+          "title": "Radial 252  Variation 15 W  Track 237 (T)  GS 252 Kts",
+          "content": " "
+        },
+        {
+          "title": "DME 63nm in 15 minutes = GS 252",
+          "content": ""
+        },
+        {
+          "title": "W/V 110/40 by navigational computer",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 147",
+          "content": " "
+        },
+        {
+          "title": "Chapter 5",
+          "content": " 1. B      2. C      3. C      4. B  5. A      6. B      7. B      8. A  9. C        10. B      11. A      12. C  13. A      14. B      15. C      16. A  17. A      18. B      19. C      20. B  "
+        },
+        {
+          "title": "Chapter 6",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "1.  B                       2.  C                   3.  C",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "4.  A                       5.  A                   6.  B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "7.  C                       8.  A                   9.  B",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "Chapter 7",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "1.  C               2. B               3. A",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "4.  C               5. B               6.  B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "7.  A",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Chapter 8",
+          "content": " 1   A    2   B    3   B    4   C  "
+        },
+        {
+          "title": "Chapter 9",
+          "content": " 1  A  2  B  3  C  4  B 5  A  6  C  7  B  8  A "
+        }
+      ]
+    },
+    {
+      "title": "9  C  10  C  11  A",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 148",
+          "content": ""
+        },
+        {
+          "title": "Chapter 10",
+          "content": " 1  B  2  A  3  B  4  C 5  B  6  B  7  B  8  C 9  B  10  A  11  B  12  B 13  A  14  C  15  A  16  A "
+        }
+      ]
+    },
+    {
+      "title": "17  B  18  C  19  B",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Chapter 11",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "1. B      2. A      3.B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "4. C      5. A      6. B",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "7. C      8. A      9. C",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "10. B",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "Chapter 12",
+          "content": " 1  C  3  B  5  C  7  C  2  A  4  A  6  B  8  A   "
+        },
+        {
+          "title": "Chapter 13",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "1.  C  2.  B  3.  D",
+      "content": "  ",
+      "subsections": [
+        {
+          "title": "Chapter 14",
+          "content": " "
+        },
+        {
+          "title": "Worked examples",
+          "content": " 1.  Fd=   v  =  480 x 6080 x 12 x 2.54 \u03bb      3600x5    =  4942hz  =  4.942 khz   "
+        },
+        {
+          "title": "GS 480kts converted to cms/sec as wavelength in cms",
+          "content": "  2.  Wavelength =   300 000000 10000mhzx 1000x1000  =  0.03m  fd=  v  =  360m \u03bb    0.03m  =  12000hz =  12khz   3.  Fd  =  v  =  450x6080x12x2054 \u03bb           3600x3.5  =  6619hz  =  6.619khz "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 149",
+          "content": "4.  Wavelength   =  300 000 000 13500mhzx1000x1000  =  0.0222m   fd  =   2Vcos\u03b8  =  2x440x6080x12x2054xcos60 \u03bb  3600x0.0222mx100cms  fd  =  10192hz =  10.192khz   5.  Wavelength   =  300 000 000 8700mhz x 1000 x 1000  =  0.0345m   fd  =  4Vcos\u03b8cos\u03c6  =  4Vcos60cos30 \u03bb           0.0345m  =  12500hz  4 V cos 60 cos 30     =  12500 x 0.0345m  v  =  12500 x 0.0345m 4cos 60 cos 30 v  =  249 m/sec =  896.4 kmh  =  483.7kt 6.    "
+        }
+      ]
+    },
+    {
+      "title": "ASK LEONARD EDWARDS",
+      "content": "0113153992      7.    ",
+      "subsections": []
+    },
+    {
+      "title": "ASK LEONARD EDWARDS",
+      "content": "0113153992      ",
+      "subsections": [
+        {
+          "title": "Questions",
+          "content": " 1.  A    2.  C   3.  B  4.  B  5.  B  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 150",
+          "content": " "
+        },
+        {
+          "title": "Chapter 15",
+          "content": " "
+        },
+        {
+          "title": "Answers to problems",
+          "content": "1. "
+        },
+        {
+          "title": "B   067\u00b0 fm",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "25 DME",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "CAT",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "A",
+      "content": "  30 DME    C   118 fm  a\u00b2 = b\u00b2   +   c\u00b2  -  2bc COS A a\u00b2 = 30\u00b2 + 25\u00b2  -  2 x 30 x 25 COS 51 a  =  24.1 nm  2. ",
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "48 DME",
+      "content": "y a  ",
+      "subsections": [
+        {
+          "title": "A        v 132",
+          "content": "230 fm 050 to               Y  20 "
+        },
+        {
+          "title": "X  295 to",
+          "content": "115 fm "
+        }
+      ]
+    },
+    {
+      "title": "SIN A     =    20/132    A  =  8.71\u00b0",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "VAX  =  65\u00b0 (115 \u2013 050)",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "VAY  =  56.29\u00b0 (65 \u2013 8.71)",
+      "content": "",
+      "subsections": [
+        {
+          "title": "In triangle AVY  a\u00b2  =  v\u00b2 + y\u00b2 - 2vy COS A",
+          "content": "a\u00b2  =  132\u00b2  +  48\u00b2  -  2 x 132 x 48 COS 56.29 a   =  112.67 nm "
+        },
+        {
+          "title": "In triangle AVY",
+          "content": "y  =     a      48  =  112.67   y = 20.76\u00b0 "
+        }
+      ]
+    },
+    {
+      "title": "SIN Y    SIN A    SIN Y",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "Angle V = 180\u00b0 - 20.76\u00b0 - 56.29\u00b0  =  102.95\u00b0  or 103\u00b0",
+          "content": ""
+        },
+        {
+          "title": "ACFT radial is = 230 \u2013 103 = RAD 127\u00b0",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 151",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3.            CHW    A",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "100    120 DME",
+      "content": "80 DME      b   c a        C  ",
+      "subsections": []
+    },
+    {
+      "title": "B     65\u00b0",
+      "content": "030 to 210 fm ",
+      "subsections": [
+        {
+          "title": "X  275 to",
+          "content": "295 fm "
+        },
+        {
+          "title": "In triangle ABC  a\u00b2  =  b\u00b2  c\u00b2  -2bc COS A",
+          "content": "a\u00b2  =  120\u00b2  80\u00b2  -2 x 120 x 80 COS 100 a  =  155.35 nm "
+        },
+        {
+          "title": "In triangle ABC",
+          "content": "a    =      b    155.35   =  120 SIN A      SIN B    SIN 100      SIN B  "
+        },
+        {
+          "title": "Angle ABC  =  49.53\u00b0",
+          "content": " "
+        },
+        {
+          "title": "In triangle BCX (x=90\u00b0)  angle CBX = 65 \u2013 49.53  =  15.47\u00b0",
+          "content": " "
+        },
+        {
+          "title": "SIN 15.47   =    dist off  dist off  =  41.44 nm",
+          "content": "155.35  4. "
+        }
+      ]
+    },
+    {
+      "title": "NEV",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "78\u00b0    115 DME",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "DME 63    c       b",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "A        275TO",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "095FM",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "203FM            X    125FM",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "023TO",
+      "content": "",
+      "subsections": [
+        {
+          "title": "In triangle ABC",
+          "content": "a\u00b2  =  b\u00b2  +  c\u00b2  - 2bc COS A a\u00b2  =  115\u00b2  +  63\u00b2  - 2 x 115 x 63 COS 78 a  =  119.09 nm  "
+        },
+        {
+          "title": "In triangle ABC",
+          "content": " a  =      b    119.09   =  115    angle ABC = 70.83 SIN A    SIN B    SIN 78     SIN B  "
+        }
+      ]
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 152",
+          "content": ""
+        },
+        {
+          "title": "Angle ABX  =  72  (095 from \u2013 023 to)",
+          "content": ""
+        },
+        {
+          "title": "Angle ABC  =  70.83",
+          "content": ""
+        },
+        {
+          "title": "Angle CBX  =  1.17",
+          "content": " "
+        },
+        {
+          "title": "The aircraft is 1.17\u00b0 from the inbound track of 275M  As the aircraft is 119.09 nm from WPT5",
+          "content": "the CDI left/right will show an angle.  (greater than 100nm).  "
+        },
+        {
+          "title": "On a 5 dot CDI, 1 dot = 2\u00b0.  \u00bd 1.17 = .585 dots fly left.",
+          "content": " "
+        },
+        {
+          "title": "Answers to questions",
+          "content": " 1. A  2. C  3. B  4. C  5. A  6. A  7. B   4.   "
+        }
+      ]
+    },
+    {
+      "title": "C",
+      "content": "b   a ",
+      "subsections": []
+    },
+    {
+      "title": "A  VORTAC",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "B",
+      "content": "c ",
+      "subsections": [
+        {
+          "title": "Waypoint",
+          "content": " "
+        },
+        {
+          "title": "Use cosine rule:",
+          "content": " a\u00b2  =  b\u00b2+c\u00b2-2bc-cosA =  55\u00b2+35\u00b2-(2x55x35xcos55) a  =  45nm  "
+        },
+        {
+          "title": "Use sine rule:",
+          "content": "a  =  b sin A    sin B  45  =  55 sin55    sinB  "
+        }
+      ]
+    },
+    {
+      "title": "B  =  87\u0652",
+      "content": " ",
+      "subsections": [
+        {
+          "title": "B is on radial 245 then the vortac is on (245-180) 065 radial from the waypoint.",
+          "content": ""
+        },
+        {
+          "title": "A/c is on a radial (angle B) 87\u0652 left, 065-87 = 338radial",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "VORTAC",
+      "content": "c ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 153",
+          "content": " 5. b  A  "
+        },
+        {
+          "title": "B  Waypoint",
+          "content": " "
+        },
+        {
+          "title": "C  a",
+          "content": " (cid:52)  b\u00b2   = a\u00b2+c\u00b2-2accosB =140\u00b2+25\u00b2-2x140x25xcos58 b  =128.51nm  b  =  a sinB    sinA 129  =  140 sin58    sinA "
+        }
+      ]
+    },
+    {
+      "title": "A  =  67\u0652",
+      "content": "140 + 67 = 207\u0652 radial    6.   ",
+      "subsections": []
+    },
+    {
+      "title": "A",
+      "content": "  ",
+      "subsections": []
+    },
+    {
+      "title": "R340",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "R080",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "C",
+      "content": "113nm  100nms   ",
+      "subsections": []
+    },
+    {
+      "title": "R310",
+      "content": " 100\u00b0    ",
+      "subsections": []
+    },
+    {
+      "title": "B",
+      "content": " a\u00b2  = b\u00b2 + c\u00b2 - 2 bc Cos A = 75\u00b2 + 100\u00b2 - 2 (75 x 100) Cos 100\u00b0 = 135 nm 135 Tan 10\u00b0 = 23.8 nm  ",
+      "subsections": [
+        {
+          "title": "Chapter 16",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "1. A      2. B      3.A",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "4. B      5. C   6. C",
+      "content": " ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 154",
+          "content": ""
+        },
+        {
+          "title": "Paper 1",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "1.  B  41.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "2.  C  42.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "3.  C  43.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "4.  A  44.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "5.  A  45.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "6.  B  46.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "7.  B  47.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "8.  A  48.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "9.  C  49.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "10.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "11.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "12.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "13.  B  (10 NM)",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "14.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "15.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "16.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "17.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "18.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "19.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "20.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "21.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "22.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "23.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "24.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "25.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "26.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "27.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "28.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "29.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "30.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "31.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "32.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "33.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "34.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "35.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "36.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "37.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "38.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "39.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "40.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 155",
+          "content": ""
+        },
+        {
+          "title": "Paper 2",
+          "content": " "
+        }
+      ]
+    },
+    {
+      "title": "1.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "2.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "3.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "4.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "5.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "6.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "7.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "8.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "9.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "10.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "11.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "12.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "13.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "14.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "15.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "16.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "17.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "18.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "19.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "20.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "21.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "22.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "23.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "24.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "25.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "26.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "27.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "28.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "29.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "30.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "31.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "32.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "33.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "34.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "35.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "36.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "37.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "38.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 156",
+          "content": ""
+        },
+        {
+          "title": "Paper 3",
+          "content": "  "
+        }
+      ]
+    },
+    {
+      "title": "1.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "2.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "3.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "4.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "5.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "6.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "7.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "8.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "9.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "10.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "11.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "12.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "13.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "14.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "15.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "16.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "17.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "18.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "19.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "20.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "21.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "22.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "23.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "24.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "25.  B",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "26.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "27.  A",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "28.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "29.  C",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "30.  C",
+      "content": "                    ",
+      "subsections": []
+    },
+    {
+      "title": "ATP RADIO AIDS    FLIGHT TRAINING COLLEGE",
+      "content": "",
+      "subsections": []
+    },
+    {
+      "title": "ATP DOC 3",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Revision : 1/1/2001    Version 7",
+          "content": ""
+        },
+        {
+          "title": "Page 157",
+          "content": ""
+        }
+      ]
+    }
+  ]
+};
