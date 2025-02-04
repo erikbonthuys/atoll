@@ -1,4 +1,4 @@
-export const manual = {
+{
   "sections": [
     {
       "title": "ATP",
@@ -8990,4 +8990,4 @@ export const manual = {
       ]
     }
   ]
-};
+}
